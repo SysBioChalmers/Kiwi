@@ -1,0 +1,27 @@
+v0.1.0, 2014-07-08 -- Initial release.
+v0.1.1, 2014-07-10 -- Changed argument flags.
+v0.1.2, 2014-07-10 -- Updated README.txt.
+v0.1.3, 2014-07-10 -- Updated README.txt.
+v0.2.0, 2014-07-11 -- Updated to fit a distribution structure.
+v0.2.1, 2014-07-11 -- Added Demo.
+v0.2.2, 2014-07-11 -- Fixed Demo bugs.
+v0.2.3, 2014-07-11 -- Fixed Demo bugs.
+v0.2.4, 2014-07-11 -- Updated README.txt.
+v0.2.5, 2014-07-11 -- Updated drawHeatmap in functions.py.
+v0.2.6, 2014-08-15 -- Fixed bug in import GSC file.
+v0.2.7, 2014-08-18 -- Fixed typos in documentation, added argument sae, removed
+                      lumping of gene-sets.
+v0.2.8, 2014-08-18 -- Fixed verbose
+v0.2.9, 2014-10-30 -- Updated function to display all duplicate mappings in gene name conversions
+v0.2.10, 2015-03-03 -- Added parameter "lmp". Fixed bug in import GSC file.
+v0.2.11, 2015-03-03 -- Changed default for "lmp".
+v0.2.12, 2015-03-03 -- Fixed bug in warnings handling.
+v0.2.13, 2015-03-03 -- Changed error handling. Changed normalization factor for color coding
+v0.2.14, 2015-03-03 -- Fixed bug on normalization factor
+v0.2.15, 2015-03-04 -- Revised directionality score
+v0.2.16, 2015-03-04 -- Stabilized directionality score
+v0.2.17, 2015-03-04 -- Fixed inline comments
+v0.2.18, 2015-03-10 -- Fixed stabilization of heatmap values
+v0.2.19, 2015-03-11 -- Fixed correct handling of non-piano GSS files
+v0.3.0, 2015-03-11 -- Updated the colorbar for non-piano files to reflect the p-value
+v0.3.1, 2015-03-13 -- Removed argument prm since it is no longer used

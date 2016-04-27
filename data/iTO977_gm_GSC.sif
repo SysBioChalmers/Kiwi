@@ -1,0 +1,6195 @@
+oxaloacetate[c]	gm	YLR027C
+L-glutamate[c]	gm	YLR027C
+L-aspartate[c]	gm	YLR027C
+2-oxoglutarate[c]	gm	YLR027C
+ATP[c]	gm	YGR124W
+L-aspartate[c]	gm	YGR124W
+L-glutamine[c]	gm	YGR124W
+H2O[c]	gm	YGR124W
+AMP[c]	gm	YGR124W
+L-asparagine[c]	gm	YGR124W
+L-glutamate[c]	gm	YGR124W
+diphosphate[c]	gm	YGR124W
+ATP[c]	gm	YPR145W
+L-aspartate[c]	gm	YPR145W
+L-glutamine[c]	gm	YPR145W
+H2O[c]	gm	YPR145W
+AMP[c]	gm	YPR145W
+L-asparagine[c]	gm	YPR145W
+L-glutamate[c]	gm	YPR145W
+diphosphate[c]	gm	YPR145W
+S-adenosyl-L-methionine[c]	gm	YLL062C
+homocysteine[c]	gm	YLL062C
+S-adenosyl-L-homocysteine[c]	gm	YLL062C
+L-methionine[c]	gm	YLL062C
+S-adenosyl-L-methionine[c]	gm	YPL273W
+homocysteine[c]	gm	YPL273W
+S-adenosyl-L-homocysteine[c]	gm	YPL273W
+L-methionine[c]	gm	YPL273W
+pyruvate[c]	gm	YDR111C
+L-glutamate[c]	gm	YDR111C
+L-alanine[c]	gm	YDR111C
+2-oxoglutarate[c]	gm	YDR111C
+oxaloacetate[m]	gm	YKL106W
+L-glutamate[m]	gm	YKL106W
+L-aspartate[m]	gm	YKL106W
+2-oxoglutarate[m]	gm	YKL106W
+coenzyme A[m]	gm	YAR035W
+O-acetylcarnitine[m]	gm	YAR035W
+acetyl-CoA[m]	gm	YAR035W
+carnitinium[m]	gm	YAR035W
+pyruvate[m]	gm	YLR089C
+L-glutamate[m]	gm	YLR089C
+L-alanine[m]	gm	YLR089C
+2-oxoglutarate[m]	gm	YLR089C
+oxaloacetate[p]	gm	YLR027C
+L-glutamate[p]	gm	YLR027C
+L-aspartate[p]	gm	YLR027C
+2-oxoglutarate[p]	gm	YLR027C
+acetyl-CoA[p]	gm	YML042W
+carnitinium[p]	gm	YML042W
+coenzyme A[p]	gm	YML042W
+O-acetylcarnitine[p]	gm	YML042W
+H2O[c]	gm	YPR184W
+glycogen[c]	gm	YPR184W
+alpha-D-glucose[c]	gm	YPR184W
+NAD(+)[c]	gm	YBR149W
+D-arabinose[c]	gm	YBR149W
+NADH[c]	gm	YBR149W
+D-arabinono-1,4-lactone[c]	gm	YBR149W
+NAD(+)[c]	gm	YMR041C
+D-arabinose[c]	gm	YMR041C
+NADH[c]	gm	YMR041C
+D-arabinono-1,4-lactone[c]	gm	YMR041C
+NAD(+)[c]	gm	YAL060W
+(R,R)-2,3-butanediol[c]	gm	YAL060W
+NADH[c]	gm	YAL060W
+(R)-acetoin[c]	gm	YAL060W
+UDP-glucose[c]	gm	YPR159W
+1,6-beta-D-glucan[c]	gm	YPR159W
+UDP[c]	gm	YPR159W
+UDP-glucose[c]	gm	YGR143W
+1,6-beta-D-glucan[c]	gm	YGR143W
+UDP[c]	gm	YGR143W
+NADPH[c]	gm	YOL151W
+methylglyoxal[c]	gm	YOL151W
+NADP(+)[c]	gm	YOL151W
+L-lactaldehyde[c]	gm	YOL151W
+D-lactate[c]	gm	YEL071W
+H(+)[c]	gm	YEL071W
+ferricytochrome c[m]	gm	YEL071W
+pyruvate[c]	gm	YEL071W
+H(+)[m]	gm	YEL071W
+ferrocytochrome c[m]	gm	YEL071W
+D-lactate[c]	gm	YJR048W
+H(+)[c]	gm	YJR048W
+ferricytochrome c[m]	gm	YJR048W
+pyruvate[c]	gm	YJR048W
+H(+)[m]	gm	YJR048W
+ferrocytochrome c[m]	gm	YJR048W
+D-lactate[c]	gm	YDL178W
+H(+)[c]	gm	YDL178W
+ferricytochrome c[m]	gm	YDL178W
+pyruvate[c]	gm	YDL178W
+H(+)[m]	gm	YDL178W
+ferrocytochrome c[m]	gm	YDL178W
+H2O[c]	gm	YLR307W
+chitin[c]	gm	YLR307W
+acetate[c]	gm	YLR307W
+chitosan[c]	gm	YLR307W
+H2O[c]	gm	YLR308W
+chitin[c]	gm	YLR308W
+acetate[c]	gm	YLR308W
+chitosan[c]	gm	YLR308W
+sn-glycerol 3-phosphate[c]	gm	YER062C
+H2O[c]	gm	YER062C
+glycerol[c]	gm	YER062C
+phosphate[c]	gm	YER062C
+sn-glycerol 3-phosphate[c]	gm	YIL053W
+H2O[c]	gm	YIL053W
+glycerol[c]	gm	YIL053W
+phosphate[c]	gm	YIL053W
+beta-D-fructofuranose 1,6-bisphosphate[c]	gm	YLR377C
+H2O[c]	gm	YLR377C
+beta-D-fructofuranose 6-phosphate[c]	gm	YLR377C
+phosphate[c]	gm	YLR377C
+isocitrate[c]	gm	YER065C
+glyoxylate[c]	gm	YER065C
+succinate[c]	gm	YER065C
+isocitrate[c]	gm	YPR006C
+glyoxylate[c]	gm	YPR006C
+succinate[c]	gm	YPR006C
+ATP[c]	gm	YKR097W
+oxaloacetate[c]	gm	YKR097W
+ADP[c]	gm	YKR097W
+phosphoenolpyruvate[c]	gm	YKR097W
+CO2[c]	gm	YKR097W
+ATP[c]	gm	YBR218C
+pyruvate[c]	gm	YBR218C
+CO2[c]	gm	YBR218C
+H2O[c]	gm	YBR218C
+ADP[c]	gm	YBR218C
+oxaloacetate[c]	gm	YBR218C
+phosphate[c]	gm	YBR218C
+ATP[c]	gm	YGL062W
+pyruvate[c]	gm	YGL062W
+CO2[c]	gm	YGL062W
+H2O[c]	gm	YGL062W
+ADP[c]	gm	YGL062W
+oxaloacetate[c]	gm	YGL062W
+phosphate[c]	gm	YGL062W
+NADP(+)[m]	gm	YKL029C
+malate[m]	gm	YKL029C
+NADPH[m]	gm	YKL029C
+pyruvate[m]	gm	YKL029C
+CO2[m]	gm	YKL029C
+NADP(+)[c]	gm	YBR149W
+D-arabinose[c]	gm	YBR149W
+NADPH[c]	gm	YBR149W
+D-arabinono-1,4-lactone[c]	gm	YBR149W
+D-arabinono-1,4-lactone[c]	gm	YML086C
+O2[c]	gm	YML086C
+D-erythro-Ascorbate[c]	gm	YML086C
+hydrogen peroxide[c]	gm	YML086C
+ATP[c]	gm	YHR033W
+L-glutamate[c]	gm	YHR033W
+ADP[c]	gm	YHR033W
+L-glutamate 5-phosphate[c]	gm	YHR033W
+acetyl-CoA[m]	gm	YJL071W
+L-glutamate[m]	gm	YJL071W
+coenzyme A[m]	gm	YJL071W
+N-acetyl-L-glutamate[m]	gm	YJL071W
+4-guanidinobutanamide[c]	gm	YDR242W
+4-guanidinobutanoate[c]	gm	YDR242W
+NH3[c]	gm	YDR242W
+4-guanidinobutanamide[c]	gm	YMR293C
+4-guanidinobutanoate[c]	gm	YMR293C
+NH3[c]	gm	YMR293C
+ATP[c]	gm	YOL058W
+L-aspartate[c]	gm	YOL058W
+L-citrulline[c]	gm	YOL058W
+AMP[c]	gm	YOL058W
+N-(L-arginino)succinate[c]	gm	YOL058W
+diphosphate[c]	gm	YOL058W
+L-ornithine[c]	gm	YJL088W
+carbamoyl phosphate[c]	gm	YJL088W
+L-citrulline[c]	gm	YJL088W
+phosphate[c]	gm	YJL088W
+N-(L-arginino)succinate[c]	gm	YHR018C
+fumarate[c]	gm	YHR018C
+L-arginine[c]	gm	YHR018C
+L-arginine[c]	gm	YPL111W
+H2O[c]	gm	YPL111W
+L-ornithine[c]	gm	YPL111W
+urea[c]	gm	YPL111W
+L-ornithine[c]	gm	YLR438W
+2-oxoglutarate[c]	gm	YLR438W
+L-glutamate 5-semialdehyde[c]	gm	YLR438W
+L-glutamate[c]	gm	YLR438W
+ATP[c]	gm	YJL130C
+L-glutamine[c]	gm	YJL130C
+CO2[c]	gm	YJL130C
+H2O[c]	gm	YJL130C
+ADP[c]	gm	YJL130C
+L-glutamate[c]	gm	YJL130C
+carbamoyl phosphate[c]	gm	YJL130C
+phosphate[c]	gm	YJL130C
+ATP[c]	gm	YJR109C
+L-glutamine[c]	gm	YJR109C
+CO2[c]	gm	YJR109C
+H2O[c]	gm	YJR109C
+ADP[c]	gm	YJR109C
+L-glutamate[c]	gm	YJR109C
+carbamoyl phosphate[c]	gm	YJR109C
+phosphate[c]	gm	YJR109C
+ATP[c]	gm	YOR303W
+L-glutamine[c]	gm	YOR303W
+CO2[c]	gm	YOR303W
+H2O[c]	gm	YOR303W
+ADP[c]	gm	YOR303W
+L-glutamate[c]	gm	YOR303W
+carbamoyl phosphate[c]	gm	YOR303W
+phosphate[c]	gm	YOR303W
+L-ornithine[c]	gm	YKL184W
+putrescine[c]	gm	YKL184W
+CO2[c]	gm	YKL184W
+S-adenosyl-L-methionine[c]	gm	YOL052C
+S-adenosylmethioninamine[c]	gm	YOL052C
+CO2[c]	gm	YOL052C
+S-adenosylmethioninamine[c]	gm	YPR069C
+putrescine[c]	gm	YPR069C
+5'-S-methyl-5'-thioadenosine[c]	gm	YPR069C
+spermidine[c]	gm	YPR069C
+S-adenosylmethioninamine[c]	gm	YLR146C
+spermidine[c]	gm	YLR146C
+spermine[c]	gm	YLR146C
+5'-S-methyl-5'-thioadenosine[c]	gm	YLR146C
+ATP[m]	gm	YER069W
+N-acetyl-L-glutamate[m]	gm	YER069W
+ADP[m]	gm	YER069W
+N-acetyl-L-gamma-glutamyl phosphate[m]	gm	YER069W
+NADPH[m]	gm	YER069W
+N-acetyl-L-gamma-glutamyl phosphate[m]	gm	YER069W
+NADP(+)[m]	gm	YER069W
+N-acetyl-L-glutamate 5-semialdehyde[m]	gm	YER069W
+phosphate[m]	gm	YER069W
+L-glutamate[m]	gm	YOL140W
+N-acetyl-L-glutamate 5-semialdehyde[m]	gm	YOL140W
+2-oxoglutarate[m]	gm	YOL140W
+N2-acetyl-L-ornithine[m]	gm	YOL140W
+ubiquinone-9[m]	gm	YHR068W
+spermidine[c]	gm	YHR068W
+trimethylenediamine[c]	gm	YHR068W
+ubiquinol-9[m]	gm	YHR068W
+acetyl-CoA[m]	gm	YMR062C
+L-glutamate[m]	gm	YMR062C
+coenzyme A[m]	gm	YMR062C
+N-acetyl-L-glutamate[m]	gm	YMR062C
+L-glutamate[m]	gm	YMR062C
+N2-acetyl-L-ornithine[m]	gm	YMR062C
+L-ornithine[m]	gm	YMR062C
+N-acetyl-L-glutamate[m]	gm	YMR062C
+L-asparagine[c]	gm	YDR321W
+H2O[c]	gm	YDR321W
+L-aspartate[c]	gm	YDR321W
+NH3[c]	gm	YDR321W
+L-asparagine[c]	gm	YLR155C
+H2O[c]	gm	YLR155C
+L-aspartate[c]	gm	YLR155C
+NH3[c]	gm	YLR155C
+L-asparagine[c]	gm	YLR157C
+H2O[c]	gm	YLR157C
+L-aspartate[c]	gm	YLR157C
+NH3[c]	gm	YLR157C
+L-asparagine[c]	gm	YLR158C
+H2O[c]	gm	YLR158C
+L-aspartate[c]	gm	YLR158C
+NH3[c]	gm	YLR158C
+L-asparagine[c]	gm	YLR160C
+H2O[c]	gm	YLR160C
+L-aspartate[c]	gm	YLR160C
+NH3[c]	gm	YLR160C
+NAD(+)[m]	gm	YER073W
+(S)-lactaldehyde[m]	gm	YER073W
+NADH[m]	gm	YER073W
+(S)-lactate[m]	gm	YER073W
+3-hydroxy-2-methylpropanoyl-CoA[m]	gm	YDR036C
+coenzyme A[m]	gm	YDR036C
+3-hydroxy-2-methylpropanoate[m]	gm	YDR036C
+NADP(+)[c]	gm	YNL241C
+alpha-D-glucose 6-phosphate[c]	gm	YNL241C
+NADPH[c]	gm	YNL241C
+6-O-phosphono-D-glucono-1,5-lactone[c]	gm	YNL241C
+L-glutamate[c]	gm	YJR148W
+3-methyl-2-oxopentanoate[c]	gm	YJR148W
+2-oxoglutarate[c]	gm	YJR148W
+L-isoleucine[c]	gm	YJR148W
+(R)-3-methyl-2-oxobutanoate[c]	gm	YJR148W
+L-glutamate[c]	gm	YJR148W
+L-valine[c]	gm	YJR148W
+2-oxoglutarate[c]	gm	YJR148W
+L-glutamate[c]	gm	YJR148W
+4-methyl-2-oxopentanoate[c]	gm	YJR148W
+2-oxoglutarate[c]	gm	YJR148W
+L-leucine[c]	gm	YJR148W
+2-isopropylmaleate[c]	gm	YGL009C
+H2O[c]	gm	YGL009C
+2-isopropylmalate[c]	gm	YGL009C
+3-isopropylmalate[c]	gm	YGL009C
+2-isopropylmalate[c]	gm	YGL009C
+NAD(+)[c]	gm	YCL018W
+2-isopropylmalate[c]	gm	YCL018W
+NADH[c]	gm	YCL018W
+4-methyl-2-oxopentanoate[c]	gm	YCL018W
+CO2[c]	gm	YCL018W
+L-glutamate[m]	gm	YHR208W
+4-methyl-2-oxopentanoate[m]	gm	YHR208W
+2-oxoglutarate[m]	gm	YHR208W
+L-leucine[m]	gm	YHR208W
+L-glutamate[m]	gm	YHR208W
+3-methyl-2-oxopentanoate[m]	gm	YHR208W
+2-oxoglutarate[m]	gm	YHR208W
+L-isoleucine[m]	gm	YHR208W
+pyruvate[m]	gm	YMR108W
+2-oxobutanoate[m]	gm	YMR108W
+acetohydroxybutyrate[m]	gm	YMR108W
+CO2[m]	gm	YMR108W
+pyruvate[m]	gm	YCL009C
+2-oxobutanoate[m]	gm	YCL009C
+acetohydroxybutyrate[m]	gm	YCL009C
+CO2[m]	gm	YCL009C
+pyruvate[m]	gm	YMR108W
+2-acetolactate[m]	gm	YMR108W
+CO2[m]	gm	YMR108W
+pyruvate[m]	gm	YCL009C
+2-acetolactate[m]	gm	YCL009C
+CO2[m]	gm	YCL009C
+(R)-3-hydroxy-3-methyl-2-oxobutanoate[m]	gm	YJR016C
+(R)-3-methyl-2-oxobutanoate[m]	gm	YJR016C
+H2O[m]	gm	YJR016C
+(R)-2,3-dihydroxy-3-methylbutanoate[m]	gm	YJR016C
+(R)-3-methyl-2-oxobutanoate[m]	gm	YJR016C
+NADPH[m]	gm	YLR355C
+2-acetolactate[m]	gm	YLR355C
+NADP(+)[m]	gm	YLR355C
+(R)-3-hydroxy-3-methyl-2-oxobutanoate[m]	gm	YLR355C
+NADPH[m]	gm	YLR355C
+acetohydroxybutyrate[m]	gm	YLR355C
+NADP(+)[m]	gm	YLR355C
+(2R,3R)-2,3-dihydroxy-3-methylpentanoate[m]	gm	YLR355C
+acetyl-CoA[m]	gm	YNL104C
+(R)-3-methyl-2-oxobutanoate[m]	gm	YNL104C
+H2O[m]	gm	YNL104C
+coenzyme A[m]	gm	YNL104C
+2-isopropylmalate[m]	gm	YNL104C
+(2R,3R)-2,3-dihydroxy-3-methylpentanoate[m]	gm	YJR016C
+3-methyl-2-oxopentanoate[m]	gm	YJR016C
+H2O[m]	gm	YJR016C
+NADP(+)[c]	gm	YLR174W
+isocitrate[c]	gm	YLR174W
+NADPH[c]	gm	YLR174W
+oxalosuccinate[c]	gm	YLR174W
+oxalosuccinate[c]	gm	YLR174W
+2-oxoglutarate[c]	gm	YLR174W
+CO2[c]	gm	YLR174W
+citrate[m]	gm	YJL200C
+H2O[m]	gm	YJL200C
+cis-aconitate[m]	gm	YJL200C
+citrate[m]	gm	YLR304C
+H2O[m]	gm	YLR304C
+cis-aconitate[m]	gm	YLR304C
+isocitrate[m]	gm	YJL200C
+H2O[m]	gm	YJL200C
+cis-aconitate[m]	gm	YJL200C
+isocitrate[m]	gm	YLR304C
+H2O[m]	gm	YLR304C
+cis-aconitate[m]	gm	YLR304C
+acetyl-CoA[m]	gm	YNR001C
+oxaloacetate[m]	gm	YNR001C
+H2O[m]	gm	YNR001C
+coenzyme A[m]	gm	YNR001C
+citrate[m]	gm	YNR001C
+acetyl-CoA[m]	gm	YPR001W
+oxaloacetate[m]	gm	YPR001W
+H2O[m]	gm	YPR001W
+coenzyme A[m]	gm	YPR001W
+citrate[m]	gm	YPR001W
+NAD(+)[m]	gm	YNL037C
+isocitrate[m]	gm	YNL037C
+NADH[m]	gm	YNL037C
+2-oxoglutarate[m]	gm	YNL037C
+CO2[m]	gm	YNL037C
+NAD(+)[m]	gm	YOR136W
+isocitrate[m]	gm	YOR136W
+NADH[m]	gm	YOR136W
+2-oxoglutarate[m]	gm	YOR136W
+CO2[m]	gm	YOR136W
+NADP(+)[m]	gm	YDL066W
+isocitrate[m]	gm	YDL066W
+NADPH[m]	gm	YDL066W
+oxalosuccinate[m]	gm	YDL066W
+oxalosuccinate[m]	gm	YDL066W
+2-oxoglutarate[m]	gm	YDL066W
+CO2[m]	gm	YDL066W
+NAD(+)[m]	gm	YDR148C
+coenzyme A[m]	gm	YDR148C
+2-oxoglutarate[m]	gm	YDR148C
+NADH[m]	gm	YDR148C
+succinyl-CoA[m]	gm	YDR148C
+CO2[m]	gm	YDR148C
+NAD(+)[m]	gm	YFL018C
+coenzyme A[m]	gm	YFL018C
+2-oxoglutarate[m]	gm	YFL018C
+NADH[m]	gm	YFL018C
+succinyl-CoA[m]	gm	YFL018C
+CO2[m]	gm	YFL018C
+NAD(+)[m]	gm	YIL125W
+coenzyme A[m]	gm	YIL125W
+2-oxoglutarate[m]	gm	YIL125W
+NADH[m]	gm	YIL125W
+succinyl-CoA[m]	gm	YIL125W
+CO2[m]	gm	YIL125W
+ATP[m]	gm	YOR142W
+coenzyme A[m]	gm	YOR142W
+itaconate[m]	gm	YOR142W
+ADP[m]	gm	YOR142W
+itaconyl-CoA[m]	gm	YOR142W
+phosphate[m]	gm	YOR142W
+ATP[m]	gm	YGR244C
+coenzyme A[m]	gm	YGR244C
+succinate[m]	gm	YGR244C
+ADP[m]	gm	YGR244C
+succinyl-CoA[m]	gm	YGR244C
+phosphate[m]	gm	YGR244C
+acetyl-CoA[p]	gm	YCR005C
+oxaloacetate[p]	gm	YCR005C
+H2O[p]	gm	YCR005C
+coenzyme A[p]	gm	YCR005C
+citrate[p]	gm	YCR005C
+NADP(+)[p]	gm	YNL009W
+isocitrate[p]	gm	YNL009W
+NADPH[p]	gm	YNL009W
+oxalosuccinate[p]	gm	YNL009W
+oxalosuccinate[p]	gm	YNL009W
+2-oxoglutarate[p]	gm	YNL009W
+CO2[p]	gm	YNL009W
+2-oxoglutarate[m]	gm	YDR148C
+lipoamide[m]	gm	YDR148C
+S-succinyldihydrolipoamide[m]	gm	YDR148C
+CO2[m]	gm	YDR148C
+2-oxoglutarate[m]	gm	YFL018C
+lipoamide[m]	gm	YFL018C
+S-succinyldihydrolipoamide[m]	gm	YFL018C
+CO2[m]	gm	YFL018C
+2-oxoglutarate[m]	gm	YIL125W
+lipoamide[m]	gm	YIL125W
+S-succinyldihydrolipoamide[m]	gm	YIL125W
+CO2[m]	gm	YIL125W
+S-succinyldihydrolipoamide[m]	gm	YDR148C
+coenzyme A[m]	gm	YDR148C
+succinyl-CoA[m]	gm	YDR148C
+dihydrolipoamide[m]	gm	YDR148C
+S-succinyldihydrolipoamide[m]	gm	YFL018C
+coenzyme A[m]	gm	YFL018C
+succinyl-CoA[m]	gm	YFL018C
+dihydrolipoamide[m]	gm	YFL018C
+S-succinyldihydrolipoamide[m]	gm	YIL125W
+coenzyme A[m]	gm	YIL125W
+succinyl-CoA[m]	gm	YIL125W
+dihydrolipoamide[m]	gm	YIL125W
+(S)-3-Methyl-2-oxopentanoate[c]	gm	YDR380W
+2-methylbutyraldehyde[c]	gm	YDR380W
+CO2[c]	gm	YDR380W
+phenylpyruvate[c]	gm	YDR380W
+phenylacetaldehyde[c]	gm	YDR380W
+CO2[c]	gm	YDR380W
+NADPH[c]	gm	YMR318C
+2-methylbutyraldehyde[c]	gm	YMR318C
+NADP(+)[c]	gm	YMR318C
+2-methyl-1-butanol[c]	gm	YMR318C
+NADPH[c]	gm	YDR368W
+2-methylbutyraldehyde[c]	gm	YDR368W
+NADP(+)[c]	gm	YDR368W
+2-methyl-1-butanol[c]	gm	YDR368W
+NADPH[c]	gm	YCR105W
+2-methylbutyraldehyde[c]	gm	YCR105W
+NADP(+)[c]	gm	YCR105W
+2-methyl-1-butanol[c]	gm	YCR105W
+NADP(+)[c]	gm	YMR318C
+2-methylpropanal[c]	gm	YMR318C
+NADPH[c]	gm	YMR318C
+isobutyl alcohol[c]	gm	YMR318C
+NADP(+)[c]	gm	YCR105W
+2-methylpropanal[c]	gm	YCR105W
+NADPH[c]	gm	YCR105W
+isobutyl alcohol[c]	gm	YCR105W
+NADPH[c]	gm	YMR318C
+3-methylbutanal[c]	gm	YMR318C
+NADP(+)[c]	gm	YMR318C
+Isoamyl alcohol[c]	gm	YMR318C
+NADPH[c]	gm	YCR105W
+3-methylbutanal[c]	gm	YCR105W
+NADP(+)[c]	gm	YCR105W
+Isoamyl alcohol[c]	gm	YCR105W
+NADPH[c]	gm	YMR318C
+phenylacetaldehyde[c]	gm	YMR318C
+NADP(+)[c]	gm	YMR318C
+2-phenylethanol[c]	gm	YMR318C
+NADPH[c]	gm	YCR105W
+phenylacetaldehyde[c]	gm	YCR105W
+NADP(+)[c]	gm	YCR105W
+2-phenylethanol[c]	gm	YCR105W
+S-adenosyl-L-methionine[c]	gm	YER175C
+3-carboxy-2-hydroxy-4-methylpentanoate[c]	gm	YER175C
+S-adenosyl-L-homocysteine[c]	gm	YER175C
+3-isopropylmalate-methyl-ester[c]	gm	YER175C
+4-methyl-2-oxopentanoate[c]	gm	YDR380W
+3-methylbutanal[c]	gm	YDR380W
+CO2[c]	gm	YDR380W
+isoamyl acetate[c]	gm	YOR126C
+H2O[c]	gm	YOR126C
+acetate[c]	gm	YOR126C
+Isoamyl alcohol[c]	gm	YOR126C
+isobutyl acetate[c]	gm	YOR126C
+H2O[c]	gm	YOR126C
+acetate[c]	gm	YOR126C
+isobutyl alcohol[c]	gm	YOR126C
+acetic ester[c]	gm	YOR126C
+H2O[c]	gm	YOR126C
+acetate[c]	gm	YOR126C
+ethanol[c]	gm	YOR126C
+acetyl-CoA[c]	gm	YOR377W
+ethanol[c]	gm	YOR377W
+coenzyme A[c]	gm	YOR377W
+acetic ester[c]	gm	YOR377W
+acetyl-CoA[c]	gm	YGR177C
+ethanol[c]	gm	YGR177C
+coenzyme A[c]	gm	YGR177C
+acetic ester[c]	gm	YGR177C
+acetyl-CoA[c]	gm	YOR377W
+Isoamyl alcohol[c]	gm	YOR377W
+coenzyme A[c]	gm	YOR377W
+isoamyl acetate[c]	gm	YOR377W
+acetyl-CoA[c]	gm	YGR177C
+Isoamyl alcohol[c]	gm	YGR177C
+coenzyme A[c]	gm	YGR177C
+isoamyl acetate[c]	gm	YGR177C
+acetyl-CoA[c]	gm	YOR377W
+2-methyl-1-butanol[c]	gm	YOR377W
+coenzyme A[c]	gm	YOR377W
+2-methylbutyl acetate[c]	gm	YOR377W
+acetyl-CoA[c]	gm	YGR177C
+2-methyl-1-butanol[c]	gm	YGR177C
+coenzyme A[c]	gm	YGR177C
+2-methylbutyl acetate[c]	gm	YGR177C
+acetyl-CoA[c]	gm	YOR377W
+isobutyl alcohol[c]	gm	YOR377W
+coenzyme A[c]	gm	YOR377W
+isobutyl acetate[c]	gm	YOR377W
+acetyl-CoA[c]	gm	YGR177C
+isobutyl alcohol[c]	gm	YGR177C
+coenzyme A[c]	gm	YGR177C
+isobutyl acetate[c]	gm	YGR177C
+acetyl-CoA[c]	gm	YOR377W
+2-phenylethanol[c]	gm	YOR377W
+phenethyl acetate[c]	gm	YOR377W
+coenzyme A[c]	gm	YOR377W
+(S)-3-Methyl-2-oxopentanoate[c]	gm	YDL080C
+2-methylbutyraldehyde[c]	gm	YDL080C
+CO2[c]	gm	YDL080C
+alpha-aminopropiononitrile[c]	gm	YJL126W
+H2O[c]	gm	YJL126W
+L-alanine[c]	gm	YJL126W
+NH3[c]	gm	YJL126W
+alpha-aminopropiononitrile[c]	gm	YLR351C
+H2O[c]	gm	YLR351C
+L-alanine[c]	gm	YLR351C
+NH3[c]	gm	YLR351C
+alpha-aminopropiononitrile[c]	gm	YIL164C
+H2O[c]	gm	YIL164C
+L-alanine[c]	gm	YIL164C
+NH3[c]	gm	YIL164C
+gamma-amino-gamma-cyanobutanoate[c]	gm	YJL126W
+H2O[c]	gm	YJL126W
+L-glutamate[c]	gm	YJL126W
+NH3[c]	gm	YJL126W
+gamma-amino-gamma-cyanobutanoate[c]	gm	YLR351C
+H2O[c]	gm	YLR351C
+L-glutamate[c]	gm	YLR351C
+NH3[c]	gm	YLR351C
+gamma-amino-gamma-cyanobutanoate[c]	gm	YIL164C
+H2O[c]	gm	YIL164C
+L-glutamate[c]	gm	YIL164C
+NH3[c]	gm	YIL164C
+O2[c]	gm	YMR009W
+1,2-dihydroxy-3-keto-5-methylthiopentene[c]	gm	YMR009W
+formate[c]	gm	YMR009W
+2-oxo-4-methylthiobutanoate[c]	gm	YMR009W
+L-glutamate[c]	gm	YGL202W
+2-oxo-4-methylthiobutanoate[c]	gm	YGL202W
+L-methionine[c]	gm	YGL202W
+2-oxoglutarate[c]	gm	YGL202W
+L-glutamate[c]	gm	YHR137W
+2-oxo-4-methylthiobutanoate[c]	gm	YHR137W
+L-methionine[c]	gm	YHR137W
+2-oxoglutarate[c]	gm	YHR137W
+L-glutamate[c]	gm	YHR208W
+2-oxo-4-methylthiobutanoate[c]	gm	YHR208W
+L-methionine[c]	gm	YHR208W
+2-oxoglutarate[c]	gm	YHR208W
+L-glutamate[c]	gm	YJR148W
+2-oxo-4-methylthiobutanoate[c]	gm	YJR148W
+L-methionine[c]	gm	YJR148W
+2-oxoglutarate[c]	gm	YJR148W
+5-methylthio-5-deoxy-D-ribulose 1-phosphate[c]	gm	YJR024C
+5-methylthio-2,3-dioxopentyl phosphate[c]	gm	YJR024C
+5-methylthio-5-deoxy-D-ribose 1-phosphate[c]	gm	YPR118W
+5-methylthio-5-deoxy-D-ribulose 1-phosphate[c]	gm	YPR118W
+5-methylthio-2,3-dioxopentyl phosphate[c]	gm	YEL038W
+phosphate[c]	gm	YEL038W
+1,2-dihydroxy-3-keto-5-methylthiopentene[c]	gm	YEL038W
+ADP[c]	gm	YCL050C
+sulfate[c]	gm	YCL050C
+5'-adenylyl sulfate[c]	gm	YCL050C
+phosphate[c]	gm	YCL050C
+NADPH[c]	gm	YFR030W
+sulfite[c]	gm	YFR030W
+NADP(+)[c]	gm	YFR030W
+H2S[c]	gm	YFR030W
+H2O[c]	gm	YFR030W
+NADPH[c]	gm	YJR137C
+sulfite[c]	gm	YJR137C
+NADP(+)[c]	gm	YJR137C
+H2S[c]	gm	YJR137C
+H2O[c]	gm	YJR137C
+adenosine 3',5'-bisphosphate[c]	gm	YOL064C
+H2O[c]	gm	YOL064C
+AMP[c]	gm	YOL064C
+phosphate[c]	gm	YOL064C
+5'-adenylyl sulfate[c]	gm	YKL001C
+ATP[c]	gm	YKL001C
+ADP[c]	gm	YKL001C
+3'-phospho-5'-adenylyl sulfate[c]	gm	YKL001C
+3'-phospho-5'-adenylyl sulfate[c]	gm	YPR167C
+reduced thioredoxin[c]	gm	YPR167C
+adenosine 3',5'-bisphosphate[c]	gm	YPR167C
+sulfite[c]	gm	YPR167C
+oxidized thioredoxin[c]	gm	YPR167C
+acetyl-CoA[c]	gm	YNL277W
+L-homoserine[c]	gm	YNL277W
+coenzyme A[c]	gm	YNL277W
+O-acetyl-L-homoserine[c]	gm	YNL277W
+ATP[c]	gm	YJR010W
+sulfate[c]	gm	YJR010W
+5'-adenylyl sulfate[c]	gm	YJR010W
+diphosphate[c]	gm	YJR010W
+O-acetyl-L-serine[c]	gm	YGR012W
+H2S[c]	gm	YGR012W
+acetate[c]	gm	YGR012W
+L-cysteine[c]	gm	YGR012W
+ATP[m]	gm	YGR012W
+L-cysteine[m]	gm	YGR012W
+tRNA(Cys)[m]	gm	YGR012W
+AMP[c]	gm	YGR012W
+diphosphate[m]	gm	YGR012W
+L-cysteinyl-tRNA(Cys)[m]	gm	YGR012W
+ATP[c]	gm	YNR016C
+acetyl-CoA[c]	gm	YNR016C
+CO2[c]	gm	YNR016C
+H2O[c]	gm	YNR016C
+ADP[c]	gm	YNR016C
+malonyl-CoA[c]	gm	YNR016C
+phosphate[c]	gm	YNR016C
+malonyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+malonyl-[acp][c]	gm	YKL182W
+(R)-3-hydroxybutanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-but-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-but-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+butyryl-[acp][c]	gm	YKL182W
+(R)-3-hydroxyhexanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-hex-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-hex-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+hexanoyl-[acp][c]	gm	YKL182W
+(R)-3-hydroxyoctanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-oct-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-oct-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+octanoyl-[acp][c]	gm	YKL182W
+(R)-3-hydroxydecanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-dec-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-dec-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+decanoyl-[acp][c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+decanoyl-[acp][c]	gm	YKL182W
+decanoyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+decanoyl-[acp][c]	gm	YKL182W
+decanoic acid[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+(R)-3-hydroxydodecanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-dodec-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-dodec-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+dodecanoyl-[acp][c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+dodecanoyl-[acp][c]	gm	YKL182W
+lauroyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+dodecanoyl-[acp][c]	gm	YKL182W
+lauric acid[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+(R)-3-hydroxytetradecanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-tetradec-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-tetradec-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+tetradecanoyl-[acp][c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+tetradecanoyl-[acp][c]	gm	YKL182W
+myristoyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+tetradecanoyl-[acp][c]	gm	YKL182W
+myristic acid[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-hexadec-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+hexadecanoyl-[acp][c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+hexadecanoyl-[acp][c]	gm	YKL182W
+palmitoyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+hexadecanoyl-[acp][c]	gm	YKL182W
+palmitic acid[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+3-hydroxyoctadecanoyl-[acp][c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+trans-octadec-2-enoyl-[acp][c]	gm	YKL182W
+NADPH[c]	gm	YKL182W
+trans-octadec-2-enoyl-[acp][c]	gm	YKL182W
+NADP(+)[c]	gm	YKL182W
+stearoyl-[acp][c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+stearoyl-[acp][c]	gm	YKL182W
+octadecanoyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+H2O[c]	gm	YKL182W
+stearoyl-[acp][c]	gm	YKL182W
+stearic acid[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+acetyl-CoA[c]	gm	YKL182W
+acyl-carrier protein[c]	gm	YKL182W
+coenzyme A[c]	gm	YKL182W
+acetyl-[acp][c]	gm	YKL182W
+acetyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+acetoacetyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+acetoacetyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxybutanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+butyryl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxohexanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxohexanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxyhexanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+hexanoyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxooctanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxooctanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxyoctanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+octanoyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxodecanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxodecanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxydecanoyl-[acp][c]	gm	YPL231W
+decanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxododecanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxododecanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxydodecanoyl-[acp][c]	gm	YPL231W
+dodecanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxotetradecanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxotetradecanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxytetradecanoyl-[acp][c]	gm	YPL231W
+tetradecanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxohexadecanoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxohexadecanoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+(R)-3-hydroxypalmitoyl-[acp][c]	gm	YPL231W
+hexadecanoyl-[acp][c]	gm	YPL231W
+malonyl-[acp][c]	gm	YPL231W
+CO2[c]	gm	YPL231W
+3-oxostearoyl-[acp][c]	gm	YPL231W
+acyl-carrier protein[c]	gm	YPL231W
+NADPH[c]	gm	YPL231W
+3-oxostearoyl-[acp][c]	gm	YPL231W
+NADP(+)[c]	gm	YPL231W
+3-hydroxyoctadecanoyl-[acp][c]	gm	YPL231W
+acetyl-CoA[p]	gm	YIR031C
+glyoxylate[p]	gm	YIR031C
+H2O[p]	gm	YIR031C
+coenzyme A[p]	gm	YIR031C
+malate[p]	gm	YIR031C
+acetyl-CoA[p]	gm	YNL117W
+glyoxylate[p]	gm	YNL117W
+H2O[p]	gm	YNL117W
+coenzyme A[p]	gm	YNL117W
+malate[p]	gm	YNL117W
+malonyl-CoA[c]	gm	YJL196C
+lauroyl-CoA[c]	gm	YJL196C
+coenzyme A[c]	gm	YJL196C
+CO2[c]	gm	YJL196C
+3-keto-C14-CoA[c]	gm	YJL196C
+malonyl-CoA[c]	gm	YJL196C
+myristoyl-CoA[c]	gm	YJL196C
+coenzyme A[c]	gm	YJL196C
+CO2[c]	gm	YJL196C
+3-keto-C16-CoA[c]	gm	YJL196C
+malonyl-CoA[c]	gm	YCR034W
+palmitoyl-CoA[c]	gm	YCR034W
+coenzyme A[c]	gm	YCR034W
+CO2[c]	gm	YCR034W
+3-keto-C18-CoA[c]	gm	YCR034W
+malonyl-CoA[c]	gm	YLR372W
+palmitoyl-CoA[c]	gm	YLR372W
+coenzyme A[c]	gm	YLR372W
+CO2[c]	gm	YLR372W
+3-keto-C18-CoA[c]	gm	YLR372W
+malonyl-CoA[c]	gm	YCR034W
+octadecanoyl-CoA[c]	gm	YCR034W
+coenzyme A[c]	gm	YCR034W
+CO2[c]	gm	YCR034W
+3-keto-C20-CoA[c]	gm	YCR034W
+malonyl-CoA[c]	gm	YLR372W
+octadecanoyl-CoA[c]	gm	YLR372W
+coenzyme A[c]	gm	YLR372W
+CO2[c]	gm	YLR372W
+3-keto-C20-CoA[c]	gm	YLR372W
+malonyl-CoA[c]	gm	YCR034W
+C20-CoA[c]	gm	YCR034W
+coenzyme A[c]	gm	YCR034W
+CO2[c]	gm	YCR034W
+3-keto-C22-CoA[c]	gm	YCR034W
+malonyl-CoA[c]	gm	YLR372W
+C20-CoA[c]	gm	YLR372W
+coenzyme A[c]	gm	YLR372W
+CO2[c]	gm	YLR372W
+3-keto-C22-CoA[c]	gm	YLR372W
+malonyl-CoA[c]	gm	YCR034W
+C22-CoA[c]	gm	YCR034W
+coenzyme A[c]	gm	YCR034W
+CO2[c]	gm	YCR034W
+3-keto-C24-CoA[c]	gm	YCR034W
+malonyl-CoA[c]	gm	YLR372W
+C22-CoA[c]	gm	YLR372W
+coenzyme A[c]	gm	YLR372W
+CO2[c]	gm	YLR372W
+3-keto-C24-CoA[c]	gm	YLR372W
+malonyl-CoA[c]	gm	YCR034W
+C24-CoA[c]	gm	YCR034W
+coenzyme A[c]	gm	YCR034W
+CO2[c]	gm	YCR034W
+3-keto-C26-CoA[c]	gm	YCR034W
+malonyl-CoA[c]	gm	YLR372W
+C24-CoA[c]	gm	YLR372W
+coenzyme A[c]	gm	YLR372W
+CO2[c]	gm	YLR372W
+3-keto-C26-CoA[c]	gm	YLR372W
+acetyl-CoA[c]	gm	YPL028W
+coenzyme A[c]	gm	YPL028W
+acetoacetyl-CoA[c]	gm	YPL028W
+ATP[c]	gm	YOR317W
+lauric acid[c]	gm	YOR317W
+coenzyme A[c]	gm	YOR317W
+AMP[c]	gm	YOR317W
+lauroyl-CoA[c]	gm	YOR317W
+diphosphate[c]	gm	YOR317W
+ATP[c]	gm	YOR317W
+myristic acid[c]	gm	YOR317W
+coenzyme A[c]	gm	YOR317W
+AMP[c]	gm	YOR317W
+myristoyl-CoA[c]	gm	YOR317W
+diphosphate[c]	gm	YOR317W
+ATP[c]	gm	YIL009W
+palmitic acid[c]	gm	YIL009W
+coenzyme A[c]	gm	YIL009W
+AMP[c]	gm	YIL009W
+palmitoyl-CoA[c]	gm	YIL009W
+diphosphate[c]	gm	YIL009W
+ATP[c]	gm	YMR246W
+palmitic acid[c]	gm	YMR246W
+coenzyme A[c]	gm	YMR246W
+AMP[c]	gm	YMR246W
+palmitoyl-CoA[c]	gm	YMR246W
+diphosphate[c]	gm	YMR246W
+ATP[c]	gm	YOR317W
+palmitic acid[c]	gm	YOR317W
+coenzyme A[c]	gm	YOR317W
+AMP[c]	gm	YOR317W
+palmitoyl-CoA[c]	gm	YOR317W
+diphosphate[c]	gm	YOR317W
+ATP[c]	gm	YIL009W
+stearic acid[c]	gm	YIL009W
+coenzyme A[c]	gm	YIL009W
+AMP[c]	gm	YIL009W
+octadecanoyl-CoA[c]	gm	YIL009W
+diphosphate[c]	gm	YIL009W
+ATP[c]	gm	YMR246W
+stearic acid[c]	gm	YMR246W
+coenzyme A[c]	gm	YMR246W
+AMP[c]	gm	YMR246W
+octadecanoyl-CoA[c]	gm	YMR246W
+diphosphate[c]	gm	YMR246W
+ATP[c]	gm	YMR246W
+coenzyme A[c]	gm	YMR246W
+hexadecanoyl-9-ene acid[c]	gm	YMR246W
+AMP[c]	gm	YMR246W
+diphosphate[c]	gm	YMR246W
+hexadecanoyl-9-ene-CoA[c]	gm	YMR246W
+ATP[c]	gm	YMR246W
+oleic acid[c]	gm	YMR246W
+coenzyme A[c]	gm	YMR246W
+AMP[c]	gm	YMR246W
+diphosphate[c]	gm	YMR246W
+octadecanoyl-9-ene-CoA[c]	gm	YMR246W
+ATP[c]	gm	YMR246W
+coenzyme A[c]	gm	YMR246W
+tetradecanoyl-9-ene acid[c]	gm	YMR246W
+AMP[c]	gm	YMR246W
+diphosphate[c]	gm	YMR246W
+tetradecanoyl-9-ene-CoA[c]	gm	YMR246W
+NADPH[c]	gm	YBR159W
+3-keto-C14-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C14-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C16-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C16-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C18-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C18-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C20-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C20-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C22-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C22-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C24-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C24-CoA[c]	gm	YBR159W
+NADPH[c]	gm	YBR159W
+3-keto-C26-CoA[c]	gm	YBR159W
+NADP(+)[c]	gm	YBR159W
+3-hydroxy-C26-CoA[c]	gm	YBR159W
+myristoyl-CoA[c]	gm	YGL055W
+O2[c]	gm	YGL055W
+H2O[c]	gm	YGL055W
+tetradecanoyl-9-ene-CoA[c]	gm	YGL055W
+palmitoyl-CoA[c]	gm	YGL055W
+O2[c]	gm	YGL055W
+H2O[c]	gm	YGL055W
+hexadecanoyl-9-ene-CoA[c]	gm	YGL055W
+octadecanoyl-CoA[c]	gm	YGL055W
+O2[c]	gm	YGL055W
+H2O[c]	gm	YGL055W
+octadecanoyl-9-ene-CoA[c]	gm	YGL055W
+NADPH[c]	gm	YDL015C
+trans-2-C14-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+myristoyl-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C16-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+palmitoyl-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C18-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+octadecanoyl-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C20-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+C20-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C22-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+C22-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C24-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+C24-CoA[c]	gm	YDL015C
+NADPH[c]	gm	YDL015C
+trans-2-C26-CoA[c]	gm	YDL015C
+NADP(+)[c]	gm	YDL015C
+C26-CoA[c]	gm	YDL015C
+3-hydroxy-C14-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C14-CoA[c]	gm	YJL097W
+3-hydroxy-C16-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C16-CoA[c]	gm	YJL097W
+3-hydroxy-C18-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C18-CoA[c]	gm	YJL097W
+3-hydroxy-C20-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C20-CoA[c]	gm	YJL097W
+3-hydroxy-C22-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C22-CoA[c]	gm	YJL097W
+3-hydroxy-C24-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C24-CoA[c]	gm	YJL097W
+3-hydroxy-C26-CoA[c]	gm	YJL097W
+H2O[c]	gm	YJL097W
+trans-2-C26-CoA[c]	gm	YJL097W
+acetyl-CoA[c]	gm	YER024W
+carnitinium[c]	gm	YER024W
+coenzyme A[c]	gm	YER024W
+O-acetylcarnitine[c]	gm	YER024W
+NADPH[m]	gm	YBR026C
+trans-but-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+butyryl-[acp][c]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-hex-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+hexanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-oct-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+octanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-dec-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+decanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-dodec-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+dodecanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-tetradec-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+tetradecanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-hexadec-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+hexadecanoyl-[acp][m]	gm	YBR026C
+NADPH[m]	gm	YBR026C
+trans-octadec-2-enoyl-[acp][m]	gm	YBR026C
+NADP(+)[m]	gm	YBR026C
+stearoyl-[acp][m]	gm	YBR026C
+ATP[m]	gm	YMR207C
+acetyl-CoA[m]	gm	YMR207C
+CO2[c]	gm	YMR207C
+H2O[c]	gm	YMR207C
+ADP[m]	gm	YMR207C
+malonyl-CoA[m]	gm	YMR207C
+phosphate[m]	gm	YMR207C
+(R)-3-hydroxybutanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-but-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxyhexanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-hex-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxyoctanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-oct-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxydecanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-dec-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxydodecanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-dodec-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxytetradecanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-tetradec-2-enoyl-[acp][m]	gm	YHR067W
+(R)-3-hydroxypalmitoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-hexadec-2-enoyl-[acp][m]	gm	YHR067W
+3-hydroxyoctadecanoyl-[acp][m]	gm	YHR067W
+H2O[m]	gm	YHR067W
+trans-octadec-2-enoyl-[acp][m]	gm	YHR067W
+trans-3-C16-CoA[p]	gm	YLR284C
+trans-2-C16-CoA[p]	gm	YLR284C
+trans-3-C16-CoA[p]	gm	YOR180C
+trans-2-C16-CoA[p]	gm	YOR180C
+trans-3-C18-CoA[p]	gm	YLR284C
+trans-2-C18-CoA[p]	gm	YLR284C
+trans-3-C18-CoA[p]	gm	YOR180C
+trans-2-C18-CoA[p]	gm	YOR180C
+trans-3-C14-CoA[p]	gm	YLR284C
+trans-2-C14-CoA[p]	gm	YLR284C
+trans-3-C14-CoA[p]	gm	YOR180C
+trans-2-C14-CoA[p]	gm	YOR180C
+ATP[p]	gm	YER015W
+decanoic acid[p]	gm	YER015W
+coenzyme A[p]	gm	YER015W
+AMP[p]	gm	YER015W
+decanoyl-CoA[p]	gm	YER015W
+diphosphate[p]	gm	YER015W
+ATP[p]	gm	YER015W
+lauric acid[p]	gm	YER015W
+coenzyme A[p]	gm	YER015W
+AMP[p]	gm	YER015W
+lauroyl-CoA[p]	gm	YER015W
+diphosphate[p]	gm	YER015W
+ATP[p]	gm	YBR041W
+palmitic acid[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+palmitoyl-CoA[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+stearic acid[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+octadecanoyl-CoA[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+hexadecanoyl-9-ene acid[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+hexadecanoyl-9-ene-CoA[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+oleic acid[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+octadecanoyl-9-ene-CoA[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+tetradecanoyl-9-ene acid[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+tetradecanoyl-9-ene-CoA[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+C24 acid[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+C24-CoA[p]	gm	YBR041W
+ATP[p]	gm	YBR041W
+coenzyme A[p]	gm	YBR041W
+C26 acid[p]	gm	YBR041W
+AMP[p]	gm	YBR041W
+diphosphate[p]	gm	YBR041W
+C26-CoA[p]	gm	YBR041W
+octadecanoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C18-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+octadecanoyl-9-ene-CoA[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C181-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+tetradecanoyl-9-ene-CoA[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C141-CoA[c]	gm	YGL205W
+palmitoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C16-CoA[c]	gm	YGL205W
+myristoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C14-CoA[c]	gm	YGL205W
+lauroyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-delta2-dodecaenoyl-CoA[c]	gm	YGL205W
+decanoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-delta2-decaenoyl-CoA[c]	gm	YGL205W
+octanoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-delta2-octaenoyl-CoA[c]	gm	YGL205W
+hexanoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-delta2-hexaenoyl-CoA[c]	gm	YGL205W
+butyryl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-delta2-butaenoyl-CoA[c]	gm	YGL205W
+O2[c]	gm	YGL205W
+hexadecanoyl-9-ene-CoA[c]	gm	YGL205W
+hydrogen peroxide[c]	gm	YGL205W
+trans-2-C161-CoA[c]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-2-C18-CoA[p]	gm	YGL205W
+3-hydroxy-C18-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-2-C16-CoA[p]	gm	YGL205W
+3-hydroxy-C16-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-2-C14-CoA[p]	gm	YGL205W
+3-hydroxy-C14-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-2-dodecaenoyl-CoA[p]	gm	YGL205W
+3-hydroxylauroyl-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-2-decaenoyl-CoA[p]	gm	YGL205W
+3-hydroxydecanoyl-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-delta2-octaenoyl-CoA[p]	gm	YGL205W
+3-hydroxyoctanoyl-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-delta2-hexaenoyl-CoA[p]	gm	YGL205W
+3-hydroxyhexanoyl-CoA[p]	gm	YGL205W
+H2O[p]	gm	YGL205W
+trans-delta2-butaenoyl-CoA[p]	gm	YGL205W
+3-hydroxybutanoyl-CoA[p]	gm	YGL205W
+NAD(+)[p]	gm	YKR009C
+3-hydroxy-C18-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-C18-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxy-C16-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-C16-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxy-C14-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-C14-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxylauroyl-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-dodecanoyl-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxydecanoyl-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-decanoyl-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxyoctanoyl-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-octanoyl-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxyhexanoyl-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-oxohexanoyl-CoA[p]	gm	YKR009C
+NAD(+)[p]	gm	YKR009C
+3-hydroxybutanoyl-CoA[p]	gm	YKR009C
+NADH[p]	gm	YKR009C
+3-keto-butanoyl-CoA[p]	gm	YKR009C
+coenzyme A[p]	gm	YIL160C
+3-keto-C18-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+palmitoyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-C16-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+myristoyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-C14-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+lauroyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-dodecanoyl-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+decanoyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-decanoyl-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+octanoyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-octanoyl-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+hexanoyl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-oxohexanoyl-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+butyryl-CoA[p]	gm	YIL160C
+coenzyme A[p]	gm	YIL160C
+3-keto-butanoyl-CoA[p]	gm	YIL160C
+acetyl-CoA[p]	gm	YIL160C
+trans-2-C161-CoA[p]	gm	YNL202W
+trans-3-C16-CoA[p]	gm	YNL202W
+trans-2-C181-CoA[p]	gm	YNL202W
+trans-3-C18-CoA[p]	gm	YNL202W
+trans-2-C141-CoA[p]	gm	YNL202W
+trans-3-C14-CoA[p]	gm	YNL202W
+H2O[p]	gm	YJR019C
+acyl CoAs[p]	gm	YJR019C
+coenzyme A[p]	gm	YJR019C
+acyl acids[p]	gm	YJR019C
+chorismate[c]	gm	YNR033W
+L-glutamine[c]	gm	YNR033W
+4-amino-4-deoxychorismate[c]	gm	YNR033W
+L-glutamate[c]	gm	YNR033W
+dihydrofolate[c]	gm	YOR236W
+NADPH[c]	gm	YOR236W
+tetrahydrofolate[c]	gm	YOR236W
+NADP(+)[c]	gm	YOR236W
+7,8-dihydroneopterin[c]	gm	YNL256W
+glycolaldehyde[c]	gm	YNL256W
+2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol[c]	gm	YNL256W
+ATP[c]	gm	YNL256W
+2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol[c]	gm	YNL256W
+AMP[c]	gm	YNL256W
+(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl trihydrogen diphosphate[c]	gm	YNL256W
+(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl trihydrogen diphosphate[c]	gm	YNL256W
+4-aminobenzoate[c]	gm	YNL256W
+dihydropteroate[c]	gm	YNL256W
+diphosphate[c]	gm	YNL256W
+4-aminobenzoate[c]	gm	YNL256W
+2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol[c]	gm	YNL256W
+dihydropteroate[c]	gm	YNL256W
+H2O[c]	gm	YNL256W
+GTP[c]	gm	YGR267C
+H2O[c]	gm	YGR267C
+7,8-dihydroneopterin 3'-triphosphate[c]	gm	YGR267C
+formate[c]	gm	YGR267C
+ATP[c]	gm	YKL132C
+tetrahydrofolate[c]	gm	YKL132C
+L-glutamate[c]	gm	YKL132C
+ADP[c]	gm	YKL132C
+tetrahydrofolyl-(Glu)n[c]	gm	YKL132C
+phosphate[c]	gm	YKL132C
+ATP[c]	gm	YMR113W
+tetrahydrofolate[c]	gm	YMR113W
+L-glutamate[c]	gm	YMR113W
+ADP[c]	gm	YMR113W
+tetrahydrofolyl-(Glu)n[c]	gm	YMR113W
+phosphate[c]	gm	YMR113W
+ATP[c]	gm	YOR241W
+tetrahydrofolate[c]	gm	YOR241W
+L-glutamate[c]	gm	YOR241W
+ADP[c]	gm	YOR241W
+tetrahydrofolyl-(Glu)n[c]	gm	YOR241W
+phosphate[c]	gm	YOR241W
+7,8-dihydroneopterin 3'-triphosphate[c]	gm	YDR481C
+H2O[c]	gm	YDR481C
+7,8-dihydroneopterin[c]	gm	YDR481C
+phosphate[c]	gm	YDR481C
+4-amino-4-deoxychorismate[c]	gm	YMR289W
+pyruvate[c]	gm	YMR289W
+4-aminobenzoate[c]	gm	YMR289W
+ATP[c]	gm	YER183C
+5-formyltetrahydrofolate[c]	gm	YER183C
+ADP[c]	gm	YER183C
+5,10-methenyltetrahydrofolate[c]	gm	YER183C
+phosphate[c]	gm	YER183C
+7,8-dihydroneopterin 3'-phosphate[c]	gm	YDL100C
+H2O[c]	gm	YDL100C
+7,8-dihydroneopterin[c]	gm	YDL100C
+phosphate[c]	gm	YDL100C
+dihydrofolate[m]	gm	YOR236W
+NADPH[m]	gm	YOR236W
+tetrahydrofolate[m]	gm	YOR236W
+NADP(+)[m]	gm	YOR236W
+5,10-methenyltetrahydrofolate[m]	gm	YAL044C
+5-formyltetrahydrofolate[m]	gm	YAL044C
+5,10-methenyltetrahydrofolate[m]	gm	YBR221C
+5-formyltetrahydrofolate[m]	gm	YBR221C
+5,10-methenyltetrahydrofolate[m]	gm	YDR019C
+5-formyltetrahydrofolate[m]	gm	YDR019C
+5,10-methenyltetrahydrofolate[m]	gm	YER178W
+5-formyltetrahydrofolate[m]	gm	YER178W
+5,10-methenyltetrahydrofolate[m]	gm	YMR189W
+5-formyltetrahydrofolate[m]	gm	YMR189W
+D-fructose 2,6-bisphosphate[c]	gm	YJL155C
+H2O[c]	gm	YJL155C
+beta-D-fructofuranose 6-phosphate[c]	gm	YJL155C
+phosphate[c]	gm	YJL155C
+ATP[c]	gm	YIL107C
+beta-D-fructofuranose 6-phosphate[c]	gm	YIL107C
+ADP[c]	gm	YIL107C
+D-fructose 2,6-bisphosphate[c]	gm	YIL107C
+ATP[c]	gm	YOL136C
+beta-D-fructofuranose 6-phosphate[c]	gm	YOL136C
+ADP[c]	gm	YOL136C
+D-fructose 2,6-bisphosphate[c]	gm	YOL136C
+D-mannose 6-phosphate[c]	gm	YER003C
+beta-D-fructofuranose 6-phosphate[c]	gm	YER003C
+GTP[c]	gm	YDL055C
+D-mannose 1-phosphate[c]	gm	YDL055C
+GDP-mannose[c]	gm	YDL055C
+diphosphate[c]	gm	YDL055C
+D-mannose 6-phosphate[c]	gm	YFL045C
+D-mannose 1-phosphate[c]	gm	YFL045C
+maltose[c]	gm	YBR299W
+H2O[c]	gm	YBR299W
+alpha-D-glucose[c]	gm	YBR299W
+maltose[c]	gm	YGR287C
+H2O[c]	gm	YGR287C
+alpha-D-glucose[c]	gm	YGR287C
+maltose[c]	gm	YGR292W
+H2O[c]	gm	YGR292W
+alpha-D-glucose[c]	gm	YGR292W
+maltose[c]	gm	YIL172C
+H2O[c]	gm	YIL172C
+alpha-D-glucose[c]	gm	YIL172C
+maltose[c]	gm	YJL216C
+H2O[c]	gm	YJL216C
+alpha-D-glucose[c]	gm	YJL216C
+maltose[c]	gm	YJL221C
+H2O[c]	gm	YJL221C
+alpha-D-glucose[c]	gm	YJL221C
+maltose[c]	gm	YOL157C
+H2O[c]	gm	YOL157C
+alpha-D-glucose[c]	gm	YOL157C
+6-O-(alpha-D-Galactopyranosyl)-D-glucopyranose[c]	gm	YJL221C
+alpha-D-glucose[c]	gm	YJL221C
+D-galactose[c]	gm	YJL221C
+ATP[c]	gm	YBR020W
+D-galactose[c]	gm	YBR020W
+ADP[c]	gm	YBR020W
+D-galactose 1-phosphate[c]	gm	YBR020W
+UDP-D-galactose[c]	gm	YBR019C
+UDP-glucose[c]	gm	YBR019C
+UDP-D-galactose[c]	gm	YHR210C
+UDP-glucose[c]	gm	YHR210C
+D-galactose 1-phosphate[c]	gm	YBR018C
+UTP[c]	gm	YBR018C
+UDP-D-galactose[c]	gm	YBR018C
+diphosphate[c]	gm	YBR018C
+UDP-glucose[c]	gm	YBR018C
+D-galactose 1-phosphate[c]	gm	YBR018C
+UDP-D-galactose[c]	gm	YBR018C
+D-glucose 1-phosphate[c]	gm	YBR018C
+melibiose[c]	gm	YBR184W
+H2O[c]	gm	YBR184W
+alpha-D-glucose[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+D-glucose 1-phosphate[c]	gm	YHL012W
+UTP[c]	gm	YHL012W
+UDP-glucose[c]	gm	YHL012W
+diphosphate[c]	gm	YHL012W
+D-glucose 1-phosphate[c]	gm	YKL035W
+UTP[c]	gm	YKL035W
+UDP-glucose[c]	gm	YKL035W
+diphosphate[c]	gm	YKL035W
+raffinose[c]	gm	YBR184W
+sucrose[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+1-alpha-D-galactosyl-myo-inositol[c]	gm	YBR184W
+myo-inositol[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+epimelibiose[c]	gm	YBR184W
+alpha-D-mannose[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+3-O-beta-D-galactosyl-sn-glycerol[c]	gm	YBR184W
+glycerol[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+melibiitol[c]	gm	YBR184W
+D-galactose[c]	gm	YBR184W
+D-sorbitol[c]	gm	YBR184W
+oxidized glutathione[m]	gm	YPL059W
+NADPH[m]	gm	YPL059W
+reduced glutathione[m]	gm	YPL059W
+NADP(+)[m]	gm	YPL059W
+oxidized glutathione[m]	gm	YPL091W
+NADPH[m]	gm	YPL091W
+reduced glutathione[m]	gm	YPL091W
+NADP(+)[m]	gm	YPL091W
+reduced glutathione[m]	gm	YPL059W
+hydrogen peroxide[m]	gm	YPL059W
+oxidized glutathione[m]	gm	YPL059W
+H2O[m]	gm	YPL059W
+UDP-N-acetyl-D-galactosamine[c]	gm	YBR023C
+UDP[c]	gm	YBR023C
+chitin[c]	gm	YBR023C
+UDP-N-acetyl-D-galactosamine[c]	gm	YBR038W
+UDP[c]	gm	YBR038W
+chitin[c]	gm	YBR038W
+UDP-N-acetyl-D-galactosamine[c]	gm	YNL192W
+UDP[c]	gm	YNL192W
+chitin[c]	gm	YNL192W
+L-glutamate[c]	gm	YMR250W
+gamma-aminobutyrate[c]	gm	YMR250W
+CO2[c]	gm	YMR250W
+NADPH[c]	gm	YAL062W
+2-oxoglutarate[c]	gm	YAL062W
+NH3[c]	gm	YAL062W
+NADP(+)[c]	gm	YAL062W
+L-glutamate[c]	gm	YAL062W
+H2O[c]	gm	YAL062W
+NADPH[c]	gm	YOR375C
+2-oxoglutarate[c]	gm	YOR375C
+NH3[c]	gm	YOR375C
+NADP(+)[c]	gm	YOR375C
+L-glutamate[c]	gm	YOR375C
+H2O[c]	gm	YOR375C
+NAD(+)[c]	gm	YDL215C
+L-glutamate[c]	gm	YDL215C
+H2O[c]	gm	YDL215C
+NADH[c]	gm	YDL215C
+2-oxoglutarate[c]	gm	YDL215C
+NH3[c]	gm	YDL215C
+L-glutamine[c]	gm	YKL104C
+beta-D-fructofuranose 6-phosphate[c]	gm	YKL104C
+L-glutamate[c]	gm	YKL104C
+D-glucosamine 6-phosphate[c]	gm	YKL104C
+ATP[c]	gm	YPR035W
+L-glutamate[c]	gm	YPR035W
+NH3[c]	gm	YPR035W
+ADP[c]	gm	YPR035W
+L-glutamine[c]	gm	YPR035W
+phosphate[c]	gm	YPR035W
+NADH[c]	gm	YDL171C
+L-glutamine[c]	gm	YDL171C
+2-oxoglutarate[c]	gm	YDL171C
+NAD(+)[c]	gm	YDL171C
+L-glutamate[c]	gm	YDL171C
+acetyl-CoA[c]	gm	YFL017C
+D-glucosamine 6-phosphate[c]	gm	YFL017C
+coenzyme A[c]	gm	YFL017C
+N-acetyl-D-glucosamine 6-phosphate[c]	gm	YFL017C
+N-acetyl-D-glucosamine 1-phosphate[c]	gm	YEL058W
+N-acetyl-D-glucosamine 6-phosphate[c]	gm	YEL058W
+D-glucosamine 6-phosphate[c]	gm	YEL058W
+D-glucosamine 1-phosphate[c]	gm	YEL058W
+N-acetyl-D-glucosamine 1-phosphate[c]	gm	YDL103C
+UTP[c]	gm	YDL103C
+UDP-N-acetyl-D-galactosamine[c]	gm	YDL103C
+diphosphate[c]	gm	YDL103C
+NADP(+)[c]	gm	YBR006W
+succinate semialdehyde[c]	gm	YBR006W
+H2O[c]	gm	YBR006W
+NADPH[c]	gm	YBR006W
+succinate[c]	gm	YBR006W
+gamma-aminobutyrate[c]	gm	YGR019W
+2-oxoglutarate[c]	gm	YGR019W
+succinate semialdehyde[c]	gm	YGR019W
+L-glutamate[c]	gm	YGR019W
+NADP(+)[m]	gm	YHR037W
+L-glutamate 5-semialdehyde[m]	gm	YHR037W
+H2O[m]	gm	YHR037W
+NADPH[m]	gm	YHR037W
+L-glutamate[m]	gm	YHR037W
+L-cysteinylglycine[c]	gm	YKL158W
+glycine[c]	gm	YKL158W
+L-cysteine[c]	gm	YKL158W
+L-cysteinylglycine[c]	gm	YHR047C
+glycine[c]	gm	YHR047C
+L-cysteine[c]	gm	YHR047C
+glutathione[c]	gm	YLR299W
+L-alanine[c]	gm	YLR299W
+L-cysteinylglycine[c]	gm	YLR299W
+R-S-alanylglycine[c]	gm	YLR299W
+oxidized glutathione[c]	gm	YPL091W
+NADPH[c]	gm	YPL091W
+glutathione[c]	gm	YPL091W
+NADP(+)[c]	gm	YPL091W
+glutathione[c]	gm	YBR244W
+hydrogen peroxide[c]	gm	YBR244W
+oxidized glutathione[c]	gm	YBR244W
+H2O[c]	gm	YBR244W
+glutathione[c]	gm	YIR037W
+hydrogen peroxide[c]	gm	YIR037W
+oxidized glutathione[c]	gm	YIR037W
+H2O[c]	gm	YIR037W
+glutathione[c]	gm	YKL026C
+hydrogen peroxide[c]	gm	YKL026C
+oxidized glutathione[c]	gm	YKL026C
+H2O[c]	gm	YKL026C
+ATP[c]	gm	YJL101C
+L-cysteine[c]	gm	YJL101C
+L-glutamate[c]	gm	YJL101C
+ADP[c]	gm	YJL101C
+gamma-L-glutamyl-L-cysteine[c]	gm	YJL101C
+phosphate[c]	gm	YJL101C
+ATP[c]	gm	YOL049W
+glycine[c]	gm	YOL049W
+gamma-L-glutamyl-L-cysteine[c]	gm	YOL049W
+ADP[c]	gm	YOL049W
+glutathione[c]	gm	YOL049W
+phosphate[c]	gm	YOL049W
+ATP[c]	gm	YKL215C
+5-oxoproline[c]	gm	YKL215C
+ADP[c]	gm	YKL215C
+L-glutamate[c]	gm	YKL215C
+phosphate[c]	gm	YKL215C
+NADPH[c]	gm	YIL124W
+acylglycerone phosphates[c]	gm	YIL124W
+NADP(+)[c]	gm	YIL124W
+acyl-sn-glycerol 3-phosphates[c]	gm	YIL124W
+ATP[c]	gm	YFL053W
+glycerone[c]	gm	YFL053W
+ADP[c]	gm	YFL053W
+glycerone phosphate[c]	gm	YFL053W
+ATP[c]	gm	YML070W
+glycerone[c]	gm	YML070W
+ADP[c]	gm	YML070W
+glycerone phosphate[c]	gm	YML070W
+diglycerides[c]	gm	YOR245C
+acyl CoAs[c]	gm	YOR245C
+coenzyme A[c]	gm	YOR245C
+triglycerides[c]	gm	YOR245C
+glycerophosphatidylcholine[c]	gm	YPL110C
+sn-glycerol 3-phosphate[c]	gm	YPL110C
+choline[c]	gm	YPL110C
+NADH[c]	gm	YDL022W
+glycerone phosphate[c]	gm	YDL022W
+NAD(+)[c]	gm	YDL022W
+sn-glycerol 3-phosphate[c]	gm	YDL022W
+NADH[c]	gm	YOL059W
+glycerone phosphate[c]	gm	YOL059W
+NAD(+)[c]	gm	YOL059W
+sn-glycerol 3-phosphate[c]	gm	YOL059W
+sn-glycerol 3-phosphate[c]	gm	YKR067W
+acyl CoAs[c]	gm	YKR067W
+coenzyme A[c]	gm	YKR067W
+acyl-sn-glycerol 3-phosphates[c]	gm	YKR067W
+glycerone phosphate[c]	gm	YKR067W
+acyl CoAs[c]	gm	YKR067W
+coenzyme A[c]	gm	YKR067W
+acylglycerone phosphates[c]	gm	YKR067W
+ATP[c]	gm	YHL032C
+glycerol[c]	gm	YHL032C
+ADP[c]	gm	YHL032C
+sn-glycerol 3-phosphate[c]	gm	YHL032C
+coenzyme A[c]	gm	YBL011W
+acyl-sn-glycerol 3-phosphates[c]	gm	YBL011W
+sn-glycerol 3-phosphate[c]	gm	YBL011W
+acyl CoAs[c]	gm	YBL011W
+coenzyme A[c]	gm	YBL011W
+acylglycerone phosphates[c]	gm	YBL011W
+glycerone phosphate[c]	gm	YBL011W
+acyl CoAs[c]	gm	YBL011W
+H2O[c]	gm	YKR031C
+phosphatidylcholines[c]	gm	YKR031C
+choline[c]	gm	YKR031C
+phosphatidate[c]	gm	YKR031C
+H2O[c]	gm	YOR081C
+triglycerides[c]	gm	YOR081C
+diglycerides[c]	gm	YOR081C
+acyl acids[c]	gm	YOR081C
+H2O[c]	gm	YDR058C
+triglycerides[c]	gm	YDR058C
+diglycerides[c]	gm	YDR058C
+acyl acids[c]	gm	YDR058C
+H2O[c]	gm	YMR313C
+triglycerides[c]	gm	YMR313C
+diglycerides[c]	gm	YMR313C
+acyl acids[c]	gm	YMR313C
+H2O[c]	gm	YKR089C
+triglycerides[c]	gm	YKR089C
+diglycerides[c]	gm	YKR089C
+acyl acids[c]	gm	YKR089C
+FAD[m]	gm	YIL155C
+sn-glycerol 3-phosphate[c]	gm	YIL155C
+FADH2[m]	gm	YIL155C
+glycerone phosphate[c]	gm	YIL155C
+NADP(+)[c]	gm	YOR120W
+glycerol[c]	gm	YOR120W
+NADPH[c]	gm	YOR120W
+glycerone[c]	gm	YOR120W
+phosphatidylglycerol[m]	gm	YPL206C
+sn-glycerol 3-phosphate[m]	gm	YPL206C
+diacylglycerol[m]	gm	YPL206C
+NADP(+)[c]	gm	YMR226C
+L-serine[c]	gm	YMR226C
+NADPH[c]	gm	YMR226C
+2-aminomalonate semialdehyde[c]	gm	YMR226C
+L-serine[c]	gm	YKL218C
+D-serine[c]	gm	YKL218C
+L-threonine[c]	gm	YCL064C
+2-oxobutanoate[c]	gm	YCL064C
+NH3[c]	gm	YCL064C
+L-serine[c]	gm	YCL064C
+pyruvate[c]	gm	YCL064C
+NH3[c]	gm	YCL064C
+L-serine[c]	gm	YIL167W
+pyruvate[c]	gm	YIL167W
+NH3[c]	gm	YIL167W
+L-serine[c]	gm	YIL168W
+pyruvate[c]	gm	YIL168W
+NH3[c]	gm	YIL168W
+L-serine[c]	gm	YGR155W
+homocysteine[c]	gm	YGR155W
+L-cystathionine[c]	gm	YGR155W
+H2O[c]	gm	YGR155W
+tetrahydrofolate[c]	gm	YDR019C
+NAD(+)[c]	gm	YDR019C
+glycine[c]	gm	YDR019C
+5,10-methylenetetrahydrofolate[c]	gm	YDR019C
+NADH[c]	gm	YDR019C
+CO2[c]	gm	YDR019C
+NH3[c]	gm	YDR019C
+acetaldehyde[c]	gm	YEL046C
+glycine[c]	gm	YEL046C
+L-threonine[c]	gm	YEL046C
+NADPH[c]	gm	YDR158W
+4-phospho-L-aspartate[c]	gm	YDR158W
+NADP(+)[c]	gm	YDR158W
+L-aspartate 4-semialdehyde[c]	gm	YDR158W
+phosphate[c]	gm	YDR158W
+ATP[c]	gm	YER052C
+L-aspartate[c]	gm	YER052C
+ADP[c]	gm	YER052C
+4-phospho-L-aspartate[c]	gm	YER052C
+NADH[c]	gm	YJR139C
+L-aspartate 4-semialdehyde[c]	gm	YJR139C
+NAD(+)[c]	gm	YJR139C
+L-homoserine[c]	gm	YJR139C
+NADPH[c]	gm	YJR139C
+L-aspartate 4-semialdehyde[c]	gm	YJR139C
+NADP(+)[c]	gm	YJR139C
+L-homoserine[c]	gm	YJR139C
+tetrahydrofolate[c]	gm	YLR058C
+L-serine[c]	gm	YLR058C
+5,10-methylenetetrahydrofolate[c]	gm	YLR058C
+glycine[c]	gm	YLR058C
+H2O[c]	gm	YLR058C
+O-phospho-L-homoserine[c]	gm	YCR053W
+H2O[c]	gm	YCR053W
+L-threonine[c]	gm	YCR053W
+phosphate[c]	gm	YCR053W
+3-phosphonooxypyruvate[c]	gm	YOR184W
+L-glutamate[c]	gm	YOR184W
+O-phosphoserine[c]	gm	YOR184W
+2-oxoglutarate[c]	gm	YOR184W
+O-phosphoserine[c]	gm	YGR208W
+H2O[c]	gm	YGR208W
+L-serine[c]	gm	YGR208W
+phosphate[c]	gm	YGR208W
+NAD(+)[c]	gm	YER081W
+3-phospho-D-glycerate[c]	gm	YER081W
+NADH[c]	gm	YER081W
+3-phosphonooxypyruvate[c]	gm	YER081W
+NAD(+)[c]	gm	YIL074C
+3-phospho-D-glycerate[c]	gm	YIL074C
+NADH[c]	gm	YIL074C
+3-phosphonooxypyruvate[c]	gm	YIL074C
+ATP[c]	gm	YHR025W
+L-homoserine[c]	gm	YHR025W
+ADP[c]	gm	YHR025W
+O-phospho-L-homoserine[c]	gm	YHR025W
+glyoxylate[c]	gm	YFL030W
+L-alanine[c]	gm	YFL030W
+glycine[c]	gm	YFL030W
+pyruvate[c]	gm	YFL030W
+tetrahydrofolate[m]	gm	YDR019C
+NAD(+)[m]	gm	YDR019C
+glycine[m]	gm	YDR019C
+5,10-methylenetetrahydrofolate[m]	gm	YDR019C
+NADH[m]	gm	YDR019C
+CO2[c]	gm	YDR019C
+NH3[c]	gm	YDR019C
+glycine[m]	gm	YMR189W
+lipoamide[m]	gm	YMR189W
+CO2[m]	gm	YMR189W
+S-aminomethyldihydrolipoylprotein[m]	gm	YMR189W
+L-threonine[m]	gm	YER086W
+2-oxobutanoate[m]	gm	YER086W
+NH3[m]	gm	YER086W
+tetrahydrofolate[m]	gm	YBR263W
+L-serine[m]	gm	YBR263W
+5,10-methylenetetrahydrofolate[m]	gm	YBR263W
+glycine[m]	gm	YBR263W
+H2O[m]	gm	YBR263W
+phosphate[c]	gm	YEL011W
+glycogen[c]	gm	YEL011W
+D-glucose 1-phosphate[c]	gm	YEL011W
+phosphate[c]	gm	YMR215W
+glycogen[c]	gm	YMR215W
+D-glucose 1-phosphate[c]	gm	YMR215W
+UDP-glucose[c]	gm	YFR015C
+UDP[c]	gm	YFR015C
+glycogen[c]	gm	YFR015C
+UDP-glucose[c]	gm	YKR058W
+UDP[c]	gm	YKR058W
+glycogen[c]	gm	YKR058W
+UDP-glucose[c]	gm	YLR258W
+UDP[c]	gm	YLR258W
+glycogen[c]	gm	YLR258W
+UDP-glucose[c]	gm	YJL137C
+UDP[c]	gm	YJL137C
+glycogen[c]	gm	YJL137C
+ADP[c]	gm	YAL038W
+phosphoenolpyruvate[c]	gm	YAL038W
+ATP[c]	gm	YAL038W
+pyruvate[c]	gm	YAL038W
+ADP[c]	gm	YOR347C
+phosphoenolpyruvate[c]	gm	YOR347C
+ATP[c]	gm	YOR347C
+pyruvate[c]	gm	YOR347C
+2-phospho-D-glycerate[c]	gm	YGR254W
+phosphoenolpyruvate[c]	gm	YGR254W
+H2O[c]	gm	YGR254W
+2-phospho-D-glycerate[c]	gm	YHR174W
+phosphoenolpyruvate[c]	gm	YHR174W
+H2O[c]	gm	YHR174W
+2-phospho-D-glycerate[c]	gm	YMR323W
+phosphoenolpyruvate[c]	gm	YMR323W
+H2O[c]	gm	YMR323W
+2-phospho-D-glycerate[c]	gm	YOR393W
+phosphoenolpyruvate[c]	gm	YOR393W
+H2O[c]	gm	YOR393W
+2-phospho-D-glycerate[c]	gm	YPL281C
+phosphoenolpyruvate[c]	gm	YPL281C
+H2O[c]	gm	YPL281C
+beta-D-fructofuranose 1,6-bisphosphate[c]	gm	YKL060C
+D-glyceraldehyde 3-phosphate[c]	gm	YKL060C
+glycerone phosphate[c]	gm	YKL060C
+ATP[c]	gm	YCL040W
+alpha-D-glucose[c]	gm	YCL040W
+ADP[c]	gm	YCL040W
+alpha-D-glucose 6-phosphate[c]	gm	YCL040W
+ATP[c]	gm	YFR053C
+alpha-D-glucose[c]	gm	YFR053C
+ADP[c]	gm	YFR053C
+alpha-D-glucose 6-phosphate[c]	gm	YFR053C
+ATP[c]	gm	YGL253W
+alpha-D-glucose[c]	gm	YGL253W
+ADP[c]	gm	YGL253W
+alpha-D-glucose 6-phosphate[c]	gm	YGL253W
+ATP[c]	gm	YCL040W
+alpha-D-mannose[c]	gm	YCL040W
+ADP[c]	gm	YCL040W
+D-mannose 6-phosphate[c]	gm	YCL040W
+ATP[c]	gm	YFR053C
+alpha-D-mannose[c]	gm	YFR053C
+ADP[c]	gm	YFR053C
+D-mannose 6-phosphate[c]	gm	YFR053C
+ATP[c]	gm	YGL253W
+alpha-D-mannose[c]	gm	YGL253W
+ADP[c]	gm	YGL253W
+D-mannose 6-phosphate[c]	gm	YGL253W
+ATP[c]	gm	YCL040W
+beta-D-glucose[c]	gm	YCL040W
+ADP[c]	gm	YCL040W
+beta-D-glucose 6-phosphate[c]	gm	YCL040W
+3-phospho-D-glyceroyl phosphate[c]	gm	YKL152C
+2,3-bisphospho-D-glycerate[c]	gm	YKL152C
+3-phospho-D-glycerate[c]	gm	YDL021W
+2-phospho-D-glycerate[c]	gm	YDL021W
+3-phospho-D-glycerate[c]	gm	YKL152C
+2-phospho-D-glycerate[c]	gm	YKL152C
+3-phospho-D-glycerate[c]	gm	YOL056W
+2-phospho-D-glycerate[c]	gm	YOL056W
+ATP[c]	gm	YFR053C
+beta-D-glucose[c]	gm	YFR053C
+ADP[c]	gm	YFR053C
+alpha-D-glucose 6-phosphate[c]	gm	YFR053C
+ATP[c]	gm	YGL253W
+beta-D-glucose[c]	gm	YGL253W
+ADP[c]	gm	YGL253W
+alpha-D-glucose 6-phosphate[c]	gm	YGL253W
+ATP[c]	gm	YFR053C
+D-fructose[c]	gm	YFR053C
+ADP[c]	gm	YFR053C
+beta-D-fructofuranose 6-phosphate[c]	gm	YFR053C
+ATP[c]	gm	YGL253W
+D-fructose[c]	gm	YGL253W
+ADP[c]	gm	YGL253W
+beta-D-fructofuranose 6-phosphate[c]	gm	YGL253W
+ATP[c]	gm	YGR240C
+beta-D-fructofuranose 6-phosphate[c]	gm	YGR240C
+ADP[c]	gm	YGR240C
+beta-D-fructofuranose 1,6-bisphosphate[c]	gm	YGR240C
+ATP[c]	gm	YMR205C
+beta-D-fructofuranose 6-phosphate[c]	gm	YMR205C
+ADP[c]	gm	YMR205C
+beta-D-fructofuranose 1,6-bisphosphate[c]	gm	YMR205C
+ATP[c]	gm	YGR240C
+D-tagatofuranose 6-phosphate[c]	gm	YGR240C
+ADP[c]	gm	YGR240C
+D-tagatofuranose 1,6-bisphosphate[c]	gm	YGR240C
+ATP[c]	gm	YGR240C
+sedoheptulose 7-phosphate[c]	gm	YGR240C
+ADP[c]	gm	YGR240C
+sedoheptulose 1,7-bisphosphate[c]	gm	YGR240C
+alpha-D-glucose 6-phosphate[c]	gm	YBR196C
+beta-D-fructofuranose 6-phosphate[c]	gm	YBR196C
+alpha-D-glucose 6-phosphate[c]	gm	YBR196C
+beta-D-glucose 6-phosphate[c]	gm	YBR196C
+beta-D-glucose 6-phosphate[c]	gm	YBR196C
+beta-D-fructofuranose 6-phosphate[c]	gm	YBR196C
+ADP[c]	gm	YCR012W
+3-phospho-D-glyceroyl phosphate[c]	gm	YCR012W
+ATP[c]	gm	YCR012W
+3-phospho-D-glycerate[c]	gm	YCR012W
+NAD(+)[c]	gm	YGR192C
+D-glyceraldehyde 3-phosphate[c]	gm	YGR192C
+phosphate[c]	gm	YGR192C
+NADH[c]	gm	YGR192C
+3-phospho-D-glyceroyl phosphate[c]	gm	YGR192C
+NAD(+)[c]	gm	YJL052W
+D-glyceraldehyde 3-phosphate[c]	gm	YJL052W
+phosphate[c]	gm	YJL052W
+NADH[c]	gm	YJL052W
+3-phospho-D-glyceroyl phosphate[c]	gm	YJL052W
+NAD(+)[c]	gm	YJR009C
+D-glyceraldehyde 3-phosphate[c]	gm	YJR009C
+phosphate[c]	gm	YJR009C
+NADH[c]	gm	YJR009C
+3-phospho-D-glyceroyl phosphate[c]	gm	YJR009C
+glycerone phosphate[c]	gm	YDR050C
+D-glyceraldehyde 3-phosphate[c]	gm	YDR050C
+S-acetyldihydrolipoamide[m]	gm	YNL071W
+coenzyme A[m]	gm	YNL071W
+acetyl-CoA[m]	gm	YNL071W
+dihydrolipoamide[m]	gm	YNL071W
+pyruvate[m]	gm	YBR221C
+lipoamide[m]	gm	YBR221C
+S-acetyldihydrolipoamide[m]	gm	YBR221C
+CO2[m]	gm	YBR221C
+pyruvate[m]	gm	YER178W
+lipoamide[m]	gm	YER178W
+S-acetyldihydrolipoamide[m]	gm	YER178W
+CO2[m]	gm	YER178W
+pyruvate[m]	gm	YNL071W
+lipoamide[m]	gm	YNL071W
+S-acetyldihydrolipoamide[m]	gm	YNL071W
+CO2[m]	gm	YNL071W
+GDP-mannose[c]	gm	YPR183W
+dolichyl phosphate[c]	gm	YPR183W
+GDP[c]	gm	YPR183W
+dolichyl phosphate D-mannose[c]	gm	YPR183W
+GDP-mannose[c]	gm	YBR205W
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YBR205W
+GDP[c]	gm	YBR205W
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YBR205W
+GDP-mannose[c]	gm	YOR099W
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YOR099W
+GDP[c]	gm	YOR099W
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YOR099W
+GDP-mannose[c]	gm	YPL053C
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YPL053C
+GDP[c]	gm	YPL053C
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YPL053C
+GDP-mannose[c]	gm	YJL139C
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YJL139C
+GDP[c]	gm	YJL139C
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YJL139C
+GDP-mannose[c]	gm	YDR483W
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YDR483W
+GDP[c]	gm	YDR483W
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YDR483W
+GDP-mannose[c]	gm	YKR061W
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YKR061W
+GDP[c]	gm	YKR061W
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YKR061W
+GDP-mannose[c]	gm	YBR199W
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YBR199W
+GDP[c]	gm	YBR199W
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YBR199W
+GDP-mannose[c]	gm	YNL029C
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol[c]	gm	YNL029C
+GDP[c]	gm	YNL029C
+alpha-D-mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol[c]	gm	YNL029C
+dolichyl phosphate D-mannose[c]	gm	YAL023C
+dolichyl phosphate[c]	gm	YAL023C
+mannan[c]	gm	YAL023C
+dolichyl phosphate D-mannose[c]	gm	YDL093W
+dolichyl phosphate[c]	gm	YDL093W
+mannan[c]	gm	YDL093W
+dolichyl phosphate D-mannose[c]	gm	YDL095W
+dolichyl phosphate[c]	gm	YDL095W
+mannan[c]	gm	YDL095W
+dolichyl phosphate D-mannose[c]	gm	YGR199W
+dolichyl phosphate[c]	gm	YGR199W
+mannan[c]	gm	YGR199W
+dolichyl phosphate D-mannose[c]	gm	YJR143C
+dolichyl phosphate[c]	gm	YJR143C
+mannan[c]	gm	YJR143C
+dolichyl phosphate D-mannose[c]	gm	YOR321W
+dolichyl phosphate[c]	gm	YOR321W
+mannan[c]	gm	YOR321W
+dolichol[c]	gm	YMR013C
+CTP[c]	gm	YMR013C
+CDP[c]	gm	YMR013C
+dolichyl phosphate[c]	gm	YMR013C
+dolichyl phosphate D-mannose[c]	gm	YGL142C
+phosphatidylethanolamine-Man(2)GlcN-(acyl)-P-inositol[c]	gm	YGL142C
+dolichyl phosphate[c]	gm	YGL142C
+phosphatidylethanolamine-Man(3)GlcN-(acyl)-P-inositol[c]	gm	YGL142C
+phosphatidylethanolamines[c]	gm	YDR302W
+phosphatidylethanolamine-Man(3)GlcN-(acyl)-P-inositol[c]	gm	YDR302W
+phosphatidylethanolamine(2)-Man(3)GlcN-(acyl)-P-inosito[c]	gm	YDR302W
+phosphatidylethanolamines[c]	gm	YLL031C
+phosphatidylethanolamine-Man(3)GlcN-(acyl)-P-inositol[c]	gm	YLL031C
+phosphatidylethanolamine(2)-Man(3)GlcN-(acyl)-P-inosito[c]	gm	YLL031C
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YMR281W
+acetate[c]	gm	YMR281W
+glucosaminylphosphatidylinositol[c]	gm	YMR281W
+dolichyl phosphate D-mannose[c]	gm	YJR013W
+glucosaminyl(acyl)phosphatidylinositol[c]	gm	YJR013W
+dolichyl phosphate[c]	gm	YJR013W
+mannoseglucosaminyl(acyl)phosphatidylinositol[c]	gm	YJR013W
+dolichyl phosphate D-mannose[c]	gm	YCL052C
+glucosaminyl(acyl)phosphatidylinositol[c]	gm	YCL052C
+dolichyl phosphate[c]	gm	YCL052C
+mannoseglucosaminyl(acyl)phosphatidylinositol[c]	gm	YCL052C
+dolichyl phosphate D-mannose[c]	gm	YBR004C
+phosphatidylethanolaminemannoseglucosaminyl(acyl)phosphatidylinositol[c]	gm	YBR004C
+dolichyl phosphate[c]	gm	YBR004C
+phosphatidylethanolamine-Man(2)GlcN-(acyl)-P-inositol[c]	gm	YBR004C
+acyl CoAs[c]	gm	YJL091C
+glucosaminylphosphatidylinositol[c]	gm	YJL091C
+coenzyme A[c]	gm	YJL091C
+glucosaminyl(acyl)phosphatidylinositol[c]	gm	YJL091C
+phosphatidylethanolamines[c]	gm	YKL165C
+mannoseglucosaminyl(acyl)phosphatidylinositol[c]	gm	YKL165C
+phosphatidylethanolaminemannoseglucosaminyl(acyl)phosphatidylinositol[c]	gm	YKL165C
+UDP-N-acetyl-D-glucosamine[c]	gm	YPL175W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YPL175W
+UMP[c]	gm	YPL175W
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YPL175W
+UDP-N-acetyl-D-glucosamine[c]	gm	YPL076W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YPL076W
+UMP[c]	gm	YPL076W
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YPL076W
+UDP-N-acetyl-D-glucosamine[c]	gm	YNL038W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YNL038W
+UMP[c]	gm	YNL038W
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YNL038W
+UDP-N-acetyl-D-glucosamine[c]	gm	YDR437W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YDR437W
+UMP[c]	gm	YDR437W
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YDR437W
+UDP-N-acetyl-D-glucosamine[c]	gm	YGR216C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YGR216C
+UMP[c]	gm	YGR216C
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YGR216C
+UDP-N-acetyl-D-glucosamine[c]	gm	YPL096C-A
+1-phosphatidyl-1D-myo-inositols[c]	gm	YPL096C-A
+UMP[c]	gm	YPL096C-A
+N-acetylglucosaminylphosphatidylinositol[c]	gm	YPL096C-A
+glutathione[c]	gm	YML004C
+methylglyoxal[c]	gm	YML004C
+(R)-S-lactoylglutathione[c]	gm	YML004C
+(R)-S-lactoylglutathione[c]	gm	YDR272W
+H2O[c]	gm	YDR272W
+glutathione[c]	gm	YDR272W
+(R)-lactate[c]	gm	YDR272W
+(R)-S-lactoylglutathione[m]	gm	YOR040W
+H2O[m]	gm	YOR040W
+glutathione[m]	gm	YOR040W
+(R)-lactate[m]	gm	YOR040W
+allantoin[c]	gm	YIR027C
+allantoate[c]	gm	YIR027C
+allantoate[c]	gm	YIR029W
+(-)-ureidoglycolate[c]	gm	YIR029W
+urea[c]	gm	YIR029W
+(-)-ureidoglycolate[c]	gm	YIR032C
+glyoxylate[c]	gm	YIR032C
+CO2[c]	gm	YIR032C
+NH3[c]	gm	YIR032C
+S-adenosyl-L-methionine[c]	gm	YPL266W
+2-nonaprenyl-6-hydroxyphenol[c]	gm	YPL266W
+S-adenosyl-L-homocysteine[c]	gm	YPL266W
+2-nonaprenyl-6-methoxyphenol[c]	gm	YPL266W
+S-adenosyl-L-methionine[c]	gm	YBR034C
+L-histidine[c]	gm	YBR034C
+S-adenosyl-L-homocysteine[c]	gm	YBR034C
+N(pi)-methyl-L-histidine[c]	gm	YBR034C
+S-adenosyl-L-methionine[c]	gm	YML110C
+L-histidine[c]	gm	YML110C
+S-adenosyl-L-homocysteine[c]	gm	YML110C
+N(pi)-methyl-L-histidine[c]	gm	YML110C
+S-adenosyl-L-methionine[c]	gm	YPL266W
+L-histidine[c]	gm	YPL266W
+S-adenosyl-L-homocysteine[c]	gm	YPL266W
+N(pi)-methyl-L-histidine[c]	gm	YPL266W
+S-adenosyl-L-methionine[c]	gm	YCL054W
+L-histidine[c]	gm	YCL054W
+S-adenosyl-L-homocysteine[c]	gm	YCL054W
+N(pi)-methyl-L-histidine[c]	gm	YCL054W
+S-adenosyl-L-methionine[c]	gm	YOR201C
+L-histidine[c]	gm	YOR201C
+S-adenosyl-L-homocysteine[c]	gm	YOR201C
+N(pi)-methyl-L-histidine[c]	gm	YOR201C
+ATP[c]	gm	YBL068W
+D-ribose 5-phosphate[c]	gm	YBL068W
+AMP[c]	gm	YBL068W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YBL068W
+ATP[c]	gm	YER099C
+D-ribose 5-phosphate[c]	gm	YER099C
+AMP[c]	gm	YER099C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YER099C
+ATP[c]	gm	YHL011C
+D-ribose 5-phosphate[c]	gm	YHL011C
+AMP[c]	gm	YHL011C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YHL011C
+ATP[c]	gm	YKL181W
+D-ribose 5-phosphate[c]	gm	YKL181W
+AMP[c]	gm	YKL181W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YKL181W
+ATP[c]	gm	YOL061W
+D-ribose 5-phosphate[c]	gm	YOL061W
+AMP[c]	gm	YOL061W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YOL061W
+L-histidinol phosphate[c]	gm	YFR025C
+H2O[c]	gm	YFR025C
+L-histidinol[c]	gm	YFR025C
+phosphate[c]	gm	YFR025C
+ATP[c]	gm	YER055C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YER055C
+1-(5-phospho-D-ribosyl)-ATP[c]	gm	YER055C
+diphosphate[c]	gm	YER055C
+D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate[c]	gm	YOR202W
+3-(imidazol-4-yl)-2-oxopropyl phosphate[c]	gm	YOR202W
+H2O[c]	gm	YOR202W
+1-(5-phospho-D-ribosyl)-ATP[c]	gm	YCL030C
+H2O[c]	gm	YCL030C
+phosphoribosyl-AMP[c]	gm	YCL030C
+diphosphate[c]	gm	YCL030C
+phosphoribosyl-AMP[c]	gm	YCL030C
+H2O[c]	gm	YCL030C
+1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide[c]	gm	YCL030C
+NAD(+)[c]	gm	YCL030C
+L-histidinol[c]	gm	YCL030C
+H2O[c]	gm	YCL030C
+NADH[c]	gm	YCL030C
+L-histidine[c]	gm	YCL030C
+L-glutamate[c]	gm	YIL116W
+3-(imidazol-4-yl)-2-oxopropyl phosphate[c]	gm	YIL116W
+2-oxoglutarate[c]	gm	YIL116W
+L-histidinol phosphate[c]	gm	YIL116W
+1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide[c]	gm	YIL020C
+5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YIL020C
+5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YBR248C
+L-glutamine[c]	gm	YBR248C
+L-glutamate[c]	gm	YBR248C
+D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate[c]	gm	YBR248C
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YBR248C
+GDP-mannose[c]	gm	YBR110W
+N,N'-diacetylchitobiosyldiphosphodolichol[c]	gm	YBR110W
+GDP[c]	gm	YBR110W
+alpha-D-mannosylchitobiosyldiphosphodolichol[c]	gm	YBR110W
+GDP-mannose[c]	gm	YNL048W
+Mannose(3)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL048W
+GDP[c]	gm	YNL048W
+Mannose(4)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL048W
+GDP-mannose[c]	gm	YNL048W
+Mannose(4)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL048W
+GDP[c]	gm	YNL048W
+Mannose(5)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL048W
+dolichyl phosphate D-mannose[c]	gm	YNR030W
+Mannose(7)GlucoseNAc(2)-PP-dolichol[c]	gm	YNR030W
+dolichyl phosphate[c]	gm	YNR030W
+Mannose(8)GlucoseNAc(2)-PP-dolichol[c]	gm	YNR030W
+UDP-N-acetyl-D-glucosamine[c]	gm	YBR070C
+N-acetyl-D-diglucosaminyldiphosphodolichol[c]	gm	YBR070C
+UDP[c]	gm	YBR070C
+N,N'-diacetylchitobiosyldiphosphodolichol[c]	gm	YBR070C
+UDP-N-acetyl-D-glucosamine[c]	gm	YGL047W
+N-acetyl-D-diglucosaminyldiphosphodolichol[c]	gm	YGL047W
+UDP[c]	gm	YGL047W
+N,N'-diacetylchitobiosyldiphosphodolichol[c]	gm	YGL047W
+GDP-mannose[c]	gm	YGL065C
+alpha-D-mannosylchitobiosyldiphosphodolichol[c]	gm	YGL065C
+GDP[c]	gm	YGL065C
+Mannose(2)GlucoseNAc(2)-PP-dolichol[c]	gm	YGL065C
+GDP-mannose[c]	gm	YGL065C
+Mannose(2)GlucoseNAc(2)-PP-dolichol[c]	gm	YGL065C
+GDP[c]	gm	YGL065C
+Mannose(3)GlucoseNAc(2)-PP-dolichol[c]	gm	YGL065C
+dolichyl phosphate D-mannose[c]	gm	YBL082C
+Mannose(5)GlucoseNAc(2)-PP-dolichol[c]	gm	YBL082C
+dolichyl phosphate[c]	gm	YBL082C
+Mannose(6)GlucoseNAc(2)-PP-dolichol[c]	gm	YBL082C
+dolichyl beta-D-glucosyl phosphate[c]	gm	YOR002W
+Mannose(8)GlucoseNAc(2)-PP-dolichol[c]	gm	YOR002W
+dolichyl phosphate[c]	gm	YOR002W
+GlucoseMannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YOR002W
+UDP-N-acetyl-D-glucosamine[c]	gm	YBR243C
+dolichyl phosphate[c]	gm	YBR243C
+UMP[c]	gm	YBR243C
+N-acetyl-D-diglucosaminyldiphosphodolichol[c]	gm	YBR243C
+dolichyl beta-D-glucosyl phosphate[c]	gm	YOR067C
+GlucoseMannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YOR067C
+dolichyl phosphate[c]	gm	YOR067C
+Glucose(2)Mannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YOR067C
+dolichyl phosphate D-mannose[c]	gm	YNL219C
+Mannose(6)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL219C
+dolichyl phosphate[c]	gm	YNL219C
+Mannose(7)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL219C
+dolichyl phosphate D-mannose[c]	gm	YNL219C
+Mannose(8)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL219C
+dolichyl phosphate[c]	gm	YNL219C
+Mannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YNL219C
+dolichyl beta-D-glucosyl phosphate[c]	gm	YGR227W
+Glucose(2)Mannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YGR227W
+dolichyl phosphate[c]	gm	YGR227W
+Glucose(3)Mannose(9)GlucoseNAc(2)-PP-dolichol[c]	gm	YGR227W
+L-saccharopine[c]	gm	YIR034C
+NAD(+)[c]	gm	YIR034C
+H2O[c]	gm	YIR034C
+NADH[c]	gm	YIR034C
+2-oxoglutarate[c]	gm	YIR034C
+L-lysine[c]	gm	YIR034C
+NADPH[c]	gm	YNR050C
+L-glutamate[c]	gm	YNR050C
+L-2-aminoadipate 6-semialdehyde[c]	gm	YNR050C
+L-saccharopine[c]	gm	YNR050C
+NADP(+)[c]	gm	YNR050C
+H2O[c]	gm	YNR050C
+ATP[c]	gm	YBR115C
+NADPH[c]	gm	YBR115C
+L-2-aminoadipate[c]	gm	YBR115C
+AMP[c]	gm	YBR115C
+NADP(+)[c]	gm	YBR115C
+L-2-aminoadipate 6-semialdehyde[c]	gm	YBR115C
+diphosphate[c]	gm	YBR115C
+ATP[c]	gm	YGL154C
+NADPH[c]	gm	YGL154C
+L-2-aminoadipate[c]	gm	YGL154C
+AMP[c]	gm	YGL154C
+NADP(+)[c]	gm	YGL154C
+L-2-aminoadipate 6-semialdehyde[c]	gm	YGL154C
+diphosphate[c]	gm	YGL154C
+ATP[c]	gm	YBR115C
+NADH[c]	gm	YBR115C
+L-2-aminoadipate[c]	gm	YBR115C
+AMP[c]	gm	YBR115C
+NAD(+)[c]	gm	YBR115C
+L-2-aminoadipate 6-semialdehyde[c]	gm	YBR115C
+diphosphate[c]	gm	YBR115C
+ATP[c]	gm	YGL154C
+NADH[c]	gm	YGL154C
+L-2-aminoadipate[c]	gm	YGL154C
+AMP[c]	gm	YGL154C
+NAD(+)[c]	gm	YGL154C
+L-2-aminoadipate 6-semialdehyde[c]	gm	YGL154C
+diphosphate[c]	gm	YGL154C
+NAD(+)[m]	gm	YIL094C
+homoisocitrate[m]	gm	YIL094C
+NADH[m]	gm	YIL094C
+2-oxoadipate[m]	gm	YIL094C
+CO2[m]	gm	YIL094C
+homoisocitrate[m]	gm	YDR234W
+but-1-ene-1,2,4-tricarboxylate[m]	gm	YDR234W
+H2O[m]	gm	YDR234W
+sucrose[e]	gm	YIL162W
+H2O[c]	gm	YIL162W
+alpha-D-glucose[e]	gm	YIL162W
+D-fructose[e]	gm	YIL162W
+NAD(+)[c]	gm	YJR159W
+D-sorbitol[c]	gm	YJR159W
+NADH[c]	gm	YJR159W
+D-fructose[c]	gm	YJR159W
+NAD(+)[c]	gm	YDL246C
+D-sorbitol[c]	gm	YDL246C
+NADH[c]	gm	YDL246C
+D-fructose[c]	gm	YDL246C
+ATP[c]	gm	YGR194C
+D-xylulose[c]	gm	YGR194C
+ADP[c]	gm	YGR194C
+D-xylulose 5-phosphate[c]	gm	YGR194C
+NAD(+)[c]	gm	YOR388C
+formate[c]	gm	YOR388C
+NADH[c]	gm	YOR388C
+CO2[c]	gm	YOR388C
+NAD(+)[c]	gm	YPL275W
+formate[c]	gm	YPL275W
+NADH[c]	gm	YPL275W
+CO2[c]	gm	YPL275W
+NAD(+)[c]	gm	YPL276W
+formate[c]	gm	YPL276W
+NADH[c]	gm	YPL276W
+CO2[c]	gm	YPL276W
+L-cystathionine[c]	gm	YAL012W
+H2O[c]	gm	YAL012W
+L-cysteine[c]	gm	YAL012W
+2-oxobutanoate[c]	gm	YAL012W
+NH3[c]	gm	YAL012W
+2-(3-amino-3-carboxypropyl)-L-histidine[c]	gm	YLR172C
+S-adenosyl-L-methionine[c]	gm	YLR172C
+2-[3-carboxy-3-(methylammonio)propyl]-L-histidine[c]	gm	YLR172C
+S-adenosyl-L-homocysteine[c]	gm	YLR172C
+O-acetyl-L-homoserine[c]	gm	YLR303W
+methanethiol[c]	gm	YLR303W
+acetate[c]	gm	YLR303W
+L-methionine[c]	gm	YLR303W
+O-acetyl-L-homoserine[c]	gm	YLR303W
+H2S[c]	gm	YLR303W
+acetate[c]	gm	YLR303W
+homocysteine[c]	gm	YLR303W
+5-methyltetrahydropteroyltri-L-glutamate[c]	gm	YER091C
+homocysteine[c]	gm	YER091C
+tetrahydropteroyltri-L-glutamate[c]	gm	YER091C
+L-methionine[c]	gm	YER091C
+L-cystathionine[c]	gm	YGL184C
+H2O[c]	gm	YGL184C
+pyruvate[c]	gm	YGL184C
+L-homocysteine[c]	gm	YGL184C
+NH3[c]	gm	YGL184C
+L-cysteine[c]	gm	YJR130C
+O-acetyl-L-homoserine[c]	gm	YJR130C
+acetate[c]	gm	YJR130C
+L-cystathionine[c]	gm	YJR130C
+ATP[c]	gm	YDR502C
+L-methionine[c]	gm	YDR502C
+H2O[c]	gm	YDR502C
+S-adenosyl-L-methionine[c]	gm	YDR502C
+phosphate[c]	gm	YDR502C
+diphosphate[c]	gm	YDR502C
+ATP[c]	gm	YLR180W
+L-methionine[c]	gm	YLR180W
+H2O[c]	gm	YLR180W
+S-adenosyl-L-methionine[c]	gm	YLR180W
+phosphate[c]	gm	YLR180W
+diphosphate[c]	gm	YLR180W
+5-methylthioadenosine[c]	gm	YLR017W
+phosphate[c]	gm	YLR017W
+adenine[c]	gm	YLR017W
+5-methylthio-5-deoxy-D-ribose 1-phosphate[c]	gm	YLR017W
+S-adenosyl-L-homocysteine[c]	gm	YER043C
+H2O[c]	gm	YER043C
+adenosine[c]	gm	YER043C
+homocysteine[c]	gm	YER043C
+L-cystathionine[c]	gm	YFR055W
+H2O[c]	gm	YFR055W
+pyruvate[c]	gm	YFR055W
+homocysteine[c]	gm	YFR055W
+NH3[c]	gm	YFR055W
+O-succinyl-L-homoserine[c]	gm	YML082W
+2-oxobutanoate[c]	gm	YML082W
+succinate[c]	gm	YML082W
+NH3[c]	gm	YML082W
+acetyl-[acp][m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+acetoacetyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+butyryl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxohexanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+hexanoyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxooctanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+octanoyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxodecanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+decanoyl-[acp][m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxododecanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+dodecanoyl-[acp][m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxotetradecanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+tetradecanoyl-[acp][m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxohexadecanoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+hexadecanoyl-[acp][m]	gm	YER061C
+malonyl-[acp][m]	gm	YER061C
+CO2[m]	gm	YER061C
+3-oxostearoyl-[acp][m]	gm	YER061C
+acyl-carrier protein[m]	gm	YER061C
+malonyl-CoA[m]	gm	YOR221C
+acyl-carrier protein[m]	gm	YOR221C
+coenzyme A[m]	gm	YOR221C
+malonyl-[acp][m]	gm	YOR221C
+NADPH[m]	gm	YKL055C
+acetoacetyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxybutanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxohexanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxyhexanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxooctanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxyoctanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxodecanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxydecanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxododecanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxydodecanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxotetradecanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxytetradecanoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxohexadecanoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+(R)-3-hydroxypalmitoyl-[acp][m]	gm	YKL055C
+NADPH[m]	gm	YKL055C
+3-oxostearoyl-[acp][m]	gm	YKL055C
+NADP(+)[m]	gm	YKL055C
+3-hydroxyoctadecanoyl-[acp][m]	gm	YKL055C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YOR209C
+nicotinate[c]	gm	YOR209C
+nicotinate D-ribonucleotide[c]	gm	YOR209C
+diphosphate[c]	gm	YOR209C
+nicotinamide[c]	gm	YGL037C
+H2O[c]	gm	YGL037C
+nicotinate[c]	gm	YGL037C
+NH3[c]	gm	YGL037C
+ATP[c]	gm	YEL041W
+NAD(+)[c]	gm	YEL041W
+ADP[c]	gm	YEL041W
+NADP(+)[c]	gm	YEL041W
+ATP[c]	gm	YJR049C
+NAD(+)[c]	gm	YJR049C
+ADP[c]	gm	YJR049C
+NADP(+)[c]	gm	YJR049C
+ATP[c]	gm	YPL188W
+NAD(+)[c]	gm	YPL188W
+ADP[c]	gm	YPL188W
+NADP(+)[c]	gm	YPL188W
+ATP[c]	gm	YHR074W
+deamido-NAD(+)[c]	gm	YHR074W
+NH3[c]	gm	YHR074W
+AMP[c]	gm	YHR074W
+NAD(+)[c]	gm	YHR074W
+diphosphate[c]	gm	YHR074W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YFR047C
+quinolinate[c]	gm	YFR047C
+nicotinate D-ribonucleotide[c]	gm	YFR047C
+CO2[c]	gm	YFR047C
+diphosphate[c]	gm	YFR047C
+alpha-D-ribose 1-phosphate[c]	gm	YDR400W
+nicotinamide[c]	gm	YDR400W
+N-ribosylnicotinamide[c]	gm	YDR400W
+phosphate[c]	gm	YDR400W
+alpha-D-ribose 1-phosphate[c]	gm	YLR017W
+nicotinamide[c]	gm	YLR017W
+N-ribosylnicotinamide[c]	gm	YLR017W
+phosphate[c]	gm	YLR017W
+alpha-D-ribose 1-phosphate[c]	gm	YLR209C
+nicotinamide[c]	gm	YLR209C
+N-ribosylnicotinamide[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+ATP[c]	gm	YNL129W
+N-ribosylnicotinamide[c]	gm	YNL129W
+ADP[c]	gm	YNL129W
+nicotinamide mononucleotide[c]	gm	YNL129W
+ATP[c]	gm	YGR010W
+nicotinate D-ribonucleotide[c]	gm	YGR010W
+deamino-NAD(+)[c]	gm	YGR010W
+diphosphate[c]	gm	YGR010W
+ATP[c]	gm	YGR010W
+nicotinamide mononucleotide[c]	gm	YGR010W
+NAD(+)[c]	gm	YGR010W
+diphosphate[c]	gm	YGR010W
+S-adenosyl-L-methionine[c]	gm	YLR285W
+nicotinamide[c]	gm	YLR285W
+S-adenosyl-L-homocysteine[c]	gm	YLR285W
+1-methylnicotinamide[c]	gm	YLR285W
+ATP[c]	gm	YLR328W
+nicotinate D-ribonucleotide[c]	gm	YLR328W
+deamido-NAD(+)[c]	gm	YLR328W
+diphosphate[c]	gm	YLR328W
+NAD(+)[p]	gm	YGL067W
+H2O[p]	gm	YGL067W
+AMP[p]	gm	YGL067W
+nicotinamide mononucleotide[p]	gm	YGL067W
+UDP-glucose[c]	gm	YPL227C
+dolichyl phosphate[c]	gm	YPL227C
+UDP[c]	gm	YPL227C
+dolichyl beta-D-glucosyl phosphate[c]	gm	YPL227C
+5-phospho-alpha-D-ribose 1-diphosphate[m]	gm	YOR209C
+nicotinate[m]	gm	YOR209C
+nicotinate D-ribonucleotide[m]	gm	YOR209C
+diphosphate[m]	gm	YOR209C
+adenosine[m]	gm	YLR209C
+phosphate[m]	gm	YLR209C
+alpha-D-ribose 1-phosphate[m]	gm	YLR209C
+adenine[m]	gm	YLR209C
+guanosine[m]	gm	YLR209C
+phosphate[m]	gm	YLR209C
+alpha-D-ribose 1-phosphate[m]	gm	YLR209C
+guanine[m]	gm	YLR209C
+ATP[m]	gm	YEL041W
+NAD(+)[m]	gm	YEL041W
+ADP[m]	gm	YEL041W
+NADP(+)[m]	gm	YEL041W
+ATP[m]	gm	YJR049C
+NAD(+)[m]	gm	YJR049C
+ADP[m]	gm	YJR049C
+NADP(+)[m]	gm	YJR049C
+ATP[m]	gm	YPL188W
+NAD(+)[m]	gm	YPL188W
+ADP[m]	gm	YPL188W
+NADP(+)[m]	gm	YPL188W
+ATP[m]	gm	YHR074W
+deamido-NAD(+)[m]	gm	YHR074W
+NH3[m]	gm	YHR074W
+AMP[m]	gm	YHR074W
+NAD(+)[m]	gm	YHR074W
+diphosphate[m]	gm	YHR074W
+5-phospho-alpha-D-ribose 1-diphosphate[m]	gm	YFR047C
+quinolinate[m]	gm	YFR047C
+nicotinate D-ribonucleotide[m]	gm	YFR047C
+CO2[m]	gm	YFR047C
+diphosphate[m]	gm	YFR047C
+nicotinamide[m]	gm	YGL037C
+H2O[m]	gm	YGL037C
+nicotinate[m]	gm	YGL037C
+NH3[m]	gm	YGL037C
+ATP[m]	gm	YLR328W
+nicotinate D-ribonucleotide[m]	gm	YLR328W
+deamido-NAD(+)[m]	gm	YLR328W
+diphosphate[m]	gm	YLR328W
+ATP[m]	gm	YLR328W
+nicotinamide mononucleotide[m]	gm	YLR328W
+NAD(+)[m]	gm	YLR328W
+diphosphate[m]	gm	YLR328W
+ATP[c]	gm	YBR208C
+urea[c]	gm	YBR208C
+CO2[c]	gm	YBR208C
+H2O[c]	gm	YBR208C
+ADP[c]	gm	YBR208C
+urea-1-carboxylate[c]	gm	YBR208C
+phosphate[c]	gm	YBR208C
+urea-1-carboxylate[c]	gm	YBR208C
+H2O[c]	gm	YBR208C
+CO2[c]	gm	YBR208C
+NH3[c]	gm	YBR208C
+indole-3-acetonitrile[c]	gm	YJL126W
+H2O[c]	gm	YJL126W
+indole-3-acetate[c]	gm	YJL126W
+NH3[c]	gm	YJL126W
+indole-3-acetonitrile[c]	gm	YLR351C
+H2O[c]	gm	YLR351C
+indole-3-acetate[c]	gm	YLR351C
+NH3[c]	gm	YLR351C
+indole-3-acetonitrile[c]	gm	YIL164C
+H2O[c]	gm	YIL164C
+indole-3-acetate[c]	gm	YIL164C
+NH3[c]	gm	YIL164C
+GDP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+GMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+GDP[c]	gm	YEL042W
+H2O[c]	gm	YEL042W
+GMP[c]	gm	YEL042W
+phosphate[c]	gm	YEL042W
+UDP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+UMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+ATP[c]	gm	YLR043C
+reduced thioredoxin[c]	gm	YLR043C
+dATP[c]	gm	YLR043C
+H2O[c]	gm	YLR043C
+oxidized thioredoxin[c]	gm	YLR043C
+GTP[c]	gm	YLR043C
+reduced thioredoxin[c]	gm	YLR043C
+dGTP[c]	gm	YLR043C
+H2O[c]	gm	YLR043C
+oxidized thioredoxin[c]	gm	YLR043C
+CTP[c]	gm	YLR043C
+reduced thioredoxin[c]	gm	YLR043C
+dCTP[c]	gm	YLR043C
+H2O[c]	gm	YLR043C
+oxidized thioredoxin[c]	gm	YLR043C
+dUTP[c]	gm	YLR043C
+H2O[c]	gm	YLR043C
+oxidized thioredoxin[c]	gm	YLR043C
+UTP[c]	gm	YLR043C
+reduced thioredoxin[c]	gm	YLR043C
+IMP[c]	gm	YOR155C
+H2O[c]	gm	YOR155C
+inosine[c]	gm	YOR155C
+phosphate[c]	gm	YOR155C
+UTP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+UMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+UMP[c]	gm	YGL224C
+H2O[c]	gm	YGL224C
+uridine[c]	gm	YGL224C
+phosphate[c]	gm	YGL224C
+ATP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+AMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+CMP[c]	gm	YGL224C
+H2O[c]	gm	YGL224C
+cytidine[c]	gm	YGL224C
+phosphate[c]	gm	YGL224C
+GTP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+GMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+ADP[c]	gm	YER005W
+H2O[c]	gm	YER005W
+AMP[c]	gm	YER005W
+phosphate[c]	gm	YER005W
+5,10-methylenetetrahydrofolate[c]	gm	YGR204W
+NADP(+)[c]	gm	YGR204W
+5,10-methenyltetrahydrofolate[c]	gm	YGR204W
+NADPH[c]	gm	YGR204W
+ATP[c]	gm	YGR204W
+tetrahydrofolate[c]	gm	YGR204W
+formate[c]	gm	YGR204W
+ADP[c]	gm	YGR204W
+10-formyltetrahydrofolate[c]	gm	YGR204W
+phosphate[c]	gm	YGR204W
+5,10-methenyltetrahydrofolate[c]	gm	YGR204W
+H2O[c]	gm	YGR204W
+10-formyltetrahydrofolate[c]	gm	YGR204W
+5,10-methylenetetrahydrofolate[c]	gm	YKR080W
+NAD(+)[c]	gm	YKR080W
+5,10-methenyltetrahydrofolate[c]	gm	YKR080W
+NADH[c]	gm	YKR080W
+5,10-methylenetetrahydrofolate[m]	gm	YGL125W
+NADPH[m]	gm	YGL125W
+5-methyltetrahydrofolate[m]	gm	YGL125W
+NADP(+)[m]	gm	YGL125W
+5,10-methylenetetrahydrofolate[m]	gm	YPL023C
+NADPH[m]	gm	YPL023C
+5-methyltetrahydrofolate[m]	gm	YPL023C
+NADP(+)[m]	gm	YPL023C
+5,10-methylenetetrahydrofolate[m]	gm	YBR084W
+NADP(+)[m]	gm	YBR084W
+5,10-methenyltetrahydrofolate[m]	gm	YBR084W
+NADPH[m]	gm	YBR084W
+ATP[m]	gm	YBR084W
+tetrahydrofolate[m]	gm	YBR084W
+formate[m]	gm	YBR084W
+ADP[m]	gm	YBR084W
+10-formyltetrahydrofolate[m]	gm	YBR084W
+phosphate[m]	gm	YBR084W
+5,10-methenyltetrahydrofolate[m]	gm	YBR084W
+H2O[m]	gm	YBR084W
+10-formyltetrahydrofolate[m]	gm	YBR084W
+S-adenosyl-L-homocysteine[c]	gm	YER175C
+E-3-carboxyl-2-pentenedioate 5-methyl ester[c]	gm	YER175C
+S-adenosyl-L-methionine[c]	gm	YER175C
+trans-aconitate[c]	gm	YER175C
+2',3'-cyclic AMP[c]	gm	YGR247W
+adenosine 2'-phosphate[c]	gm	YGR247W
+2-deoxy-D-glucose 6-phosphate[c]	gm	YHR044C
+2-deoxy-D-glucose[c]	gm	YHR044C
+phosphate[c]	gm	YHR044C
+2-deoxy-D-glucose 6-phosphate[c]	gm	YHR043C
+2-deoxy-D-glucose[c]	gm	YHR043C
+phosphate[c]	gm	YHR043C
+hydrogen peroxide[m]	gm	YBL064C
+reduced thioredoxin[m]	gm	YBL064C
+H2O[m]	gm	YBL064C
+oxidized thioredoxin[m]	gm	YBL064C
+hydrogen peroxide[m]	gm	YCR083W
+reduced thioredoxin[m]	gm	YCR083W
+H2O[m]	gm	YCR083W
+oxidized thioredoxin[m]	gm	YCR083W
+NADPH[c]	gm	YHR104W
+D-xylose[c]	gm	YHR104W
+NADP(+)[c]	gm	YHR104W
+xylitol[c]	gm	YHR104W
+oxidized glutathione[c]	gm	YPL059W
+NADPH[c]	gm	YPL059W
+reduced glutathione[c]	gm	YPL059W
+NADP(+)[c]	gm	YPL059W
+oxidized glutathione[c]	gm	YDR098C
+NADPH[c]	gm	YDR098C
+reduced glutathione[c]	gm	YDR098C
+NADP(+)[c]	gm	YDR098C
+oxidized glutathione[c]	gm	YER174C
+NADPH[c]	gm	YER174C
+reduced glutathione[c]	gm	YER174C
+NADP(+)[c]	gm	YER174C
+oxidized glutathione[c]	gm	YCL035C
+NADPH[c]	gm	YCL035C
+reduced glutathione[c]	gm	YCL035C
+NADP(+)[c]	gm	YCL035C
+NADH[c]	gm	YML125C
+ferricytochrome b5[c]	gm	YML125C
+NAD(+)[c]	gm	YML125C
+ferrocytochrome b5[c]	gm	YML125C
+reduced glutathione[c]	gm	YDR513W
+hydrogen peroxide[c]	gm	YDR513W
+oxidized glutathione[c]	gm	YDR513W
+H2O[c]	gm	YDR513W
+fumarate[c]	gm	YPL262W
+H2O[c]	gm	YPL262W
+malate[c]	gm	YPL262W
+diphosphate[c]	gm	YBR011C
+H2O[c]	gm	YBR011C
+phosphate[c]	gm	YBR011C
+NAD(+)[c]	gm	YOL126C
+malate[c]	gm	YOL126C
+NADH[c]	gm	YOL126C
+oxaloacetate[c]	gm	YOL126C
+ADP[m]	gm	Q0080
+phosphate[m]	gm	Q0080
+H(+)[c]	gm	Q0080
+ATP[m]	gm	Q0080
+H(+)[m]	gm	Q0080
+H2O[m]	gm	Q0080
+ADP[m]	gm	Q0085
+phosphate[m]	gm	Q0085
+H(+)[c]	gm	Q0085
+ATP[m]	gm	Q0085
+H(+)[m]	gm	Q0085
+H2O[m]	gm	Q0085
+ADP[m]	gm	Q0130
+phosphate[m]	gm	Q0130
+H(+)[c]	gm	Q0130
+ATP[m]	gm	Q0130
+H(+)[m]	gm	Q0130
+H2O[m]	gm	Q0130
+ADP[m]	gm	YBL099W
+phosphate[m]	gm	YBL099W
+H(+)[c]	gm	YBL099W
+ATP[m]	gm	YBL099W
+H(+)[m]	gm	YBL099W
+H2O[m]	gm	YBL099W
+ADP[m]	gm	YBR039W
+phosphate[m]	gm	YBR039W
+H(+)[c]	gm	YBR039W
+ATP[m]	gm	YBR039W
+H(+)[m]	gm	YBR039W
+H2O[m]	gm	YBR039W
+ADP[m]	gm	YDL004W
+phosphate[m]	gm	YDL004W
+H(+)[c]	gm	YDL004W
+ATP[m]	gm	YDL004W
+H(+)[m]	gm	YDL004W
+H2O[m]	gm	YDL004W
+ADP[m]	gm	YDR298C
+phosphate[m]	gm	YDR298C
+H(+)[c]	gm	YDR298C
+ATP[m]	gm	YDR298C
+H(+)[m]	gm	YDR298C
+H2O[m]	gm	YDR298C
+ADP[m]	gm	YDR377W
+phosphate[m]	gm	YDR377W
+H(+)[c]	gm	YDR377W
+ATP[m]	gm	YDR377W
+H(+)[m]	gm	YDR377W
+H2O[m]	gm	YDR377W
+ADP[m]	gm	YJR121W
+phosphate[m]	gm	YJR121W
+H(+)[c]	gm	YJR121W
+ATP[m]	gm	YJR121W
+H(+)[m]	gm	YJR121W
+H2O[m]	gm	YJR121W
+ADP[m]	gm	YKL016C
+phosphate[m]	gm	YKL016C
+H(+)[c]	gm	YKL016C
+ATP[m]	gm	YKL016C
+H(+)[m]	gm	YKL016C
+H2O[m]	gm	YKL016C
+ADP[m]	gm	YLR295C
+phosphate[m]	gm	YLR295C
+H(+)[c]	gm	YLR295C
+ATP[m]	gm	YLR295C
+H(+)[m]	gm	YLR295C
+H2O[m]	gm	YLR295C
+ADP[m]	gm	YPL078C
+phosphate[m]	gm	YPL078C
+H(+)[c]	gm	YPL078C
+ATP[m]	gm	YPL078C
+H(+)[m]	gm	YPL078C
+H2O[m]	gm	YPL078C
+ADP[m]	gm	YPL271W
+phosphate[m]	gm	YPL271W
+H(+)[c]	gm	YPL271W
+ATP[m]	gm	YPL271W
+H(+)[m]	gm	YPL271W
+H2O[m]	gm	YPL271W
+ADP[m]	gm	YPR020W
+phosphate[m]	gm	YPR020W
+H(+)[c]	gm	YPR020W
+ATP[m]	gm	YPR020W
+H(+)[m]	gm	YPR020W
+H2O[m]	gm	YPR020W
+ADP[m]	gm	YBR127C
+phosphate[m]	gm	YBR127C
+H(+)[c]	gm	YBR127C
+ATP[m]	gm	YBR127C
+H(+)[m]	gm	YBR127C
+H2O[m]	gm	YBR127C
+ADP[m]	gm	YDL185W
+phosphate[m]	gm	YDL185W
+H(+)[c]	gm	YDL185W
+ATP[m]	gm	YDL185W
+H(+)[m]	gm	YDL185W
+H2O[m]	gm	YDL185W
+ADP[m]	gm	YEL027W
+phosphate[m]	gm	YEL027W
+H(+)[c]	gm	YEL027W
+ATP[m]	gm	YEL027W
+H(+)[m]	gm	YEL027W
+H2O[m]	gm	YEL027W
+ADP[m]	gm	YEL051W
+phosphate[m]	gm	YEL051W
+H(+)[c]	gm	YEL051W
+ATP[m]	gm	YEL051W
+H(+)[m]	gm	YEL051W
+H2O[m]	gm	YEL051W
+ADP[m]	gm	YGR020C
+phosphate[m]	gm	YGR020C
+H(+)[c]	gm	YGR020C
+ATP[m]	gm	YGR020C
+H(+)[m]	gm	YGR020C
+H2O[m]	gm	YGR020C
+ADP[m]	gm	YHR026W
+phosphate[m]	gm	YHR026W
+H(+)[c]	gm	YHR026W
+ATP[m]	gm	YHR026W
+H(+)[m]	gm	YHR026W
+H2O[m]	gm	YHR026W
+ADP[m]	gm	YHR039C-A
+phosphate[m]	gm	YHR039C-A
+H(+)[c]	gm	YHR039C-A
+ATP[m]	gm	YHR039C-A
+H(+)[m]	gm	YHR039C-A
+H2O[m]	gm	YHR039C-A
+ADP[m]	gm	YKL080W
+phosphate[m]	gm	YKL080W
+H(+)[c]	gm	YKL080W
+ATP[m]	gm	YKL080W
+H(+)[m]	gm	YKL080W
+H2O[m]	gm	YKL080W
+ADP[m]	gm	YLR447C
+phosphate[m]	gm	YLR447C
+H(+)[c]	gm	YLR447C
+ATP[m]	gm	YLR447C
+H(+)[m]	gm	YLR447C
+H2O[m]	gm	YLR447C
+ADP[m]	gm	YMR054W
+phosphate[m]	gm	YMR054W
+H(+)[c]	gm	YMR054W
+ATP[m]	gm	YMR054W
+H(+)[m]	gm	YMR054W
+H2O[m]	gm	YMR054W
+ADP[m]	gm	YOL077W-A
+phosphate[m]	gm	YOL077W-A
+H(+)[c]	gm	YOL077W-A
+ATP[m]	gm	YOL077W-A
+H(+)[m]	gm	YOL077W-A
+H2O[m]	gm	YOL077W-A
+ADP[m]	gm	YOR270C
+phosphate[m]	gm	YOR270C
+H(+)[c]	gm	YOR270C
+ATP[m]	gm	YOR270C
+H(+)[m]	gm	YOR270C
+H2O[m]	gm	YOR270C
+ADP[m]	gm	YOR332W
+phosphate[m]	gm	YOR332W
+H(+)[c]	gm	YOR332W
+ATP[m]	gm	YOR332W
+H(+)[m]	gm	YOR332W
+H2O[m]	gm	YOR332W
+ADP[m]	gm	YPL234C
+phosphate[m]	gm	YPL234C
+H(+)[c]	gm	YPL234C
+ATP[m]	gm	YPL234C
+H(+)[m]	gm	YPL234C
+H2O[m]	gm	YPL234C
+ADP[m]	gm	YPR036W
+phosphate[m]	gm	YPR036W
+H(+)[c]	gm	YPR036W
+ATP[m]	gm	YPR036W
+H(+)[m]	gm	YPR036W
+H2O[m]	gm	YPR036W
+ADP[m]	gm	YDL181W
+phosphate[m]	gm	YDL181W
+H(+)[c]	gm	YDL181W
+ATP[m]	gm	YDL181W
+H(+)[m]	gm	YDL181W
+H2O[m]	gm	YDL181W
+ADP[m]	gm	YDR322C-A
+phosphate[m]	gm	YDR322C-A
+H(+)[c]	gm	YDR322C-A
+ATP[m]	gm	YDR322C-A
+H(+)[m]	gm	YDR322C-A
+H2O[m]	gm	YDR322C-A
+O2[m]	gm	Q0045
+H(+)[m]	gm	Q0045
+ferrocytochrome c[m]	gm	Q0045
+H(+)[c]	gm	Q0045
+H2O[m]	gm	Q0045
+ferricytochrome c[m]	gm	Q0045
+O2[m]	gm	Q0250
+H(+)[m]	gm	Q0250
+ferrocytochrome c[m]	gm	Q0250
+H(+)[c]	gm	Q0250
+H2O[m]	gm	Q0250
+ferricytochrome c[m]	gm	Q0250
+O2[m]	gm	Q0275
+H(+)[m]	gm	Q0275
+ferrocytochrome c[m]	gm	Q0275
+H(+)[c]	gm	Q0275
+H2O[m]	gm	Q0275
+ferricytochrome c[m]	gm	Q0275
+O2[m]	gm	YDL067C
+H(+)[m]	gm	YDL067C
+ferrocytochrome c[m]	gm	YDL067C
+H(+)[c]	gm	YDL067C
+H2O[m]	gm	YDL067C
+ferricytochrome c[m]	gm	YDL067C
+O2[m]	gm	YGL187C
+H(+)[m]	gm	YGL187C
+ferrocytochrome c[m]	gm	YGL187C
+H(+)[c]	gm	YGL187C
+H2O[m]	gm	YGL187C
+ferricytochrome c[m]	gm	YGL187C
+O2[m]	gm	YGL191W
+H(+)[m]	gm	YGL191W
+ferrocytochrome c[m]	gm	YGL191W
+H(+)[c]	gm	YGL191W
+H2O[m]	gm	YGL191W
+ferricytochrome c[m]	gm	YGL191W
+O2[m]	gm	YHR051W
+H(+)[m]	gm	YHR051W
+ferrocytochrome c[m]	gm	YHR051W
+H(+)[c]	gm	YHR051W
+H2O[m]	gm	YHR051W
+ferricytochrome c[m]	gm	YHR051W
+O2[m]	gm	YJR048W
+H(+)[m]	gm	YJR048W
+ferrocytochrome c[m]	gm	YJR048W
+H(+)[c]	gm	YJR048W
+H2O[m]	gm	YJR048W
+ferricytochrome c[m]	gm	YJR048W
+O2[m]	gm	YLR038C
+H(+)[m]	gm	YLR038C
+ferrocytochrome c[m]	gm	YLR038C
+H(+)[c]	gm	YLR038C
+H2O[m]	gm	YLR038C
+ferricytochrome c[m]	gm	YLR038C
+O2[m]	gm	YLR395C
+H(+)[m]	gm	YLR395C
+ferrocytochrome c[m]	gm	YLR395C
+H(+)[c]	gm	YLR395C
+H2O[m]	gm	YLR395C
+ferricytochrome c[m]	gm	YLR395C
+O2[m]	gm	YMR256C
+H(+)[m]	gm	YMR256C
+ferrocytochrome c[m]	gm	YMR256C
+H(+)[c]	gm	YMR256C
+H2O[m]	gm	YMR256C
+ferricytochrome c[m]	gm	YMR256C
+O2[m]	gm	YNL052W
+H(+)[m]	gm	YNL052W
+ferrocytochrome c[m]	gm	YNL052W
+H(+)[c]	gm	YNL052W
+H2O[m]	gm	YNL052W
+ferricytochrome c[m]	gm	YNL052W
+fumarate[m]	gm	YPL262W
+H2O[m]	gm	YPL262W
+malate[m]	gm	YPL262W
+NAD(+)[m]	gm	YKL085W
+malate[m]	gm	YKL085W
+NADH[m]	gm	YKL085W
+oxaloacetate[m]	gm	YKL085W
+NADPH[c]	gm	YHR042W
+ferricytochrome c[m]	gm	YHR042W
+NADP(+)[c]	gm	YHR042W
+ferrocytochrome c[m]	gm	YHR042W
+NADH[c]	gm	YDL085W
+ubiquinone-9[m]	gm	YDL085W
+NAD(+)[c]	gm	YDL085W
+ubiquinol-9[m]	gm	YDL085W
+NADH[c]	gm	YMR145C
+ubiquinone-9[m]	gm	YMR145C
+NAD(+)[c]	gm	YMR145C
+ubiquinol-9[m]	gm	YMR145C
+FADH2[m]	gm	YJR051W
+fumarate[m]	gm	YJR051W
+FAD[m]	gm	YJR051W
+succinate[m]	gm	YJR051W
+hydrogen peroxide[m]	gm	YJR048W
+ferrocytochrome c[m]	gm	YJR048W
+H2O[m]	gm	YJR048W
+ferricytochrome c[m]	gm	YJR048W
+hydrogen peroxide[m]	gm	YKR066C
+ferrocytochrome c[m]	gm	YKR066C
+H2O[m]	gm	YKR066C
+ferricytochrome c[m]	gm	YKR066C
+ubiquinol-6[m]	gm	Q0105
+ferricytochrome c[m]	gm	Q0105
+ubiquinone-6[m]	gm	Q0105
+ferrocytochrome c[m]	gm	Q0105
+ubiquinol-6[m]	gm	YBL045C
+ferricytochrome c[m]	gm	YBL045C
+ubiquinone-6[m]	gm	YBL045C
+ferrocytochrome c[m]	gm	YBL045C
+ubiquinol-6[m]	gm	YDR529C
+ferricytochrome c[m]	gm	YDR529C
+ubiquinone-6[m]	gm	YDR529C
+ferrocytochrome c[m]	gm	YDR529C
+ubiquinol-6[m]	gm	YEL024W
+ferricytochrome c[m]	gm	YEL024W
+ubiquinone-6[m]	gm	YEL024W
+ferrocytochrome c[m]	gm	YEL024W
+ubiquinol-6[m]	gm	YFR033C
+ferricytochrome c[m]	gm	YFR033C
+ubiquinone-6[m]	gm	YFR033C
+ferrocytochrome c[m]	gm	YFR033C
+ubiquinol-6[m]	gm	YGR183C
+ferricytochrome c[m]	gm	YGR183C
+ubiquinone-6[m]	gm	YGR183C
+ferrocytochrome c[m]	gm	YGR183C
+ubiquinol-6[m]	gm	YHR001W-A
+ferricytochrome c[m]	gm	YHR001W-A
+ubiquinone-6[m]	gm	YHR001W-A
+ferrocytochrome c[m]	gm	YHR001W-A
+ubiquinol-6[m]	gm	YJL166W
+ferricytochrome c[m]	gm	YJL166W
+ubiquinone-6[m]	gm	YJL166W
+ferrocytochrome c[m]	gm	YJL166W
+ubiquinol-6[m]	gm	YJR048W
+ferricytochrome c[m]	gm	YJR048W
+ubiquinone-6[m]	gm	YJR048W
+ferrocytochrome c[m]	gm	YJR048W
+ubiquinol-6[m]	gm	YOR065W
+ferricytochrome c[m]	gm	YOR065W
+ubiquinone-6[m]	gm	YOR065W
+ferrocytochrome c[m]	gm	YOR065W
+ubiquinol-6[m]	gm	YPR191W
+ferricytochrome c[m]	gm	YPR191W
+ubiquinone-6[m]	gm	YPR191W
+ferrocytochrome c[m]	gm	YPR191W
+H(+)[m]	gm	Q0105
+ferricytochrome c[m]	gm	Q0105
+ubiquinol-9[m]	gm	Q0105
+ubiquinone-9[m]	gm	Q0105
+H(+)[c]	gm	Q0105
+ferrocytochrome c[m]	gm	Q0105
+H(+)[m]	gm	YBL045C
+ferricytochrome c[m]	gm	YBL045C
+ubiquinol-9[m]	gm	YBL045C
+ubiquinone-9[m]	gm	YBL045C
+H(+)[c]	gm	YBL045C
+ferrocytochrome c[m]	gm	YBL045C
+H(+)[m]	gm	YDR529C
+ferricytochrome c[m]	gm	YDR529C
+ubiquinol-9[m]	gm	YDR529C
+ubiquinone-9[m]	gm	YDR529C
+H(+)[c]	gm	YDR529C
+ferrocytochrome c[m]	gm	YDR529C
+H(+)[m]	gm	YEL024W
+ferricytochrome c[m]	gm	YEL024W
+ubiquinol-9[m]	gm	YEL024W
+ubiquinone-9[m]	gm	YEL024W
+H(+)[c]	gm	YEL024W
+ferrocytochrome c[m]	gm	YEL024W
+H(+)[m]	gm	YFR033C
+ferricytochrome c[m]	gm	YFR033C
+ubiquinol-9[m]	gm	YFR033C
+ubiquinone-9[m]	gm	YFR033C
+H(+)[c]	gm	YFR033C
+ferrocytochrome c[m]	gm	YFR033C
+H(+)[m]	gm	YGR183C
+ferricytochrome c[m]	gm	YGR183C
+ubiquinol-9[m]	gm	YGR183C
+ubiquinone-9[m]	gm	YGR183C
+H(+)[c]	gm	YGR183C
+ferrocytochrome c[m]	gm	YGR183C
+H(+)[m]	gm	YHR001W-A
+ferricytochrome c[m]	gm	YHR001W-A
+ubiquinol-9[m]	gm	YHR001W-A
+ubiquinone-9[m]	gm	YHR001W-A
+H(+)[c]	gm	YHR001W-A
+ferrocytochrome c[m]	gm	YHR001W-A
+H(+)[m]	gm	YJL166W
+ferricytochrome c[m]	gm	YJL166W
+ubiquinol-9[m]	gm	YJL166W
+ubiquinone-9[m]	gm	YJL166W
+H(+)[c]	gm	YJL166W
+ferrocytochrome c[m]	gm	YJL166W
+H(+)[m]	gm	YOR065W
+ferricytochrome c[m]	gm	YOR065W
+ubiquinol-9[m]	gm	YOR065W
+ubiquinone-9[m]	gm	YOR065W
+H(+)[c]	gm	YOR065W
+ferrocytochrome c[m]	gm	YOR065W
+H(+)[m]	gm	YPR191W
+ferricytochrome c[m]	gm	YPR191W
+ubiquinol-9[m]	gm	YPR191W
+ubiquinone-9[m]	gm	YPR191W
+H(+)[c]	gm	YPR191W
+ferrocytochrome c[m]	gm	YPR191W
+FAD[m]	gm	YKL141W
+succinate[m]	gm	YKL141W
+FADH2[m]	gm	YKL141W
+fumarate[m]	gm	YKL141W
+FAD[m]	gm	YKL148C
+succinate[m]	gm	YKL148C
+FADH2[m]	gm	YKL148C
+fumarate[m]	gm	YKL148C
+FAD[m]	gm	YLL041C
+succinate[m]	gm	YLL041C
+FADH2[m]	gm	YLL041C
+fumarate[m]	gm	YLL041C
+FAD[m]	gm	YLR164W
+succinate[m]	gm	YLR164W
+FADH2[m]	gm	YLR164W
+fumarate[m]	gm	YLR164W
+FAD[m]	gm	YDR178W
+succinate[m]	gm	YDR178W
+FADH2[m]	gm	YDR178W
+fumarate[m]	gm	YDR178W
+FAD[m]	gm	YJL045W
+succinate[m]	gm	YJL045W
+FADH2[m]	gm	YJL045W
+fumarate[m]	gm	YJL045W
+FAD[m]	gm	YMR118C
+succinate[m]	gm	YMR118C
+FADH2[m]	gm	YMR118C
+fumarate[m]	gm	YMR118C
+FADH2[m]	gm	YKL141W
+ubiquinone-9[m]	gm	YKL141W
+FAD[m]	gm	YKL141W
+ubiquinol-9[m]	gm	YKL141W
+FADH2[m]	gm	YKL148C
+ubiquinone-9[m]	gm	YKL148C
+FAD[m]	gm	YKL148C
+ubiquinol-9[m]	gm	YKL148C
+FADH2[m]	gm	YLL041C
+ubiquinone-9[m]	gm	YLL041C
+FAD[m]	gm	YLL041C
+ubiquinol-9[m]	gm	YLL041C
+FADH2[m]	gm	YDR178W
+ubiquinone-9[m]	gm	YDR178W
+FAD[m]	gm	YDR178W
+ubiquinol-9[m]	gm	YDR178W
+diphosphate[m]	gm	YMR267W
+H2O[m]	gm	YMR267W
+phosphate[m]	gm	YMR267W
+NAD(+)[p]	gm	YDL078C
+malate[p]	gm	YDL078C
+NADH[p]	gm	YDL078C
+oxaloacetate[p]	gm	YDL078C
+L-cysteine[c]	gm	YIL083C
+CTP[c]	gm	YIL083C
+(R)-4'-phosphopantothenate[c]	gm	YIL083C
+CMP[c]	gm	YIL083C
+diphosphate[c]	gm	YIL083C
+N-((R)-4'-phosphopantothenoyl)-L-cysteine[c]	gm	YIL083C
+N1-acetylspermidine[c]	gm	YMR020W
+O2[c]	gm	YMR020W
+3-aminopropanal[c]	gm	YMR020W
+N-acetylputrescine[c]	gm	YMR020W
+hydrogen peroxide[c]	gm	YMR020W
+N1-acetylspermine[c]	gm	YMR020W
+O2[c]	gm	YMR020W
+3-aminopropanal[c]	gm	YMR020W
+N1-acetylspermidine[c]	gm	YMR020W
+hydrogen peroxide[c]	gm	YMR020W
+spermine[c]	gm	YMR020W
+O2[c]	gm	YMR020W
+3-aminopropanal[c]	gm	YMR020W
+spermidine[c]	gm	YMR020W
+hydrogen peroxide[c]	gm	YMR020W
+coenzyme A[m]	gm	YPL148C
+H(+)[c]	gm	YPL148C
+adenosine 3',5'-bisphosphate[m]	gm	YPL148C
+pantetheine 4'-phosphate[m]	gm	YPL148C
+H(+)[m]	gm	YPL148C
+coenzyme A[p]	gm	YLR151C
+H2O[p]	gm	YLR151C
+adenosine 3',5'-bisphosphate[p]	gm	YLR151C
+pantetheine 4'-phosphate[p]	gm	YLR151C
+ATP[c]	gm	YGR286C
+dethiobiotin[c]	gm	YGR286C
+NAD(+)[c]	gm	YGR286C
+H2S[c]	gm	YGR286C
+AMP[c]	gm	YGR286C
+biotin[c]	gm	YGR286C
+NADH[c]	gm	YGR286C
+diphosphate[c]	gm	YGR286C
+S-adenosyl-L-methionine[c]	gm	YNR058W
+8-amino-7-oxononanoate[c]	gm	YNR058W
+S-adenosyl-4-methylthio-2-oxobutanoate[c]	gm	YNR058W
+7,8-diaminononanoate[c]	gm	YNR058W
+ATP[c]	gm	YNR057C
+7,8-diaminononanoate[c]	gm	YNR057C
+CO2[c]	gm	YNR057C
+ADP[c]	gm	YNR057C
+dethiobiotin[c]	gm	YNR057C
+phosphate[c]	gm	YNR057C
+ATP[c]	gm	YDR531W
+(R)-pantothenate[c]	gm	YDR531W
+ADP[c]	gm	YDR531W
+(R)-4'-phosphopantothenate[c]	gm	YDR531W
+N-((R)-4'-phosphopantothenoyl)-L-cysteine[c]	gm	YKL088W
+pantetheine 4'-phosphate[c]	gm	YKL088W
+CO2[c]	gm	YKL088W
+N-((R)-4'-phosphopantothenoyl)-L-cysteine[c]	gm	YKR072C
+pantetheine 4'-phosphate[c]	gm	YKR072C
+CO2[c]	gm	YKR072C
+N-((R)-4'-phosphopantothenoyl)-L-cysteine[c]	gm	YOR054C
+pantetheine 4'-phosphate[c]	gm	YOR054C
+CO2[c]	gm	YOR054C
+ATP[c]	gm	YGR277C
+pantetheine 4'-phosphate[c]	gm	YGR277C
+dephospho-CoA[c]	gm	YGR277C
+diphosphate[c]	gm	YGR277C
+ATP[c]	gm	YDR196C
+dephospho-CoA[c]	gm	YDR196C
+ADP[c]	gm	YDR196C
+coenzyme A[c]	gm	YDR196C
+5,10-methylenetetrahydrofolate[c]	gm	YBR176W
+(R)-3-methyl-2-oxobutanoate[c]	gm	YBR176W
+H2O[c]	gm	YBR176W
+tetrahydrofolate[c]	gm	YBR176W
+2-dehydropantoate[c]	gm	YBR176W
+NADPH[c]	gm	YHR063C
+2-dehydropantoate[c]	gm	YHR063C
+NADP(+)[c]	gm	YHR063C
+(R)-pantoate[c]	gm	YHR063C
+ATP[c]	gm	YIL145C
+beta-alanine[c]	gm	YIL145C
+(R)-pantoate[c]	gm	YIL145C
+AMP[c]	gm	YIL145C
+(R)-pantothenate[c]	gm	YIL145C
+diphosphate[c]	gm	YIL145C
+NADPH[m]	gm	YLR355C
+2-dehydropantoate[m]	gm	YLR355C
+NADP(+)[m]	gm	YLR355C
+(R)-pantoate[m]	gm	YLR355C
+NADP(+)[c]	gm	YGR256W
+6-phospho-D-gluconate[c]	gm	YGR256W
+NADPH[c]	gm	YGR256W
+D-ribulose 5-phosphate[c]	gm	YGR256W
+CO2[c]	gm	YGR256W
+NADP(+)[c]	gm	YHR183W
+6-phospho-D-gluconate[c]	gm	YHR183W
+NADPH[c]	gm	YHR183W
+D-ribulose 5-phosphate[c]	gm	YHR183W
+CO2[c]	gm	YHR183W
+alpha-D-ribose 1-phosphate[c]	gm	YKL127W
+D-ribose 5-phosphate[c]	gm	YKL127W
+alpha-D-ribose 1-phosphate[c]	gm	YMR105C
+D-ribose 5-phosphate[c]	gm	YMR105C
+alpha-D-ribose 1-phosphate[c]	gm	YMR278W
+D-ribose 5-phosphate[c]	gm	YMR278W
+D-glucose 1-phosphate[c]	gm	YKL127W
+alpha-D-glucose 6-phosphate[c]	gm	YKL127W
+D-glucose 1-phosphate[c]	gm	YMR105C
+alpha-D-glucose 6-phosphate[c]	gm	YMR105C
+D-glucose 1-phosphate[c]	gm	YMR278W
+alpha-D-glucose 6-phosphate[c]	gm	YMR278W
+6-O-phosphono-D-glucono-1,5-lactone[c]	gm	YCR073W-A
+H2O[c]	gm	YCR073W-A
+6-phospho-D-gluconate[c]	gm	YCR073W-A
+6-O-phosphono-D-glucono-1,5-lactone[c]	gm	YGR248W
+H2O[c]	gm	YGR248W
+6-phospho-D-gluconate[c]	gm	YGR248W
+6-O-phosphono-D-glucono-1,5-lactone[c]	gm	YHR163W
+H2O[c]	gm	YHR163W
+6-phospho-D-gluconate[c]	gm	YHR163W
+6-O-phosphono-D-glucono-1,5-lactone[c]	gm	YNR034W
+H2O[c]	gm	YNR034W
+6-phospho-D-gluconate[c]	gm	YNR034W
+ATP[c]	gm	YCR036W
+D-ribose[c]	gm	YCR036W
+ADP[c]	gm	YCR036W
+D-ribose 5-phosphate[c]	gm	YCR036W
+ATP[c]	gm	YCR036W
+deoxyribose[c]	gm	YCR036W
+ADP[c]	gm	YCR036W
+2-deoxy-D-ribose 5-phosphate[c]	gm	YCR036W
+D-ribulose 5-phosphate[c]	gm	YOR095C
+D-ribose 5-phosphate[c]	gm	YOR095C
+D-ribulose 5-phosphate[c]	gm	YJL121C
+D-xylulose 5-phosphate[c]	gm	YJL121C
+D-glyceraldehyde 3-phosphate[c]	gm	YGR043C
+sedoheptulose 7-phosphate[c]	gm	YGR043C
+D-erythrose 4-phosphate[c]	gm	YGR043C
+beta-D-fructofuranose 6-phosphate[c]	gm	YGR043C
+D-glyceraldehyde 3-phosphate[c]	gm	YLR354C
+sedoheptulose 7-phosphate[c]	gm	YLR354C
+D-erythrose 4-phosphate[c]	gm	YLR354C
+beta-D-fructofuranose 6-phosphate[c]	gm	YLR354C
+D-ribose 5-phosphate[c]	gm	YBR117C
+D-xylulose 5-phosphate[c]	gm	YBR117C
+D-glyceraldehyde 3-phosphate[c]	gm	YBR117C
+sedoheptulose 7-phosphate[c]	gm	YBR117C
+D-ribose 5-phosphate[c]	gm	YPR074C
+D-xylulose 5-phosphate[c]	gm	YPR074C
+D-glyceraldehyde 3-phosphate[c]	gm	YPR074C
+sedoheptulose 7-phosphate[c]	gm	YPR074C
+D-erythrose 4-phosphate[c]	gm	YBR117C
+D-xylulose 5-phosphate[c]	gm	YBR117C
+D-glyceraldehyde 3-phosphate[c]	gm	YBR117C
+beta-D-fructofuranose 6-phosphate[c]	gm	YBR117C
+D-erythrose 4-phosphate[c]	gm	YPR074C
+D-xylulose 5-phosphate[c]	gm	YPR074C
+D-glyceraldehyde 3-phosphate[c]	gm	YPR074C
+beta-D-fructofuranose 6-phosphate[c]	gm	YPR074C
+L-glutamate[c]	gm	YKL106W
+3-(4-hydroxyphenyl)pyruvate[c]	gm	YKL106W
+2-oxoglutarate[c]	gm	YKL106W
+L-tyrosine[c]	gm	YKL106W
+L-glutamate[c]	gm	YLR027C
+3-(4-hydroxyphenyl)pyruvate[c]	gm	YLR027C
+2-oxoglutarate[c]	gm	YLR027C
+L-tyrosine[c]	gm	YLR027C
+NAD(+)[c]	gm	YMR169C
+acetaldehyde[c]	gm	YMR169C
+H2O[c]	gm	YMR169C
+NADH[c]	gm	YMR169C
+acetate[c]	gm	YMR169C
+NAD(+)[c]	gm	YMR170C
+acetaldehyde[c]	gm	YMR170C
+H2O[c]	gm	YMR170C
+NADH[c]	gm	YMR170C
+acetate[c]	gm	YMR170C
+NADP(+)[c]	gm	YPL061W
+acetaldehyde[c]	gm	YPL061W
+H2O[c]	gm	YPL061W
+NADPH[c]	gm	YPL061W
+acetate[c]	gm	YPL061W
+2-phenylacetamide[c]	gm	YDR242W
+phenylacetic acid[c]	gm	YDR242W
+NH3[c]	gm	YDR242W
+indole-3-acetamide[c]	gm	YDR242W
+H2O[c]	gm	YDR242W
+indole-3-acetate[c]	gm	YDR242W
+NH3[c]	gm	YDR242W
+2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate[c]	gm	YDR127W
+3-dehydroquinate[c]	gm	YDR127W
+phosphate[c]	gm	YDR127W
+3-dehydroquinate[c]	gm	YDR127W
+3-dehydroshikimate[c]	gm	YDR127W
+H2O[c]	gm	YDR127W
+NADPH[c]	gm	YDR127W
+3-dehydroshikimate[c]	gm	YDR127W
+NADP(+)[c]	gm	YDR127W
+shikimate[c]	gm	YDR127W
+ATP[c]	gm	YDR127W
+shikimate[c]	gm	YDR127W
+ADP[c]	gm	YDR127W
+shikimate 3-phosphate[c]	gm	YDR127W
+phosphoenolpyruvate[c]	gm	YDR127W
+shikimate 3-phosphate[c]	gm	YDR127W
+5-O-(1-carboxyvinyl)-3-phosphoshikimate[c]	gm	YDR127W
+phosphate[c]	gm	YDR127W
+5-O-(1-carboxyvinyl)-3-phosphoshikimate[c]	gm	YGL148W
+chorismate[c]	gm	YGL148W
+phosphate[c]	gm	YGL148W
+phosphoenolpyruvate[c]	gm	YBR249C
+D-erythrose 4-phosphate[c]	gm	YBR249C
+H2O[c]	gm	YBR249C
+2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate[c]	gm	YBR249C
+phosphate[c]	gm	YBR249C
+phosphoenolpyruvate[c]	gm	YDR035W
+D-erythrose 4-phosphate[c]	gm	YDR035W
+H2O[c]	gm	YDR035W
+2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate[c]	gm	YDR035W
+phosphate[c]	gm	YDR035W
+chorismate[c]	gm	YPR060C
+prephenate[c]	gm	YPR060C
+L-glutamate[c]	gm	YGL202W
+3-(4-hydroxyphenyl)pyruvate[c]	gm	YGL202W
+2-oxoglutarate[c]	gm	YGL202W
+L-tyrosine[c]	gm	YGL202W
+L-glutamate[c]	gm	YHR137W
+3-(4-hydroxyphenyl)pyruvate[c]	gm	YHR137W
+2-oxoglutarate[c]	gm	YHR137W
+L-tyrosine[c]	gm	YHR137W
+L-glutamate[c]	gm	YHR137W
+phenylpyruvate[c]	gm	YHR137W
+2-oxoglutarate[c]	gm	YHR137W
+L-phenylalanine[c]	gm	YHR137W
+3-hydroxyanthranilate[c]	gm	YJR025C
+O2[c]	gm	YJR025C
+2-amino-3-carboxymuconate semialdehyde[c]	gm	YJR025C
+hydrogen peroxide[c]	gm	YGR088W
+O2[c]	gm	YGR088W
+H2O[c]	gm	YGR088W
+prephenate[c]	gm	YNL316C
+phenylpyruvate[c]	gm	YNL316C
+CO2[c]	gm	YNL316C
+H2O[c]	gm	YNL316C
+1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate[c]	gm	YKL211C
+1-(indol-3-yl)glycerol 3-phosphate[c]	gm	YKL211C
+CO2[c]	gm	YKL211C
+H2O[c]	gm	YKL211C
+1-(indol-3-yl)glycerol 3-phosphate[c]	gm	YGL026C
+L-serine[c]	gm	YGL026C
+L-tryptophan[c]	gm	YGL026C
+D-glyceraldehyde 3-phosphate[c]	gm	YGL026C
+H2O[c]	gm	YGL026C
+N-(5-phospho-D-ribosyl)anthranilate[c]	gm	YDR007W
+1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate[c]	gm	YDR007W
+chorismate[c]	gm	YER090W
+L-glutamine[c]	gm	YER090W
+pyruvate[c]	gm	YER090W
+L-glutamate[c]	gm	YER090W
+anthranilate[c]	gm	YER090W
+chorismate[c]	gm	YKL211C
+L-glutamine[c]	gm	YKL211C
+pyruvate[c]	gm	YKL211C
+L-glutamate[c]	gm	YKL211C
+anthranilate[c]	gm	YKL211C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YDR354W
+anthranilate[c]	gm	YDR354W
+N-(5-phospho-D-ribosyl)anthranilate[c]	gm	YDR354W
+diphosphate[c]	gm	YDR354W
+prephenate[c]	gm	YBR166C
+NADP(+)[c]	gm	YBR166C
+NADPH[c]	gm	YBR166C
+3-(4-hydroxyphenyl)pyruvate[c]	gm	YBR166C
+CO2[c]	gm	YBR166C
+L-kynurenine[c]	gm	YBL098W
+NADPH[c]	gm	YBL098W
+O2[c]	gm	YBL098W
+3-hydroxykynurenine[c]	gm	YBL098W
+NADP(+)[c]	gm	YBL098W
+H2O[c]	gm	YBL098W
+L-kynurenine[c]	gm	YLR231C
+H2O[c]	gm	YLR231C
+L-alanine[c]	gm	YLR231C
+anthranilate[c]	gm	YLR231C
+3-hydroxykynurenine[c]	gm	YLR231C
+H2O[c]	gm	YLR231C
+L-alanine[c]	gm	YLR231C
+3-hydroxyanthranilate[c]	gm	YLR231C
+L-tryptophan[c]	gm	YJR078W
+O2[c]	gm	YJR078W
+L-formylkynurenine[c]	gm	YJR078W
+NAD(+)[m]	gm	YOR374W
+acetaldehyde[m]	gm	YOR374W
+H2O[c]	gm	YOR374W
+NADH[m]	gm	YOR374W
+acetate[m]	gm	YOR374W
+NADP(+)[m]	gm	YER073W
+acetaldehyde[m]	gm	YER073W
+H2O[c]	gm	YER073W
+NADPH[m]	gm	YER073W
+acetate[m]	gm	YER073W
+NADP(+)[m]	gm	YOR374W
+acetaldehyde[m]	gm	YOR374W
+H2O[c]	gm	YOR374W
+NADPH[m]	gm	YOR374W
+acetate[m]	gm	YOR374W
+L-glutamate[p]	gm	YLR027C
+3-(4-hydroxyphenyl)pyruvate[p]	gm	YLR027C
+2-oxoglutarate[p]	gm	YLR027C
+L-tyrosine[p]	gm	YLR027C
+hydrogen peroxide[p]	gm	YDR256C
+O2[p]	gm	YDR256C
+CTP[c]	gm	YBR029C
+phosphatidate[c]	gm	YBR029C
+diphosphate[c]	gm	YBR029C
+CDP-diacylglycerol[c]	gm	YBR029C
+L-serine[c]	gm	YER026C
+CDP-diacylglycerol[c]	gm	YER026C
+CMP[c]	gm	YER026C
+phosphatidylserine[c]	gm	YER026C
+S-adenosyl-L-methionine[c]	gm	YGR157W
+phosphatidylethanolamines[c]	gm	YGR157W
+S-adenosyl-L-homocysteine[c]	gm	YGR157W
+phosphatidyl-N-methylethanolamine[c]	gm	YGR157W
+S-adenosyl-L-methionine[c]	gm	YJR073
+phosphatidylethanolamines[c]	gm	YJR073
+S-adenosyl-L-homocysteine[c]	gm	YJR073
+phosphatidyl-N-methylethanolamine[c]	gm	YJR073
+ATP[c]	gm	YLR133W
+choline[c]	gm	YLR133W
+ADP[c]	gm	YLR133W
+choline phosphate[c]	gm	YLR133W
+CDP-choline[c]	gm	YNL130C
+diglycerides[c]	gm	YNL130C
+CMP[c]	gm	YNL130C
+phosphatidylcholines[c]	gm	YNL130C
+H2O[c]	gm	YDR284C
+phosphatidate[c]	gm	YDR284C
+phosphate[c]	gm	YDR284C
+diglycerides[c]	gm	YDR284C
+ATP[c]	gm	YDR147W
+ethanolamine[c]	gm	YDR147W
+ADP[c]	gm	YDR147W
+ethanolamine phosphate[c]	gm	YDR147W
+CDP-ethanolamine[c]	gm	YHR123W
+diglycerides[c]	gm	YHR123W
+CMP[c]	gm	YHR123W
+phosphatidylethanolamines[c]	gm	YHR123W
+ADP[c]	gm	YFR019W
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphates[c]	gm	YFR019W
+ATP[c]	gm	YFR019W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YFR019W
+1D-myo-inositol 3-phosphate[c]	gm	YDR287W
+H2O[c]	gm	YDR287W
+myo-inositol[c]	gm	YDR287W
+phosphate[c]	gm	YDR287W
+1D-myo-inositol 3-phosphate[c]	gm	YHR046C
+H2O[c]	gm	YHR046C
+myo-inositol[c]	gm	YHR046C
+phosphate[c]	gm	YHR046C
+alpha-D-glucose 6-phosphate[c]	gm	YJL153C
+1D-myo-inositol 3-phosphate[c]	gm	YJL153C
+H2O[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YOR109W
+phosphate[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YOR109W
+H2O[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YNL106C
+phosphate[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YNL106C
+H2O[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YKL212W
+phosphate[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YKL212W
+H2O[c]	gm	YJR110W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YJR110W
+phosphate[c]	gm	YJR110W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YJR110W
+H2O[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YOR109W
+phosphate[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YOR109W
+H2O[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YNL106C
+phosphate[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YNL106C
+H2O[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YKL212W
+phosphate[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YKL212W
+H2O[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphates[c]	gm	YOR109W
+phosphate[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YOR109W
+H2O[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphates[c]	gm	YNL106C
+phosphate[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YNL106C
+H2O[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphates[c]	gm	YKL212W
+phosphate[c]	gm	YKL212W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YKL212W
+H2O[c]	gm	YNL325C
+1-phosphatidyl-1D-myo-inositol 3,5-bisphosphates[c]	gm	YNL325C
+phosphate[c]	gm	YNL325C
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YNL325C
+H2O[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YOR109W
+phosphate[c]	gm	YOR109W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YOR109W
+H2O[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YNL106C
+phosphate[c]	gm	YNL106C
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YNL106C
+H2O[c]	gm	YOL065C
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YOL065C
+phosphate[c]	gm	YOL065C
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YOL065C
+H2O[c]	gm	YIL002C
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YIL002C
+phosphate[c]	gm	YIL002C
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YIL002C
+ATP[c]	gm	YDR315C
+myo-inositol[c]	gm	YDR315C
+ADP[c]	gm	YDR315C
+myo-inositol hexakisphosphate[c]	gm	YDR315C
+diacylglycerol pyrophosphate[c]	gm	YDR503C
+phosphate[c]	gm	YDR503C
+phosphatidate[c]	gm	YDR503C
+ATP[c]	gm	YDR208W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YDR208W
+ADP[c]	gm	YDR208W
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YDR208W
+ethanolamine phosphate[c]	gm	YGR007W
+CTP[c]	gm	YGR007W
+CDP-ethanolamine[c]	gm	YGR007W
+diphosphate[c]	gm	YGR007W
+phosphatidylcholines[c]	gm	YML059C
+acyl acids[c]	gm	YML059C
+glycerophosphatidylcholine[c]	gm	YML059C
+S-adenosyl-L-methionine[c]	gm	YJR073C
+phosphatidyl-N-methylethanolamine[c]	gm	YJR073C
+S-adenosyl-L-homocysteine[c]	gm	YJR073C
+phosphatidyl-N-dimethylethanolamine[c]	gm	YJR073C
+S-adenosyl-L-methionine[c]	gm	YJR073C
+phosphatidyl-N-dimethylethanolamine[c]	gm	YJR073C
+S-adenosyl-L-homocysteine[c]	gm	YJR073C
+phosphatidylcholines[c]	gm	YJR073C
+choline phosphate[c]	gm	YGR202C
+CTP[c]	gm	YGR202C
+CDP-choline[c]	gm	YGR202C
+diphosphate[c]	gm	YGR202C
+ATP[c]	gm	YNL267W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YNL267W
+ADP[c]	gm	YNL267W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YNL267W
+myo-inositol[c]	gm	YPR113W
+CDP-diacylglycerol[c]	gm	YPR113W
+CMP[c]	gm	YPR113W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YPR113W
+lysophosphatidylcholine[c]	gm	YOL011W
+acyl acids[c]	gm	YOL011W
+glycerophosphatidylcholine[c]	gm	YOL011W
+lysophosphatidylcholine[c]	gm	YMR006C
+acyl acids[c]	gm	YMR006C
+glycerophosphatidylcholine[c]	gm	YMR006C
+lysophosphatidylcholine[c]	gm	YMR008C
+acyl acids[c]	gm	YMR008C
+glycerophosphatidylcholine[c]	gm	YMR008C
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphates[c]	gm	YPL268W
+1D-myo-inositol 1,4,5-trisphosphate[c]	gm	YPL268W
+diglycerides[c]	gm	YPL268W
+phosphatidylserine[c]	gm	YGR170W
+CO2[c]	gm	YGR170W
+phosphatidylethanolamines[c]	gm	YGR170W
+ATP[c]	gm	YDR173C
+1D-myo-inositol 1,3,4,5-tetrakisphosphate[c]	gm	YDR173C
+ADP[c]	gm	YDR173C
+1D-myo-inositol 1,3,4,5,6-pentakisphosphate[c]	gm	YDR173C
+ATP[c]	gm	YDR017C
+1D-myo-inositol 1,3,4,5-tetrakisphosphate[c]	gm	YDR017C
+ADP[c]	gm	YDR017C
+1D-myo-inositol 1,3,4,5,6-pentakisphosphate[c]	gm	YDR017C
+ATP[c]	gm	YDR173C
+1D-myo-inositol 1,4,5,6-tetrakisphosphate[c]	gm	YDR173C
+ADP[c]	gm	YDR173C
+1D-myo-inositol 1,3,4,5,6-pentakisphosphate[c]	gm	YDR173C
+ATP[c]	gm	YDR173C
+1D-myo-inositol 1,4,5-trisphosphate[c]	gm	YDR173C
+ADP[c]	gm	YDR173C
+1D-myo-inositol 1,4,5,6-tetrakisphosphate[c]	gm	YDR173C
+ATP[c]	gm	YDR173C
+1D-myo-inositol 1,4,5-trisphosphate[c]	gm	YDR173C
+ADP[c]	gm	YDR173C
+1D-myo-inositol 1,3,4,5-tetrakisphosphate[c]	gm	YDR173C
+acyl-sn-glycerol 3-phosphates[c]	gm	YDL052C
+acyl CoAs[c]	gm	YDL052C
+coenzyme A[c]	gm	YDL052C
+phosphatidate[c]	gm	YDL052C
+ATP[c]	gm	YLR305C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YLR305C
+ADP[c]	gm	YLR305C
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YLR305C
+ATP[c]	gm	YJL100W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YJL100W
+ADP[c]	gm	YJL100W
+1-phosphatidyl-1D-myo-inositol 4-phosphates[c]	gm	YJL100W
+ADP[c]	gm	YJR066W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YJR066W
+ATP[c]	gm	YJR066W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YJR066W
+ADP[c]	gm	YKL203C
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YKL203C
+ATP[c]	gm	YKL203C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YKL203C
+ATP[c]	gm	YLR240W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YLR240W
+ADP[c]	gm	YLR240W
+1-phosphatidyl-1D-myo-inositol 3-phosphates[c]	gm	YLR240W
+CTP[m]	gm	YBR029C
+phosphatidate[m]	gm	YBR029C
+diphosphate[m]	gm	YBR029C
+CDP-diacylglycerol[m]	gm	YBR029C
+L-serine[m]	gm	YER026C
+CDP-diacylglycerol[m]	gm	YER026C
+CMP[m]	gm	YER026C
+phosphatidylserine[m]	gm	YER026C
+CDP-diacylglycerol[m]	gm	YDL142C
+phosphatidylglycerol[m]	gm	YDL142C
+CMP[m]	gm	YDL142C
+cardiolipin[m]	gm	YDL142C
+sn-glycerol 3-phosphate[m]	gm	YCL004W
+CDP-diacylglycerol[m]	gm	YCL004W
+CMP[m]	gm	YCL004W
+phosphatidylglycerophosphate[m]	gm	YCL004W
+phosphatidylserine[m]	gm	YNL169C
+CO2[m]	gm	YNL169C
+phosphatidylethanolamines[m]	gm	YNL169C
+ATP[c]	gm	YDR017C
+myo-inositol hexakisphosphate[c]	gm	YDR017C
+ADP[c]	gm	YDR017C
+5-diphosphoinositol pentakisphosphate[c]	gm	YDR017C
+5-diphosphoinositol pentakisphosphate[c]	gm	YOR163W
+H2O[c]	gm	YOR163W
+myo-inositol hexakisphosphate[c]	gm	YOR163W
+phosphate[c]	gm	YOR163W
+5-diphosphoinositol pentakisphosphate[c]	gm	YLR410W
+H2O[c]	gm	YLR410W
+myo-inositol hexakisphosphate[c]	gm	YLR410W
+phosphate[c]	gm	YLR410W
+H2O[c]	gm	YOR163W
+diphosphoinositol tetrakisphosphate[c]	gm	YOR163W
+1D-myo-inositol 1,3,4,5,6-pentakisphosphate[c]	gm	YOR163W
+phosphate[c]	gm	YOR163W
+H2O[c]	gm	YLR410W
+diphosphoinositol tetrakisphosphate[c]	gm	YLR410W
+1D-myo-inositol 1,3,4,5,6-pentakisphosphate[c]	gm	YLR410W
+phosphate[c]	gm	YLR410W
+NADPH[c]	gm	YBR213W
+dihydrosirohydrochlorin[c]	gm	YBR213W
+NADP(+)[c]	gm	YBR213W
+sirohydrochlorin[c]	gm	YBR213W
+sirohydrochlorin[c]	gm	YBR213W
+Fe2+[c]	gm	YBR213W
+siroheme[c]	gm	YBR213W
+NADH[m]	gm	YDR376W
+O2[m]	gm	YDR376W
+heme O[m]	gm	YDR376W
+NAD(+)[m]	gm	YDR376W
+heme A[m]	gm	YDR376W
+NADH[m]	gm	YER141W
+O2[m]	gm	YER141W
+heme O[m]	gm	YER141W
+NAD(+)[m]	gm	YER141W
+heme A[m]	gm	YER141W
+NADH[m]	gm	YPL252C
+O2[m]	gm	YPL252C
+heme O[m]	gm	YPL252C
+NAD(+)[m]	gm	YPL252C
+heme A[m]	gm	YPL252C
+5-aminolevulinate[c]	gm	YGL040C
+porphobilinogen[c]	gm	YGL040C
+H2O[c]	gm	YGL040C
+uroporphyrinogen III[c]	gm	YDR047W
+coproporphyrinogen[c]	gm	YDR047W
+CO2[c]	gm	YDR047W
+coproporphyrinogen[c]	gm	YDR044W
+O2[c]	gm	YDR044W
+protoporphyrinogen[c]	gm	YDR044W
+CO2[c]	gm	YDR044W
+porphobilinogen[c]	gm	YDL205C
+H2O[c]	gm	YDL205C
+hydroxymethylbilane[c]	gm	YDL205C
+NH3[c]	gm	YDL205C
+hydroxymethylbilane[c]	gm	YOR278W
+uroporphyrinogen III[c]	gm	YOR278W
+H2O[c]	gm	YOR278W
+S-adenosyl-L-methionine[c]	gm	YKR069W
+uroporphyrinogen III[c]	gm	YKR069W
+S-adenosyl-L-homocysteine[c]	gm	YKR069W
+sirohydrochlorin[c]	gm	YKR069W
+succinyl-CoA[m]	gm	YDR232W
+glycine[m]	gm	YDR232W
+coenzyme A[m]	gm	YDR232W
+5-aminolevulinate[m]	gm	YDR232W
+CO2[m]	gm	YDR232W
+protoporphyrinogen[m]	gm	YER014W
+O2[c]	gm	YER014W
+protoporphyrin[m]	gm	YER014W
+protoporphyrin[m]	gm	YOR176W
+heme[m]	gm	YOR176W
+ATP[c]	gm	YDR300C
+L-glutamate[c]	gm	YDR300C
+ADP[c]	gm	YDR300C
+D-alpha-glutamyl phosphate[c]	gm	YDR300C
+NADH[c]	gm	YOR323C
+D-alpha-glutamyl phosphate[c]	gm	YOR323C
+NAD(+)[c]	gm	YOR323C
+L-glutamate 5-semialdehyde[c]	gm	YOR323C
+phosphate[c]	gm	YOR323C
+NADPH[c]	gm	YOR323C
+D-alpha-glutamyl phosphate[c]	gm	YOR323C
+NADP(+)[c]	gm	YOR323C
+L-glutamate 5-semialdehyde[c]	gm	YOR323C
+phosphate[c]	gm	YOR323C
+NADPH[c]	gm	YER023W
+(S)-1-pyrroline-5-carboxylate[c]	gm	YER023W
+NADP(+)[c]	gm	YER023W
+L-proline[c]	gm	YER023W
+NADPH[c]	gm	YER023W
+L-1-pyrroline-3-hydroxy-5-carboxylate[c]	gm	YER023W
+NADP(+)[c]	gm	YER023W
+trans-4-hydroxy-L-proline[c]	gm	YER023W
+NADH[c]	gm	YER023W
+L-1-pyrroline-3-hydroxy-5-carboxylate[c]	gm	YER023W
+NAD(+)[c]	gm	YER023W
+trans-4-hydroxy-L-proline[c]	gm	YER023W
+NAD(+)[m]	gm	YLR142W
+L-proline[m]	gm	YLR142W
+NADH[m]	gm	YLR142W
+(S)-1-pyrroline-5-carboxylate[m]	gm	YLR142W
+acetyl-CoA[c]	gm	YDL040C
+peptide[c]	gm	YDL040C
+coenzyme A[c]	gm	YDL040C
+Nalpha-acetylpeptide[c]	gm	YDL040C
+acetyl-CoA[c]	gm	YGR147C
+peptide[c]	gm	YGR147C
+coenzyme A[c]	gm	YGR147C
+Nalpha-acetylpeptide[c]	gm	YGR147C
+myristoyl-CoA[c]	gm	YLR195C
+glycylpeptide[c]	gm	YLR195C
+coenzyme A[c]	gm	YLR195C
+N-tetradecanoylglycylpeptide[c]	gm	YLR195C
+P1,P4-bis(5'-adenosyl) tetraphosphate[c]	gm	YDR305C
+H2O[c]	gm	YDR305C
+ADP[c]	gm	YDR305C
+ATP[c]	gm	YAR015W
+L-aspartate[c]	gm	YAR015W
+1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate[c]	gm	YAR015W
+ADP[c]	gm	YAR015W
+(2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinic acid[c]	gm	YAR015W
+phosphate[c]	gm	YAR015W
+IMP[c]	gm	YNL220W
+GTP[c]	gm	YNL220W
+L-aspartate[c]	gm	YNL220W
+GDP[c]	gm	YNL220W
+N6-(1,2-dicarboxyethyl)-AMP[c]	gm	YNL220W
+phosphate[c]	gm	YNL220W
+(2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinic acid[c]	gm	YLR359W
+fumarate[c]	gm	YLR359W
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YLR359W
+N6-(1,2-dicarboxyethyl)-AMP[c]	gm	YLR359W
+AMP[c]	gm	YLR359W
+fumarate[c]	gm	YLR359W
+10-formyltetrahydrofolate[c]	gm	YLR028C
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YLR028C
+5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YLR028C
+tetrahydrofolate[c]	gm	YLR028C
+10-formyltetrahydrofolate[c]	gm	YMR120C
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YMR120C
+5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YMR120C
+tetrahydrofolate[c]	gm	YMR120C
+5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YLR028C
+IMP[c]	gm	YLR028C
+H2O[c]	gm	YLR028C
+5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c]	gm	YMR120C
+IMP[c]	gm	YMR120C
+H2O[c]	gm	YMR120C
+1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate[c]	gm	YOR128C
+5-amino-1-(5-phospho-D-ribosyl)imidazole[c]	gm	YOR128C
+CO2[c]	gm	YOR128C
+L-glutamine[c]	gm	YMR300C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YMR300C
+H2O[c]	gm	YMR300C
+5-phospho-D-ribosylamine[c]	gm	YMR300C
+L-glutamate[c]	gm	YMR300C
+diphosphate[c]	gm	YMR300C
+ATP[c]	gm	YGL234W
+glycine[c]	gm	YGL234W
+5-phospho-D-ribosylamine[c]	gm	YGL234W
+ADP[c]	gm	YGL234W
+N(1)-(5-phospho-D-ribosyl)glycinamide[c]	gm	YGL234W
+phosphate[c]	gm	YGL234W
+ATP[c]	gm	YGL234W
+2-formamido-N(1)-(5-phospho-D-ribosyl)acetamidine[c]	gm	YGL234W
+ADP[c]	gm	YGL234W
+5-amino-1-(5-phospho-D-ribosyl)imidazole[c]	gm	YGL234W
+phosphate[c]	gm	YGL234W
+ATP[c]	gm	YGR061C
+L-glutamine[c]	gm	YGR061C
+N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide[c]	gm	YGR061C
+H2O[c]	gm	YGR061C
+ADP[c]	gm	YGR061C
+L-glutamate[c]	gm	YGR061C
+2-formamido-N(1)-(5-phospho-D-ribosyl)acetamidine[c]	gm	YGR061C
+phosphate[c]	gm	YGR061C
+10-formyltetrahydrofolate[c]	gm	YDR408C
+N(1)-(5-phospho-D-ribosyl)glycinamide[c]	gm	YDR408C
+tetrahydrofolate[c]	gm	YDR408C
+N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide[c]	gm	YDR408C
+AMP[c]	gm	YML035C
+H2O[c]	gm	YML035C
+IMP[c]	gm	YML035C
+NH3[c]	gm	YML035C
+GDP[c]	gm	YCL050C
+GTP[c]	gm	YCL050C
+P1,P4-bis(5'-guanosyl) tetraphosphate[c]	gm	YCL050C
+phosphate[c]	gm	YCL050C
+ADP[c]	gm	YDR530C
+ATP[c]	gm	YDR530C
+P1,P4-bis(5'-adenosyl) tetraphosphate[c]	gm	YDR530C
+phosphate[c]	gm	YDR530C
+ATP[c]	gm	YJL005W
+3',5'-cyclic AMP[c]	gm	YJL005W
+diphosphate[c]	gm	YJL005W
+xanthosine 5'-phosphate[c]	gm	YMR217W
+ATP[c]	gm	YMR217W
+L-glutamine[c]	gm	YMR217W
+H2O[c]	gm	YMR217W
+AMP[c]	gm	YMR217W
+GMP[c]	gm	YMR217W
+L-glutamate[c]	gm	YMR217W
+diphosphate[c]	gm	YMR217W
+GMP[c]	gm	YDR454C
+ATP[c]	gm	YDR454C
+ADP[c]	gm	YDR454C
+GDP[c]	gm	YDR454C
+dGMP[c]	gm	YDR454C
+ATP[c]	gm	YDR454C
+dGDP[c]	gm	YDR454C
+ADP[c]	gm	YDR454C
+GMP[c]	gm	YDR454C
+dATP[c]	gm	YDR454C
+GDP[c]	gm	YDR454C
+dADP[c]	gm	YDR454C
+IMP[c]	gm	YAR075W
+NAD(+)[c]	gm	YAR075W
+H2O[c]	gm	YAR075W
+xanthosine 5'-phosphate[c]	gm	YAR075W
+NADH[c]	gm	YAR075W
+IMP[c]	gm	YHR216W
+NAD(+)[c]	gm	YHR216W
+H2O[c]	gm	YHR216W
+xanthosine 5'-phosphate[c]	gm	YHR216W
+NADH[c]	gm	YHR216W
+IMP[c]	gm	YLR432W
+NAD(+)[c]	gm	YLR432W
+H2O[c]	gm	YLR432W
+xanthosine 5'-phosphate[c]	gm	YLR432W
+NADH[c]	gm	YLR432W
+IMP[c]	gm	YML056C
+NAD(+)[c]	gm	YML056C
+H2O[c]	gm	YML056C
+xanthosine 5'-phosphate[c]	gm	YML056C
+NADH[c]	gm	YML056C
+IMP[c]	gm	YAR073W
+NAD(+)[c]	gm	YAR073W
+H2O[c]	gm	YAR073W
+xanthosine 5'-phosphate[c]	gm	YAR073W
+NADH[c]	gm	YAR073W
+3',5'-cyclic AMP[c]	gm	YGL248W
+H2O[c]	gm	YGL248W
+AMP[c]	gm	YGL248W
+3',5'-cyclic AMP[c]	gm	YOR360C
+H2O[c]	gm	YOR360C
+AMP[c]	gm	YOR360C
+3',5'-cyclic dAMP[c]	gm	YOR360C
+H2O[c]	gm	YOR360C
+dAMP[c]	gm	YOR360C
+3',5'-cyclic GMP[c]	gm	YOR360C
+H2O[c]	gm	YOR360C
+GMP[c]	gm	YOR360C
+3',5'-cyclic IMP[c]	gm	YOR360C
+IMP[c]	gm	YOR360C
+3',5'-cyclic CMP[c]	gm	YOR360C
+CMP[c]	gm	YOR360C
+ADP-ribose[c]	gm	YBR111C
+AMP[c]	gm	YBR111C
+D-ribose 5-phosphate[c]	gm	YBR111C
+pyridoxamine 5'-phosphate[c]	gm	YBR035C
+O2[c]	gm	YBR035C
+H2O[c]	gm	YBR035C
+pyridoxal 5'-phosphate[c]	gm	YBR035C
+hydrogen peroxide[c]	gm	YBR035C
+NH3[c]	gm	YBR035C
+pyridoxine 5'-phosphate[c]	gm	YBR035C
+O2[c]	gm	YBR035C
+pyridoxal 5'-phosphate[c]	gm	YBR035C
+hydrogen peroxide[c]	gm	YBR035C
+pyridoxine[c]	gm	YBR035C
+O2[c]	gm	YBR035C
+pyridoxal[c]	gm	YBR035C
+hydrogen peroxide[c]	gm	YBR035C
+pyridoxal[c]	gm	YBR035C
+hydrogen peroxide[c]	gm	YBR035C
+NH3[c]	gm	YBR035C
+pyridoxamine[c]	gm	YBR035C
+O2[c]	gm	YBR035C
+H2O[c]	gm	YBR035C
+2-oxo-3-hydroxy-4-phosphobutanoate[c]	gm	YOR184W
+L-glutamate[c]	gm	YOR184W
+O-phospho-4-hydroxy-L-threonine[c]	gm	YOR184W
+2-oxoglutarate[c]	gm	YOR184W
+O-phospho-4-hydroxy-L-threonine[c]	gm	YCR053W
+4-hydroxy-L-threonine[c]	gm	YCR053W
+phosphate[c]	gm	YCR053W
+ATP[c]	gm	YEL029C
+pyridoxal[c]	gm	YEL029C
+ADP[c]	gm	YEL029C
+pyridoxal 5'-phosphate[c]	gm	YEL029C
+ATP[c]	gm	YNR027W
+pyridoxal[c]	gm	YNR027W
+ADP[c]	gm	YNR027W
+pyridoxal 5'-phosphate[c]	gm	YNR027W
+5,10-methylenetetrahydrofolate[c]	gm	YOR074C
+dUMP[c]	gm	YOR074C
+dTMP[c]	gm	YOR074C
+dihydrofolate[c]	gm	YOR074C
+dTMP[c]	gm	YJR057W
+ATP[c]	gm	YJR057W
+ADP[c]	gm	YJR057W
+dTDP[c]	gm	YJR057W
+cytidine[c]	gm	YLR245C
+H2O[c]	gm	YLR245C
+uridine[c]	gm	YLR245C
+NH3[c]	gm	YLR245C
+deoxycytidine[c]	gm	YLR245C
+H2O[c]	gm	YLR245C
+deoxyuridine[c]	gm	YLR245C
+NH3[c]	gm	YLR245C
+dCMP[c]	gm	YHR144C
+H2O[c]	gm	YHR144C
+dUMP[c]	gm	YHR144C
+NH3[c]	gm	YHR144C
+uracil[c]	gm	YFL001W
+D-ribose 5-phosphate[c]	gm	YFL001W
+pseudouridine 5'-phosphate[c]	gm	YFL001W
+H2O[c]	gm	YFL001W
+uracil[c]	gm	YGL063W
+D-ribose 5-phosphate[c]	gm	YGL063W
+pseudouridine 5'-phosphate[c]	gm	YGL063W
+H2O[c]	gm	YGL063W
+uracil[c]	gm	YNL292W
+D-ribose 5-phosphate[c]	gm	YNL292W
+pseudouridine 5'-phosphate[c]	gm	YNL292W
+H2O[c]	gm	YNL292W
+uracil[c]	gm	YPL212C
+D-ribose 5-phosphate[c]	gm	YPL212C
+pseudouridine 5'-phosphate[c]	gm	YPL212C
+H2O[c]	gm	YPL212C
+dUTP[c]	gm	YBR252W
+H2O[c]	gm	YBR252W
+dUMP[c]	gm	YBR252W
+diphosphate[c]	gm	YBR252W
+cytosine[c]	gm	YPR062W
+H2O[c]	gm	YPR062W
+uracil[c]	gm	YPR062W
+NH3[c]	gm	YPR062W
+uracil[c]	gm	YHR128W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YHR128W
+UMP[c]	gm	YHR128W
+diphosphate[c]	gm	YHR128W
+deoxyuridine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+uracil[c]	gm	YLR209C
+2-deoxyribose 1-phosphate[c]	gm	YLR209C
+thymidine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+2-deoxyribose 1-phosphate[c]	gm	YLR209C
+thymine[c]	gm	YLR209C
+NADPH[c]	gm	YDR353W
+oxidized thioredoxin[c]	gm	YDR353W
+NADP(+)[c]	gm	YDR353W
+reduced thioredoxin[c]	gm	YDR353W
+NADPH[c]	gm	YLR043C
+oxidized thioredoxin[c]	gm	YLR043C
+NADP(+)[c]	gm	YLR043C
+reduced thioredoxin[c]	gm	YLR043C
+N-carbamoyl-L-aspartate[c]	gm	YLR420W
+(S)-dihydroorotate[c]	gm	YLR420W
+H2O[c]	gm	YLR420W
+ATP[c]	gm	YBL039C
+L-glutamine[c]	gm	YBL039C
+UTP[c]	gm	YBL039C
+H2O[c]	gm	YBL039C
+ADP[c]	gm	YBL039C
+L-glutamate[c]	gm	YBL039C
+CTP[c]	gm	YBL039C
+phosphate[c]	gm	YBL039C
+ATP[c]	gm	YJR103W
+L-glutamine[c]	gm	YJR103W
+UTP[c]	gm	YJR103W
+H2O[c]	gm	YJR103W
+ADP[c]	gm	YJR103W
+L-glutamate[c]	gm	YJR103W
+CTP[c]	gm	YJR103W
+phosphate[c]	gm	YJR103W
+(S)-dihydroorotate[c]	gm	YKL216W
+O2[c]	gm	YKL216W
+orotate[c]	gm	YKL216W
+hydrogen peroxide[c]	gm	YKL216W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YML106W
+orotate[c]	gm	YML106W
+orotidine 5'-phosphate[c]	gm	YML106W
+diphosphate[c]	gm	YML106W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YMR271C
+orotate[c]	gm	YMR271C
+orotidine 5'-phosphate[c]	gm	YMR271C
+diphosphate[c]	gm	YMR271C
+L-aspartate[c]	gm	YJL130C
+carbamoyl phosphate[c]	gm	YJL130C
+N-carbamoyl-L-aspartate[c]	gm	YJL130C
+phosphate[c]	gm	YJL130C
+orotidine 5'-phosphate[c]	gm	YEL021W
+UMP[c]	gm	YEL021W
+CO2[c]	gm	YEL021W
+ATP[c]	gm	YKL024C
+UMP[c]	gm	YKL024C
+ADP[c]	gm	YKL024C
+UDP[c]	gm	YKL024C
+ATP[c]	gm	YBL039C
+UTP[c]	gm	YBL039C
+NH3[c]	gm	YBL039C
+ADP[c]	gm	YBL039C
+CTP[c]	gm	YBL039C
+phosphate[c]	gm	YBL039C
+ATP[c]	gm	YJR103W
+UTP[c]	gm	YJR103W
+NH3[c]	gm	YJR103W
+ADP[c]	gm	YJR103W
+CTP[c]	gm	YJR103W
+phosphate[c]	gm	YJR103W
+GTP[c]	gm	YNR012W
+uridine[c]	gm	YNR012W
+GDP[c]	gm	YNR012W
+UMP[c]	gm	YNR012W
+GTP[c]	gm	YNR012W
+cytidine[c]	gm	YNR012W
+GDP[c]	gm	YNR012W
+CMP[c]	gm	YNR012W
+ATP[c]	gm	YNR012W
+uridine[c]	gm	YNR012W
+ADP[c]	gm	YNR012W
+UMP[c]	gm	YNR012W
+ubiquinone-9[m]	gm	YKL216W
+(S)-dihydroorotate[c]	gm	YKL216W
+orotate[c]	gm	YKL216W
+ubiquinol-9[m]	gm	YKL216W
+NADPH[m]	gm	YHR106W
+oxidized thioredoxin[m]	gm	YHR106W
+NADP(+)[m]	gm	YHR106W
+reduced thioredoxin[m]	gm	YHR106W
+acetyl-CoA[c]	gm	YBL015W
+H2O[c]	gm	YBL015W
+coenzyme A[c]	gm	YBL015W
+acetate[c]	gm	YBL015W
+ATP[c]	gm	YAL054C
+coenzyme A[c]	gm	YAL054C
+acetate[c]	gm	YAL054C
+AMP[c]	gm	YAL054C
+acetyl-CoA[c]	gm	YAL054C
+diphosphate[c]	gm	YAL054C
+ATP[c]	gm	YLR153C
+coenzyme A[c]	gm	YLR153C
+acetate[c]	gm	YLR153C
+AMP[c]	gm	YLR153C
+acetyl-CoA[c]	gm	YLR153C
+diphosphate[c]	gm	YLR153C
+NAD(+)[c]	gm	YBR145W
+ethanol[c]	gm	YBR145W
+NADH[c]	gm	YBR145W
+acetaldehyde[c]	gm	YBR145W
+NAD(+)[c]	gm	YDL168W
+ethanol[c]	gm	YDL168W
+NADH[c]	gm	YDL168W
+acetaldehyde[c]	gm	YDL168W
+NAD(+)[c]	gm	YGL256W
+ethanol[c]	gm	YGL256W
+NADH[c]	gm	YGL256W
+acetaldehyde[c]	gm	YGL256W
+NAD(+)[c]	gm	YMR303C
+ethanol[c]	gm	YMR303C
+NADH[c]	gm	YMR303C
+acetaldehyde[c]	gm	YMR303C
+NAD(+)[c]	gm	YOL086C
+ethanol[c]	gm	YOL086C
+NADH[c]	gm	YOL086C
+acetaldehyde[c]	gm	YOL086C
+acetyl-CoA[c]	gm	YDL131W
+2-oxoglutarate[c]	gm	YDL131W
+H2O[c]	gm	YDL131W
+coenzyme A[c]	gm	YDL131W
+homocitrate[c]	gm	YDL131W
+acetyl-CoA[c]	gm	YDL182W
+2-oxoglutarate[c]	gm	YDL182W
+H2O[c]	gm	YDL182W
+coenzyme A[c]	gm	YDL182W
+homocitrate[c]	gm	YDL182W
+pyruvate[c]	gm	YGR087C
+acetaldehyde[c]	gm	YGR087C
+CO2[c]	gm	YGR087C
+pyruvate[c]	gm	YLR044C
+acetaldehyde[c]	gm	YLR044C
+CO2[c]	gm	YLR044C
+pyruvate[c]	gm	YLR134W
+acetaldehyde[c]	gm	YLR134W
+CO2[c]	gm	YLR134W
+glutathione[c]	gm	YDL168W
+NAD(+)[c]	gm	YDL168W
+formaldehyde[c]	gm	YDL168W
+S-formylglutathione[c]	gm	YDL168W
+NADH[c]	gm	YDL168W
+S-formylglutathione[c]	gm	YJL068C
+H2O[c]	gm	YJL068C
+glutathione[c]	gm	YJL068C
+formate[c]	gm	YJL068C
+NAD(+)[m]	gm	YMR083W
+ethanol[m]	gm	YMR083W
+NADH[m]	gm	YMR083W
+acetaldehyde[m]	gm	YMR083W
+(S)-lactate[m]	gm	YML054C
+ferricytochrome c[m]	gm	YML054C
+pyruvate[m]	gm	YML054C
+ferrocytochrome c[m]	gm	YML054C
+(R)-lactate[m]	gm	YDL174C
+ferricytochrome c[m]	gm	YDL174C
+pyruvate[m]	gm	YDL174C
+ferrocytochrome c[m]	gm	YDL174C
+NAD(+)[m]	gm	YDR148C
+dihydrolipoamide[m]	gm	YDR148C
+NADH[m]	gm	YDR148C
+lipoamide[m]	gm	YDR148C
+NAD(+)[m]	gm	YFL018C
+dihydrolipoamide[m]	gm	YFL018C
+NADH[m]	gm	YFL018C
+lipoamide[m]	gm	YFL018C
+NAD(+)[m]	gm	YIL125W
+dihydrolipoamide[m]	gm	YIL125W
+NADH[m]	gm	YIL125W
+lipoamide[m]	gm	YIL125W
+L-lactate[c]	gm	YJR048W
+ferricytochrome c[m]	gm	YJR048W
+pyruvate[c]	gm	YJR048W
+ferrocytochrome c[m]	gm	YJR048W
+L-lactate[c]	gm	YML054C
+ferricytochrome c[m]	gm	YML054C
+pyruvate[c]	gm	YML054C
+ferrocytochrome c[m]	gm	YML054C
+acetyl-CoA[m]	gm	YDL182W
+2-oxoglutarate[m]	gm	YDL182W
+H2O[m]	gm	YDL182W
+coenzyme A[m]	gm	YDL182W
+homocitrate[m]	gm	YDL182W
+all-trans-nonaprenyl diphosphate[c]	gm	YBR003W
+4-hydroxybenzoate[c]	gm	YBR003W
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YBR003W
+diphosphate[c]	gm	YBR003W
+all-trans-nonaprenyl diphosphate[c]	gm	YMR101C
+4-hydroxybenzoate[c]	gm	YMR101C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YMR101C
+diphosphate[c]	gm	YMR101C
+all-trans-nonaprenyl diphosphate[c]	gm	YNR041C
+4-hydroxybenzoate[c]	gm	YNR041C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YNR041C
+diphosphate[c]	gm	YNR041C
+all-trans-nonaprenyl diphosphate[c]	gm	YPL172C
+4-hydroxybenzoate[c]	gm	YPL172C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YPL172C
+diphosphate[c]	gm	YPL172C
+all-trans-nonaprenyl diphosphate[c]	gm	YPR176C
+4-hydroxybenzoate[c]	gm	YPR176C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YPR176C
+diphosphate[c]	gm	YPR176C
+all-trans-nonaprenyl diphosphate[c]	gm	YGL155W
+4-hydroxybenzoate[c]	gm	YGL155W
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YGL155W
+diphosphate[c]	gm	YGL155W
+all-trans-nonaprenyl diphosphate[c]	gm	YJL031C
+4-hydroxybenzoate[c]	gm	YJL031C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YJL031C
+diphosphate[c]	gm	YJL031C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YDR538W
+CO2[c]	gm	YDR538W
+2-nonaprenylphenol[c]	gm	YDR538W
+all-trans-nonaprenyl diphosphate[c]	gm	YDL090C
+4-hydroxybenzoate[c]	gm	YDL090C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YDL090C
+diphosphate[c]	gm	YDL090C
+all-trans-nonaprenyl diphosphate[c]	gm	YKL019W
+4-hydroxybenzoate[c]	gm	YKL019W
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YKL019W
+diphosphate[c]	gm	YKL019W
+all-trans-nonaprenyl diphosphate[c]	gm	YBR002C
+4-hydroxybenzoate[c]	gm	YBR002C
+3-nonaprenyl-4-hydroxybenzoate[c]	gm	YBR002C
+diphosphate[c]	gm	YBR002C
+chorismate[c]	gm	YER090W
+pyruvate[c]	gm	YER090W
+4-hydroxybenzoate[c]	gm	YER090W
+chorismate[c]	gm	YKL211C
+pyruvate[c]	gm	YKL211C
+4-hydroxybenzoate[c]	gm	YKL211C
+S-adenosyl-L-methionine[m]	gm	YGR255C
+3-demethylubiquinone-9[m]	gm	YGR255C
+S-adenosyl-L-homocysteine[m]	gm	YGR255C
+ubiquinol-9[m]	gm	YGR255C
+S-adenosyl-L-methionine[m]	gm	YML110C
+3-demethylubiquinone-9[m]	gm	YML110C
+S-adenosyl-L-homocysteine[m]	gm	YML110C
+ubiquinol-9[m]	gm	YML110C
+S-adenosyl-L-methionine[m]	gm	YOL096C
+3-demethylubiquinone-9[m]	gm	YOL096C
+S-adenosyl-L-homocysteine[m]	gm	YOL096C
+ubiquinol-9[m]	gm	YOL096C
+S-adenosyl-L-methionine[m]	gm	YOR125C
+3-demethylubiquinone-9[m]	gm	YOR125C
+S-adenosyl-L-homocysteine[m]	gm	YOR125C
+ubiquinol-9[m]	gm	YOR125C
+S-adenosyl-L-methionine[m]	gm	YDR204W
+3-demethylubiquinone-9[m]	gm	YDR204W
+S-adenosyl-L-homocysteine[m]	gm	YDR204W
+ubiquinol-9[m]	gm	YDR204W
+S-adenosyl-L-methionine[m]	gm	YGL119W
+3-demethylubiquinone-9[m]	gm	YGL119W
+S-adenosyl-L-homocysteine[m]	gm	YGL119W
+ubiquinol-9[m]	gm	YGL119W
+S-adenosyl-L-methionine[m]	gm	YLR201C
+3-demethylubiquinone-9[m]	gm	YLR201C
+S-adenosyl-L-homocysteine[m]	gm	YLR201C
+ubiquinol-9[m]	gm	YLR201C
+S-adenosyl-L-methionine[m]	gm	YGR255C
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YGR255C
+S-adenosyl-L-homocysteine[m]	gm	YGR255C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGR255C
+S-adenosyl-L-methionine[m]	gm	YML110C
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YML110C
+S-adenosyl-L-homocysteine[m]	gm	YML110C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YML110C
+S-adenosyl-L-methionine[m]	gm	YOL096C
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YOL096C
+S-adenosyl-L-homocysteine[m]	gm	YOL096C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOL096C
+S-adenosyl-L-methionine[m]	gm	YOR125C
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YOR125C
+S-adenosyl-L-homocysteine[m]	gm	YOR125C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOR125C
+S-adenosyl-L-methionine[m]	gm	YDR204W
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YDR204W
+S-adenosyl-L-homocysteine[m]	gm	YDR204W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YDR204W
+S-adenosyl-L-methionine[m]	gm	YGL119W
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YGL119W
+S-adenosyl-L-homocysteine[m]	gm	YGL119W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGL119W
+S-adenosyl-L-methionine[m]	gm	YLR201C
+2-nonaprenyl-6-methoxy-1,4-benzoquinone[m]	gm	YLR201C
+S-adenosyl-L-homocysteine[m]	gm	YLR201C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YLR201C
+O2[m]	gm	YGR255C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGR255C
+3-demethylubiquinone-9[m]	gm	YGR255C
+O2[m]	gm	YML110C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YML110C
+3-demethylubiquinone-9[m]	gm	YML110C
+O2[m]	gm	YOL096C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOL096C
+3-demethylubiquinone-9[m]	gm	YOL096C
+O2[m]	gm	YOR125C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOR125C
+3-demethylubiquinone-9[m]	gm	YOR125C
+O2[m]	gm	YDR204W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YDR204W
+3-demethylubiquinone-9[m]	gm	YDR204W
+O2[m]	gm	YGL119W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGL119W
+3-demethylubiquinone-9[m]	gm	YGL119W
+O2[m]	gm	YLR201C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YLR201C
+3-demethylubiquinone-9[m]	gm	YLR201C
+ATP[c]	gm	YDL045C
+FMN[c]	gm	YDL045C
+FAD[c]	gm	YDL045C
+diphosphate[c]	gm	YDL045C
+ATP[c]	gm	YDR236C
+riboflavin[c]	gm	YDR236C
+ADP[c]	gm	YDR236C
+FMN[c]	gm	YDR236C
+FMN[c]	gm	YAR071W
+H2O[c]	gm	YAR071W
+riboflavin[c]	gm	YAR071W
+phosphate[c]	gm	YAR071W
+FMN[c]	gm	YHR215W
+H2O[c]	gm	YHR215W
+riboflavin[c]	gm	YHR215W
+phosphate[c]	gm	YHR215W
+FMN[e]	gm	YBR093C
+H2O[c]	gm	YBR093C
+riboflavin[e]	gm	YBR093C
+phosphate[e]	gm	YBR093C
+3,4-dihydroxy-2-butanone 4-phosphate[c]	gm	YOL143C
+4-(1-D-ribitylamino)-5-aminouracil[c]	gm	YOL143C
+6,7-dimethyl-8-(1-D-ribityl)lumazine[c]	gm	YOL143C
+phosphate[c]	gm	YOL143C
+D-ribulose 5-phosphate[c]	gm	YDR487C
+3,4-dihydroxy-2-butanone 4-phosphate[c]	gm	YDR487C
+formate[c]	gm	YDR487C
+2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate[c]	gm	YOL066C
+5-amino-6-(5'-phosphoribitylamino)uracil[c]	gm	YOL066C
+NH3[c]	gm	YOL066C
+FMN[c]	gm	YLR011W
+NAD(+)[c]	gm	YLR011W
+reduced FMN[c]	gm	YLR011W
+NADH[c]	gm	YLR011W
+FMN[c]	gm	YLR011W
+NADP(+)[c]	gm	YLR011W
+reduced FMN[c]	gm	YLR011W
+NADPH[c]	gm	YLR011W
+2,5-diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine[c]	gm	YBR153W
+H2O[c]	gm	YBR153W
+5-amino-6-(5-phosphoribosylamino)uracil[c]	gm	YBR153W
+NH3[c]	gm	YBR153W
+GTP[c]	gm	YBL033C
+2,5-diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine[c]	gm	YBL033C
+formate[c]	gm	YBL033C
+diphosphate[c]	gm	YBL033C
+3,4-dihydroxy-2-butanone 4-phosphate[c]	gm	YBR256C
+4-(1-D-ribitylamino)-5-amino-2,6-dihydroxypyrimidine[c]	gm	YBR256C
+6,7-dimethyl-8-(1-D-ribityl)lumazine[c]	gm	YBR256C
+phosphate[c]	gm	YBR256C
+3,4-dihydroxy-2-butanone 4-phosphate[c]	gm	YOL143C
+4-(1-D-ribitylamino)-5-amino-2,6-dihydroxypyrimidine[c]	gm	YOL143C
+6,7-dimethyl-8-(1-D-ribityl)lumazine[c]	gm	YOL143C
+phosphate[c]	gm	YOL143C
+NADPH[c]	gm	YBR153W
+5-amino-6-(5-phosphoribosylamino)uracil[c]	gm	YBR153W
+NADP(+)[c]	gm	YBR153W
+5-amino-6-(5'-phosphoribitylamino)uracil[c]	gm	YBR153W
+ATP[m]	gm	YDR236C
+riboflavin[m]	gm	YDR236C
+ADP[m]	gm	YDR236C
+FMN[m]	gm	YDR236C
+adenosine[c]	gm	YNL141W
+H2O[c]	gm	YNL141W
+inosine[c]	gm	YNL141W
+NH3[c]	gm	YNL141W
+deoxyadenosine[c]	gm	YNL141W
+H2O[c]	gm	YNL141W
+deoxyinosine[c]	gm	YNL141W
+NH3[c]	gm	YNL141W
+adenine[c]	gm	YNL141W
+H2O[c]	gm	YNL141W
+hypoxanthine[c]	gm	YNL141W
+NH3[c]	gm	YNL141W
+AMP[c]	gm	YDR226W
+ATP[c]	gm	YDR226W
+ADP[c]	gm	YDR226W
+AMP[c]	gm	YDR226W
+GTP[c]	gm	YDR226W
+ADP[c]	gm	YDR226W
+GDP[c]	gm	YDR226W
+AMP[c]	gm	YDR226W
+ITP[c]	gm	YDR226W
+IDP[c]	gm	YDR226W
+ADP[c]	gm	YDR226W
+AMP[c]	gm	YJL070C
+H2O[c]	gm	YJL070C
+D-ribose 5-phosphate[c]	gm	YJL070C
+adenine[c]	gm	YJL070C
+AMP[c]	gm	YML035C
+H2O[c]	gm	YML035C
+D-ribose 5-phosphate[c]	gm	YML035C
+adenine[c]	gm	YML035C
+AMP[c]	gm	YBR284W
+H2O[c]	gm	YBR284W
+D-ribose 5-phosphate[c]	gm	YBR284W
+adenine[c]	gm	YBR284W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YDR441C
+adenine[c]	gm	YDR441C
+AMP[c]	gm	YDR441C
+diphosphate[c]	gm	YDR441C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YML022W
+adenine[c]	gm	YML022W
+AMP[c]	gm	YML022W
+diphosphate[c]	gm	YML022W
+dCTP[c]	gm	YHR144C
+H2O[c]	gm	YHR144C
+dUTP[c]	gm	YHR144C
+NH3[c]	gm	YHR144C
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YDR399W
+hypoxanthine[c]	gm	YDR399W
+IMP[c]	gm	YDR399W
+diphosphate[c]	gm	YDR399W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YDR399W
+guanine[c]	gm	YDR399W
+GMP[c]	gm	YDR399W
+diphosphate[c]	gm	YDR399W
+deoxyinosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+2-deoxyribose 1-phosphate[c]	gm	YLR209C
+hypoxanthine[c]	gm	YLR209C
+deoxyadenosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+2-deoxyribose 1-phosphate[c]	gm	YLR209C
+adenine[c]	gm	YLR209C
+deoxyguanosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+2-deoxyribose 1-phosphate[c]	gm	YLR209C
+guanine[c]	gm	YLR209C
+alpha-D-ribose 1-phosphate[c]	gm	YLR209C
+hypoxanthine[c]	gm	YLR209C
+inosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+alpha-D-ribose 1-phosphate[c]	gm	YLR209C
+adenine[c]	gm	YLR209C
+adenosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+alpha-D-ribose 1-phosphate[c]	gm	YLR209C
+guanine[c]	gm	YLR209C
+guanosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+alpha-D-ribose 1-phosphate[c]	gm	YLR209C
+xanthine[c]	gm	YLR209C
+xanthosine[c]	gm	YLR209C
+phosphate[c]	gm	YLR209C
+ADP[c]	gm	YER070W
+reduced thioredoxin[c]	gm	YER070W
+dADP[c]	gm	YER070W
+H2O[c]	gm	YER070W
+oxidized thioredoxin[c]	gm	YER070W
+ADP[c]	gm	YGR180C
+reduced thioredoxin[c]	gm	YGR180C
+dADP[c]	gm	YGR180C
+H2O[c]	gm	YGR180C
+oxidized thioredoxin[c]	gm	YGR180C
+ADP[c]	gm	YIL066C
+reduced thioredoxin[c]	gm	YIL066C
+dADP[c]	gm	YIL066C
+H2O[c]	gm	YIL066C
+oxidized thioredoxin[c]	gm	YIL066C
+ADP[c]	gm	YJL026W
+reduced thioredoxin[c]	gm	YJL026W
+dADP[c]	gm	YJL026W
+H2O[c]	gm	YJL026W
+oxidized thioredoxin[c]	gm	YJL026W
+GDP[c]	gm	YER070W
+reduced thioredoxin[c]	gm	YER070W
+dGDP[c]	gm	YER070W
+H2O[c]	gm	YER070W
+oxidized thioredoxin[c]	gm	YER070W
+CDP[c]	gm	YER070W
+reduced thioredoxin[c]	gm	YER070W
+dCDP[c]	gm	YER070W
+H2O[c]	gm	YER070W
+oxidized thioredoxin[c]	gm	YER070W
+UDP[c]	gm	YER070W
+reduced thioredoxin[c]	gm	YER070W
+dUDP[c]	gm	YER070W
+H2O[c]	gm	YER070W
+oxidized thioredoxin[c]	gm	YER070W
+ATP[c]	gm	YKL024C
+dUMP[c]	gm	YKL024C
+ADP[c]	gm	YKL024C
+dUDP[c]	gm	YKL024C
+guanosine[c]	gm	YDR400W
+H2O[c]	gm	YDR400W
+D-ribose[c]	gm	YDR400W
+guanine[c]	gm	YDR400W
+adenosine[c]	gm	YDR400W
+H2O[c]	gm	YDR400W
+D-ribose[c]	gm	YDR400W
+adenine[c]	gm	YDR400W
+5-phospho-alpha-D-ribose 1-diphosphate[c]	gm	YJR133W
+xanthine[c]	gm	YJR133W
+xanthosine 5'-phosphate[c]	gm	YJR133W
+diphosphate[c]	gm	YJR133W
+adenosine[c]	gm	YJR105W
+ATP[c]	gm	YJR105W
+AMP[c]	gm	YJR105W
+ADP[c]	gm	YJR105W
+ATP[c]	gm	YKL067W
+UDP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+UTP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+CDP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+CTP[c]	gm	YKL067W
+dGDP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+dGTP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+dUDP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+dUTP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+dCDP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+dCTP[c]	gm	YKL067W
+dTDP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+dTTP[c]	gm	YKL067W
+dADP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+dATP[c]	gm	YKL067W
+GDP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+GTP[c]	gm	YKL067W
+IDP[c]	gm	YKL067W
+ATP[c]	gm	YKL067W
+ITP[c]	gm	YKL067W
+ADP[c]	gm	YKL067W
+AMP[m]	gm	YER170W
+ATP[m]	gm	YER170W
+ADP[m]	gm	YER170W
+AMP[m]	gm	YER170W
+GTP[m]	gm	YER170W
+ADP[m]	gm	YER170W
+GDP[m]	gm	YER170W
+AMP[m]	gm	YER170W
+ITP[m]	gm	YER170W
+IDP[m]	gm	YER170W
+ADP[m]	gm	YER170W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YKL004W
+D-ceramide[c]	gm	YKL004W
+diglycerides[c]	gm	YKL004W
+inositol-phosphoryl-D-ceramide[c]	gm	YKL004W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YDR367W
+D-ceramide[c]	gm	YDR367W
+diglycerides[c]	gm	YDR367W
+inositol-phosphoryl-D-ceramide[c]	gm	YDR367W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YKL004W
+P-ceramide[c]	gm	YKL004W
+diglycerides[c]	gm	YKL004W
+inositol-phosphoryl-P-ceramide[c]	gm	YKL004W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YDR367W
+P-ceramide[c]	gm	YDR367W
+diglycerides[c]	gm	YDR367W
+inositol-phosphoryl-P-ceramide[c]	gm	YDR367W
+GDP-mannose[c]	gm	YBR036C
+inositol-phosphoryl-D-ceramide[c]	gm	YBR036C
+mannose-inositol-P-D-ceramide[c]	gm	YBR036C
+GDP-mannose[c]	gm	YPL057C
+inositol-phosphoryl-D-ceramide[c]	gm	YPL057C
+mannose-inositol-P-D-ceramide[c]	gm	YPL057C
+GDP-mannose[c]	gm	YBR161W
+inositol-phosphoryl-D-ceramide[c]	gm	YBR161W
+mannose-inositol-P-D-ceramide[c]	gm	YBR161W
+GDP-mannose[c]	gm	YBR036C
+inositol-phosphoryl-P-ceramide[c]	gm	YBR036C
+mannose-inositol-P-P-ceramide[c]	gm	YBR036C
+GDP-mannose[c]	gm	YPL057C
+inositol-phosphoryl-P-ceramide[c]	gm	YPL057C
+mannose-inositol-P-P-ceramide[c]	gm	YPL057C
+GDP-mannose[c]	gm	YBR161W
+inositol-phosphoryl-P-ceramide[c]	gm	YBR161W
+mannose-inositol-P-P-ceramide[c]	gm	YBR161W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YDR072C
+mannose-inositol-P-D-ceramide[c]	gm	YDR072C
+inositol-mannose-P-inositol-P-D-ceramide[c]	gm	YDR072C
+1-phosphatidyl-1D-myo-inositols[c]	gm	YDR072C
+mannose-inositol-P-P-ceramide[c]	gm	YDR072C
+inositol-mannose-P-inositol-P-P-ceramide[c]	gm	YDR072C
+H2O[c]	gm	YER019W
+phosphatidylcholines[c]	gm	YER019W
+choline phosphate[c]	gm	YER019W
+diglycerides[c]	gm	YER019W
+diglycerides[c]	gm	YER019W
+inositol-phosphoryl-D-ceramide[c]	gm	YER019W
+1-phosphatidyl-1D-myo-inositols[c]	gm	YER019W
+D-ceramide[c]	gm	YER019W
+diglycerides[c]	gm	YER019W
+inositol-phosphoryl-P-ceramide[c]	gm	YER019W
+1-phosphatidyl-P-myo-inositol[c]	gm	YER019W
+P-ceramide[c]	gm	YER019W
+H2O[c]	gm	YER019W
+inositol-phosphoryl-D-ceramide[c]	gm	YER019W
+1D-myo-inositol 3-phosphate[c]	gm	YER019W
+D-ceramide[c]	gm	YER019W
+H2O[c]	gm	YER019W
+inositol-phosphoryl-P-ceramide[c]	gm	YER019W
+1D-myo-inositol 3-phosphate[c]	gm	YER019W
+P-ceramide[c]	gm	YER019W
+sphinganine[c]	gm	YHL003C
+C26-CoA[c]	gm	YHL003C
+coenzyme A[c]	gm	YHL003C
+D-ceramide[c]	gm	YHL003C
+sphinganine[c]	gm	YKL008C
+C26-CoA[c]	gm	YKL008C
+coenzyme A[c]	gm	YKL008C
+D-ceramide[c]	gm	YKL008C
+sphinganine[c]	gm	YMR298W
+C26-CoA[c]	gm	YMR298W
+coenzyme A[c]	gm	YMR298W
+D-ceramide[c]	gm	YMR298W
+phytosphingosine[c]	gm	YHL003C
+C26-CoA[c]	gm	YHL003C
+coenzyme A[c]	gm	YHL003C
+P-ceramide[c]	gm	YHL003C
+phytosphingosine[c]	gm	YKL008C
+C26-CoA[c]	gm	YKL008C
+coenzyme A[c]	gm	YKL008C
+P-ceramide[c]	gm	YKL008C
+phytosphingosine[c]	gm	YMR298W
+C26-CoA[c]	gm	YMR298W
+coenzyme A[c]	gm	YMR298W
+P-ceramide[c]	gm	YMR298W
+palmitoyl-CoA[c]	gm	YDR062W
+L-serine[c]	gm	YDR062W
+3-dehydrosphinganine[c]	gm	YDR062W
+coenzyme A[c]	gm	YDR062W
+CO2[c]	gm	YDR062W
+palmitoyl-CoA[c]	gm	YMR296C
+L-serine[c]	gm	YMR296C
+3-dehydrosphinganine[c]	gm	YMR296C
+coenzyme A[c]	gm	YMR296C
+CO2[c]	gm	YMR296C
+palmitoyl-CoA[c]	gm	YBR058C-A
+L-serine[c]	gm	YBR058C-A
+3-dehydrosphinganine[c]	gm	YBR058C-A
+coenzyme A[c]	gm	YBR058C-A
+CO2[c]	gm	YBR058C-A
+sphinganine 1-phosphate[c]	gm	YJL134W
+H2O[c]	gm	YJL134W
+sphinganine[c]	gm	YJL134W
+phosphate[c]	gm	YJL134W
+sphinganine 1-phosphate[c]	gm	YKR053C
+H2O[c]	gm	YKR053C
+sphinganine[c]	gm	YKR053C
+phosphate[c]	gm	YKR053C
+phytosphingosine 1-phosphate[c]	gm	YJL134W
+H2O[c]	gm	YJL134W
+phytosphingosine[c]	gm	YJL134W
+phosphate[c]	gm	YJL134W
+phytosphingosine 1-phosphate[c]	gm	YKR053C
+H2O[c]	gm	YKR053C
+phytosphingosine[c]	gm	YKR053C
+phosphate[c]	gm	YKR053C
+ATP[c]	gm	YLR260W
+sphinganine[c]	gm	YLR260W
+ADP[c]	gm	YLR260W
+sphinganine 1-phosphate[c]	gm	YLR260W
+ATP[c]	gm	YOR171C
+sphinganine[c]	gm	YOR171C
+ADP[c]	gm	YOR171C
+sphinganine 1-phosphate[c]	gm	YOR171C
+ATP[c]	gm	YLR260W
+phytosphingosine[c]	gm	YLR260W
+ADP[c]	gm	YLR260W
+phytosphingosine 1-phosphate[c]	gm	YLR260W
+ATP[c]	gm	YOR171C
+phytosphingosine[c]	gm	YOR171C
+ADP[c]	gm	YOR171C
+phytosphingosine 1-phosphate[c]	gm	YOR171C
+NADH[c]	gm	YMR272C
+O2[c]	gm	YMR272C
+P-ceramide[c]	gm	YMR272C
+NADP(+)[c]	gm	YMR272C
+D-ceramide[c]	gm	YMR272C
+sphinganine[c]	gm	YDR297W
+NADPH[c]	gm	YDR297W
+O2[c]	gm	YDR297W
+phytosphingosine[c]	gm	YDR297W
+NADP(+)[c]	gm	YDR297W
+H2O[c]	gm	YDR297W
+3-dehydrosphinganine[c]	gm	YBR265W
+NADPH[c]	gm	YBR265W
+sphinganine[c]	gm	YBR265W
+NADP(+)[c]	gm	YBR265W
+H2O[c]	gm	YBR183W
+D-ceramide[c]	gm	YBR183W
+sphinganine[c]	gm	YBR183W
+C26 acid[c]	gm	YBR183W
+H2O[c]	gm	YPL087W
+D-ceramide[c]	gm	YPL087W
+sphinganine[c]	gm	YPL087W
+C26 acid[c]	gm	YPL087W
+H2O[c]	gm	YBR183W
+P-ceramide[c]	gm	YBR183W
+phytosphingosine[c]	gm	YBR183W
+C26 acid[c]	gm	YBR183W
+H2O[c]	gm	YPL087W
+P-ceramide[c]	gm	YPL087W
+phytosphingosine[c]	gm	YPL087W
+C26 acid[c]	gm	YPL087W
+H2O[c]	gm	YDR261C
+1,3-beta-D-glucan[c]	gm	YDR261C
+alpha-D-glucose[c]	gm	YDR261C
+H2O[c]	gm	YGR282C
+1,3-beta-D-glucan[c]	gm	YGR282C
+alpha-D-glucose[c]	gm	YGR282C
+H2O[c]	gm	YLR300W
+1,3-beta-D-glucan[c]	gm	YLR300W
+alpha-D-glucose[c]	gm	YLR300W
+H2O[c]	gm	YOR190W
+1,3-beta-D-glucan[c]	gm	YOR190W
+alpha-D-glucose[c]	gm	YOR190W
+UDP-glucose[c]	gm	YGR032W
+UDP[c]	gm	YGR032W
+1,3-beta-D-glucan[c]	gm	YGR032W
+UDP-glucose[c]	gm	YLR342W
+UDP[c]	gm	YLR342W
+1,3-beta-D-glucan[c]	gm	YLR342W
+UDP-glucose[c]	gm	YMR306W
+UDP[c]	gm	YMR306W
+1,3-beta-D-glucan[c]	gm	YMR306W
+UDP-glucose[c]	gm	YLR343W
+UDP[c]	gm	YLR343W
+1,3-beta-D-glucan[c]	gm	YLR343W
+UDP-glucose[c]	gm	YMR215W
+UDP[c]	gm	YMR215W
+1,3-beta-D-glucan[c]	gm	YMR215W
+UDP-glucose[c]	gm	YMR307W
+UDP[c]	gm	YMR307W
+1,3-beta-D-glucan[c]	gm	YMR307W
+UDP-glucose[c]	gm	YOL030W
+UDP[c]	gm	YOL030W
+1,3-beta-D-glucan[c]	gm	YOL030W
+UDP-glucose[c]	gm	YOL132W
+UDP[c]	gm	YOL132W
+1,3-beta-D-glucan[c]	gm	YOL132W
+H2O[c]	gm	YNR067C
+1,3-beta-D-glucan[e]	gm	YNR067C
+alpha-D-glucose[e]	gm	YNR067C
+ergosterol[c]	gm	YNR019W
+acyl CoAs[c]	gm	YNR019W
+coenzyme A[c]	gm	YNR019W
+ergosterol-ester[c]	gm	YNR019W
+ergosterol[c]	gm	YCR048W
+acyl CoAs[c]	gm	YCR048W
+coenzyme A[c]	gm	YCR048W
+ergosterol-ester[c]	gm	YCR048W
+NADPH[c]	gm	YGR175C
+squalene[c]	gm	YGR175C
+O2[c]	gm	YGR175C
+NADP(+)[c]	gm	YGR175C
+(S)-2,3-epoxysqualene[c]	gm	YGR175C
+H2O[c]	gm	YGR175C
+NADPH[c]	gm	YHR007C
+lanosterol[c]	gm	YHR007C
+O2[c]	gm	YHR007C
+NADP(+)[c]	gm	YHR007C
+4,4-dimethylcholesta-8,14,24-trienol[c]	gm	YHR007C
+formate[c]	gm	YHR007C
+H2O[c]	gm	YHR007C
+ATP[c]	gm	YMR208W
+(R)-mevalonate[c]	gm	YMR208W
+ADP[c]	gm	YMR208W
+(R)-5-phosphomevalonate[c]	gm	YMR208W
+(R)-mevalonate[c]	gm	YMR208W
+CTP[c]	gm	YMR208W
+(R)-5-phosphomevalonate[c]	gm	YMR208W
+CDP[c]	gm	YMR208W
+GTP[c]	gm	YMR208W
+(R)-mevalonate[c]	gm	YMR208W
+GDP[c]	gm	YMR208W
+(R)-5-phosphomevalonate[c]	gm	YMR208W
+(R)-mevalonate[c]	gm	YMR208W
+UTP[c]	gm	YMR208W
+(R)-5-phosphomevalonate[c]	gm	YMR208W
+UDP[c]	gm	YMR208W
+fecosterol[c]	gm	YMR202W
+episterol[c]	gm	YMR202W
+isopentenyl diphosphate[c]	gm	YJL167W
+dimethylallyl diphosphate[c]	gm	YJL167W
+geranyl diphosphate[c]	gm	YJL167W
+diphosphate[c]	gm	YJL167W
+geranyl diphosphate[c]	gm	YJL167W
+isopentenyl diphosphate[c]	gm	YJL167W
+2-trans,6-trans-farnesyl diphosphate[c]	gm	YJL167W
+diphosphate[c]	gm	YJL167W
+NADPH[c]	gm	YNL280C
+4,4-dimethylcholesta-8,14,24-trienol[c]	gm	YNL280C
+NADP(+)[c]	gm	YNL280C
+4,4-dimethylzymosterol[c]	gm	YNL280C
+4,4-dimethylzymosterol[c]	gm	YGR060W
+O2[c]	gm	YGR060W
+intermediate methylzymosterol I[c]	gm	YGR060W
+4alpha-methylzymosterol[c]	gm	YGR060W
+O2[c]	gm	YGR060W
+intermediate zymosterol I[c]	gm	YGR060W
+intermediate methylzymosterol I[c]	gm	YGL001C
+CO2[c]	gm	YGL001C
+intermediate methylzymosterol II[c]	gm	YGL001C
+intermediate zymosterol I[c]	gm	YGL001C
+CO2[c]	gm	YGL001C
+intermediate zymosterol II[c]	gm	YGL001C
+NADPH[c]	gm	YLR100W
+intermediate methylzymosterol II[c]	gm	YLR100W
+NADP(+)[c]	gm	YLR100W
+4alpha-methylzymosterol[c]	gm	YLR100W
+NADPH[c]	gm	YLR100W
+intermediate zymosterol II[c]	gm	YLR100W
+NADP(+)[c]	gm	YLR100W
+zymosterol[c]	gm	YLR100W
+NADPH[c]	gm	YLR056W
+episterol[c]	gm	YLR056W
+O2[c]	gm	YLR056W
+NADP(+)[c]	gm	YLR056W
+H2O[c]	gm	YLR056W
+5,7,24(28)-ergostatrienol[c]	gm	YLR056W
+NADPH[c]	gm	YGL012W
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YGL012W
+NADP(+)[c]	gm	YGL012W
+ergosterol[c]	gm	YGL012W
+NADPH[c]	gm	YMR015C
+5,7,24(28)-ergostatrienol[c]	gm	YMR015C
+NADP(+)[c]	gm	YMR015C
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YMR015C
+S-adenosyl-L-methionine[c]	gm	YML008C
+zymosterol[c]	gm	YML008C
+S-adenosyl-L-homocysteine[c]	gm	YML008C
+fecosterol[c]	gm	YML008C
+(S)-2,3-epoxysqualene[c]	gm	YHR072W
+lanosterol[c]	gm	YHR072W
+ATP[c]	gm	YMR220W
+(R)-5-phosphomevalonate[c]	gm	YMR220W
+ADP[c]	gm	YMR220W
+(R)-5-diphosphomevalonate[c]	gm	YMR220W
+2-trans,6-trans-farnesyl diphosphate[c]	gm	YHR190W
+presqualene diphosphate[c]	gm	YHR190W
+diphosphate[c]	gm	YHR190W
+NADPH[c]	gm	YHR190W
+presqualene diphosphate[c]	gm	YHR190W
+NADP(+)[c]	gm	YHR190W
+squalene[c]	gm	YHR190W
+diphosphate[c]	gm	YHR190W
+coenzyme A[c]	gm	YML126C
+(S)-3-hydroxy-3-methylglutaryl-CoA[c]	gm	YML126C
+acetyl-CoA[c]	gm	YML126C
+acetoacetyl-CoA[c]	gm	YML126C
+H2O[c]	gm	YML126C
+NADP(+)[c]	gm	YLR450W
+coenzyme A[c]	gm	YLR450W
+(R)-mevalonate[c]	gm	YLR450W
+NADPH[c]	gm	YLR450W
+(S)-3-hydroxy-3-methylglutaryl-CoA[c]	gm	YLR450W
+NADP(+)[c]	gm	YML075C
+coenzyme A[c]	gm	YML075C
+(R)-mevalonate[c]	gm	YML075C
+NADPH[c]	gm	YML075C
+(S)-3-hydroxy-3-methylglutaryl-CoA[c]	gm	YML075C
+isopentenyl diphosphate[c]	gm	YPL117C
+dimethylallyl diphosphate[c]	gm	YPL117C
+ATP[c]	gm	YNR043W
+(R)-5-diphosphomevalonate[c]	gm	YNR043W
+ADP[c]	gm	YNR043W
+isopentenyl diphosphate[c]	gm	YNR043W
+CO2[c]	gm	YNR043W
+phosphate[c]	gm	YNR043W
+H2O[c]	gm	YLR020C
+ergosterol-ester[c]	gm	YLR020C
+ergosterol[c]	gm	YLR020C
+acyl acids[c]	gm	YLR020C
+H2O[c]	gm	YLL012W
+ergosterol-ester[c]	gm	YLL012W
+ergosterol[c]	gm	YLL012W
+acyl acids[c]	gm	YLL012W
+H2O[c]	gm	YKL140W
+ergosterol-ester[c]	gm	YKL140W
+ergosterol[c]	gm	YKL140W
+acyl acids[c]	gm	YKL140W
+NAD(+)[c]	gm	YKL150W
+ergosta-5,7,24(28)-trienol[c]	gm	YKL150W
+NADH[c]	gm	YKL150W
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YKL150W
+O2[c]	gm	YKL150W
+NAD(+)[c]	gm	YMR015C
+ergosta-5,7,24(28)-trienol[c]	gm	YMR015C
+NADH[c]	gm	YMR015C
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YMR015C
+O2[c]	gm	YMR015C
+NAD(+)[c]	gm	YNL111C
+ergosta-5,7,24(28)-trienol[c]	gm	YNL111C
+NADH[c]	gm	YNL111C
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YNL111C
+O2[c]	gm	YNL111C
+UDP[c]	gm	YLR189C
+ergosterol 3-beta-D-glucoside[c]	gm	YLR189C
+UDP-glucose[c]	gm	YLR189C
+ergosterol[c]	gm	YLR189C
+FMN[c]	gm	YPL069C
+NADP(+)[c]	gm	YPL069C
+reduced FMN[c]	gm	YPL069C
+NADPH[c]	gm	YPL069C
+taurine[c]	gm	YLL057C
+2-oxoglutarate[c]	gm	YLL057C
+O2[c]	gm	YLL057C
+aminoacetaldehyde[c]	gm	YLL057C
+succinate[c]	gm	YLL057C
+CO2[c]	gm	YLL057C
+sulfite[c]	gm	YLL057C
+ATP[c]	gm	YOL055C
+4-amino-5-hydroxymethyl-2-methylpyrimidine[c]	gm	YOL055C
+ADP[c]	gm	YOL055C
+4-amino-2-methyl-5-phosphomethylpyrimidine[c]	gm	YOL055C
+ATP[c]	gm	YPL258C
+4-amino-5-hydroxymethyl-2-methylpyrimidine[c]	gm	YPL258C
+ADP[c]	gm	YPL258C
+4-amino-2-methyl-5-phosphomethylpyrimidine[c]	gm	YPL258C
+ATP[c]	gm	YPR121W
+4-amino-5-hydroxymethyl-2-methylpyrimidine[c]	gm	YPR121W
+ADP[c]	gm	YPR121W
+4-amino-2-methyl-5-phosphomethylpyrimidine[c]	gm	YPR121W
+ATP[c]	gm	YOL055C
+4-amino-2-methyl-5-phosphomethylpyrimidine[c]	gm	YOL055C
+ADP[c]	gm	YOL055C
+4-amino-2-methyl-5-diphosphomethylpyrimidine[c]	gm	YOL055C
+ATP[c]	gm	YPL214C
+5-(2-hydroxyethyl)-4-methylthiazole[c]	gm	YPL214C
+ADP[c]	gm	YPL214C
+4-methyl-5-(2-phosphoethyl)-thiazole[c]	gm	YPL214C
+4-methyl-5-(2-phosphoethyl)-thiazole[c]	gm	YPL214C
+4-amino-2-methyl-5-diphosphomethylpyrimidine[c]	gm	YPL214C
+thiamin monophosphate[c]	gm	YPL214C
+diphosphate[c]	gm	YPL214C
+ATP[c]	gm	YOR143C
+thiamin[c]	gm	YOR143C
+AMP[c]	gm	YOR143C
+thiamin diphosphate[c]	gm	YOR143C
+ATP[c]	gm	YOR143C
+thiamin diphosphate[c]	gm	YOR143C
+ADP[c]	gm	YOR143C
+thiamin triphosphate[c]	gm	YOR143C
+thiamin monophosphate[e]	gm	YBR092C
+H2O[c]	gm	YBR092C
+thiamin[e]	gm	YBR092C
+phosphate[e]	gm	YBR092C
+thiamine diphosphate[e]	gm	YBR092C
+thiamin[e]	gm	YBR092C
+phosphate[e]	gm	YBR092C
+NADP(+)[c]	gm	YMR226C
+L-allo-threonine[c]	gm	YMR226C
+NADPH[c]	gm	YMR226C
+L-2-amino-3-oxobutanoate[c]	gm	YMR226C
+acetate[e]	gm	YCR010C
+H(+)[e]	gm	YCR010C
+acetate[c]	gm	YCR010C
+acetate[e]	gm	YCR032W
+H(+)[e]	gm	YCR032W
+acetate[c]	gm	YCR032W
+L-glutamate[e]	gm	YCL025C
+L-glutamate[c]	gm	YCL025C
+L-glutamate[e]	gm	YDR536W
+L-glutamate[c]	gm	YDR536W
+L-glutamate[e]	gm	YFL055W
+L-glutamate[c]	gm	YFL055W
+L-glutamate[e]	gm	YKR039W
+L-glutamate[c]	gm	YKR039W
+L-glutamate[e]	gm	YPL265W
+L-glutamate[c]	gm	YPL265W
+L-tyrosine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-tyrosine[c]	gm	YBR068C
+L-tyrosine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-tyrosine[c]	gm	YBR069C
+L-tyrosine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-tyrosine[c]	gm	YCL025C
+L-tyrosine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-tyrosine[c]	gm	YDR046C
+L-tyrosine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-tyrosine[c]	gm	YKR039W
+L-tyrosine[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+L-tyrosine[c]	gm	YOL020W
+L-valine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-valine[c]	gm	YBR068C
+L-valine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-valine[c]	gm	YBR069C
+L-valine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-valine[c]	gm	YCL025C
+L-valine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-valine[c]	gm	YDR046C
+L-valine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-valine[c]	gm	YKR039W
+L-serine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-serine[c]	gm	YCL025C
+L-serine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-serine[c]	gm	YDR508C
+L-serine[e]	gm	YFL055W
+H(+)[e]	gm	YFL055W
+L-serine[c]	gm	YFL055W
+L-serine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-serine[c]	gm	YKR039W
+L-serine[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+L-serine[c]	gm	YPL265W
+L-threonine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-threonine[c]	gm	YBR069C
+L-threonine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-threonine[c]	gm	YCL025C
+L-threonine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-threonine[c]	gm	YDR508C
+L-threonine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-threonine[c]	gm	YKR039W
+L-alanine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-alanine[c]	gm	YCL025C
+L-alanine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-alanine[c]	gm	YKR039W
+L-alanine[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+L-alanine[c]	gm	YOL020W
+L-alanine[e]	gm	YOR348C
+H(+)[e]	gm	YOR348C
+L-alanine[c]	gm	YOR348C
+L-alanine[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+L-alanine[c]	gm	YPL265W
+L-asparagine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-asparagine[c]	gm	YCL025C
+L-asparagine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-asparagine[c]	gm	YDR508C
+L-asparagine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-asparagine[c]	gm	YKR039W
+L-asparagine[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+L-asparagine[c]	gm	YPL265W
+L-glutamine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-glutamine[c]	gm	YCL025C
+L-glutamine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-glutamine[c]	gm	YDR508C
+L-glutamine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-glutamine[c]	gm	YKR039W
+L-glutamine[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+L-glutamine[c]	gm	YPL265W
+L-histidine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-histidine[c]	gm	YBR069C
+L-histidine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-histidine[c]	gm	YCL025C
+L-histidine[e]	gm	YGR191W
+H(+)[e]	gm	YGR191W
+L-histidine[c]	gm	YGR191W
+L-histidine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-histidine[c]	gm	YKR039W
+L-isoleucine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-isoleucine[c]	gm	YBR068C
+L-isoleucine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-isoleucine[c]	gm	YBR069C
+L-isoleucine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-isoleucine[c]	gm	YCL025C
+L-isoleucine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-isoleucine[c]	gm	YDR046C
+L-isoleucine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-isoleucine[c]	gm	YKR039W
+L-leucine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-leucine[c]	gm	YBR068C
+L-leucine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-leucine[c]	gm	YBR069C
+L-leucine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-leucine[c]	gm	YCL025C
+L-leucine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-leucine[c]	gm	YDR046C
+L-leucine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-leucine[c]	gm	YDR508C
+L-leucine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-leucine[c]	gm	YKR039W
+L-methionine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-methionine[c]	gm	YBR068C
+L-methionine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-methionine[c]	gm	YCL025C
+L-methionine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-methionine[c]	gm	YDR046C
+L-methionine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-methionine[c]	gm	YDR508C
+L-methionine[e]	gm	YGR055W
+H(+)[e]	gm	YGR055W
+L-methionine[c]	gm	YGR055W
+L-methionine[e]	gm	YHL036W
+H(+)[e]	gm	YHL036W
+L-methionine[c]	gm	YHL036W
+L-methionine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-methionine[c]	gm	YKR039W
+L-phenylalanine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-phenylalanine[c]	gm	YBR068C
+L-phenylalanine[e]	gm	YCL025C
+H(+)[e]	gm	YCL025C
+L-phenylalanine[c]	gm	YCL025C
+L-phenylalanine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-phenylalanine[c]	gm	YDR046C
+L-phenylalanine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-phenylalanine[c]	gm	YKR039W
+L-phenylalanine[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+L-phenylalanine[c]	gm	YOL020W
+carnitinium[e]	gm	YBR132C
+carnitinium[c]	gm	YBR132C
+L-aspartate[e]	gm	YFL055W
+H(+)[e]	gm	YFL055W
+L-aspartate[c]	gm	YFL055W
+L-aspartate[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-aspartate[c]	gm	YKR039W
+L-aspartate[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+L-aspartate[c]	gm	YPL265W
+L-arginine[e]	gm	YEL063C
+H(+)[e]	gm	YEL063C
+L-arginine[c]	gm	YEL063C
+L-arginine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-arginine[c]	gm	YKR039W
+L-arginine[e]	gm	YNL270C
+H(+)[e]	gm	YNL270C
+L-arginine[c]	gm	YNL270C
+ergosterol[e]	gm	YIL013C
+ergosterol[c]	gm	YIL013C
+ergosterol[e]	gm	YOR011W
+ergosterol[c]	gm	YOR011W
+zymosterol[e]	gm	YIL013C
+zymosterol[c]	gm	YIL013C
+zymosterol[e]	gm	YOR011W
+zymosterol[c]	gm	YOR011W
+lanosterol[e]	gm	YIL013C
+lanosterol[c]	gm	YIL013C
+lanosterol[e]	gm	YOR011W
+lanosterol[c]	gm	YOR011W
+4,4-dimethylzymosterol[e]	gm	YOR011W
+4,4-dimethylzymosterol[c]	gm	YOR011W
+fecosterol[e]	gm	YIL013C
+fecosterol[c]	gm	YIL013C
+fecosterol[e]	gm	YOR011W
+fecosterol[c]	gm	YOR011W
+episterol[e]	gm	YIL013C
+episterol[c]	gm	YIL013C
+episterol[e]	gm	YOR011W
+episterol[c]	gm	YOR011W
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[e]	gm	YOR011W
+ergosta-5,7,22,24(28)-tetraen-3beta-ol[c]	gm	YOR011W
+L-cysteine[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-cysteine[c]	gm	YBR068C
+L-cysteine[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-cysteine[c]	gm	YBR069C
+L-cysteine[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-cysteine[c]	gm	YDR046C
+L-cysteine[e]	gm	YDR508C
+H(+)[e]	gm	YDR508C
+L-cysteine[c]	gm	YDR508C
+L-cysteine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-cysteine[c]	gm	YKR039W
+L-cysteine[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+L-cysteine[c]	gm	YOL020W
+L-tryptophan[e]	gm	YBR068C
+H(+)[e]	gm	YBR068C
+L-tryptophan[c]	gm	YBR068C
+L-tryptophan[e]	gm	YBR069C
+H(+)[e]	gm	YBR069C
+L-tryptophan[c]	gm	YBR069C
+L-tryptophan[e]	gm	YDR046C
+H(+)[e]	gm	YDR046C
+L-tryptophan[c]	gm	YDR046C
+L-tryptophan[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-tryptophan[c]	gm	YKR039W
+L-tryptophan[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+L-tryptophan[c]	gm	YOL020W
+biotin[e]	gm	YNR056C
+H(+)[e]	gm	YNR056C
+biotin[c]	gm	YNR056C
+L-ornithine[e]	gm	YEL063C
+H(+)[e]	gm	YEL063C
+L-ornithine[c]	gm	YEL063C
+L-ornithine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-ornithine[c]	gm	YKR039W
+allantoin[e]	gm	YIR028W
+allantoin[c]	gm	YIR028W
+allantoate[e]	gm	YJR152W
+allantoate[c]	gm	YJR152W
+glycine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+glycine[c]	gm	YKR039W
+glycine[e]	gm	YOL020W
+H(+)[e]	gm	YOL020W
+glycine[c]	gm	YOL020W
+glycine[e]	gm	YOR348C
+H(+)[e]	gm	YOR348C
+glycine[c]	gm	YOR348C
+glycine[e]	gm	YPL265W
+H(+)[e]	gm	YPL265W
+glycine[c]	gm	YPL265W
+N,N-bisformyl-dityrosine[c]	gm	YBR180W
+N,N-bisformyl-dityrosine[e]	gm	YBR180W
+urea[e]	gm	YHL016C
+H(+)[e]	gm	YHL016C
+urea[c]	gm	YHL016C
+cytosine[e]	gm	YER056C
+H(+)[e]	gm	YER056C
+cytosine[c]	gm	YER056C
+cytosine[e]	gm	YER060W
+H(+)[e]	gm	YER060W
+cytosine[c]	gm	YER060W
+cytosine[e]	gm	YER060W-A
+H(+)[e]	gm	YER060W-A
+cytosine[c]	gm	YER060W-A
+cytosine[e]	gm	YGL186C
+H(+)[e]	gm	YGL186C
+cytosine[c]	gm	YGL186C
+adenine[e]	gm	YER056C
+H(+)[e]	gm	YER056C
+adenine[c]	gm	YER056C
+adenine[e]	gm	YER060W
+H(+)[e]	gm	YER060W
+adenine[c]	gm	YER060W
+adenine[e]	gm	YER060W-A
+H(+)[e]	gm	YER060W-A
+adenine[c]	gm	YER060W-A
+adenine[e]	gm	YGL186C
+H(+)[e]	gm	YGL186C
+adenine[c]	gm	YGL186C
+guanine[e]	gm	YER056C
+H(+)[e]	gm	YER056C
+guanine[c]	gm	YER056C
+guanine[e]	gm	YER060W
+H(+)[e]	gm	YER060W
+guanine[c]	gm	YER060W
+guanine[e]	gm	YER060W-A
+H(+)[e]	gm	YER060W-A
+guanine[c]	gm	YER060W-A
+guanine[e]	gm	YGL186C
+H(+)[e]	gm	YGL186C
+guanine[c]	gm	YGL186C
+(R)-pantothenate[e]	gm	YCR028C
+H(+)[e]	gm	YCR028C
+(R)-pantothenate[c]	gm	YCR028C
+glycerol[e]	gm	YLL043W
+glycerol[c]	gm	YLL043W
+uridine[e]	gm	YBL042C
+H(+)[e]	gm	YBL042C
+uridine[c]	gm	YBL042C
+uracil[e]	gm	YBR021W
+H(+)[e]	gm	YBR021W
+uracil[c]	gm	YBR021W
+alpha-D-glucose[e]	gm	YDL245C
+alpha-D-glucose[c]	gm	YDL245C
+alpha-D-glucose[e]	gm	YDR342C
+alpha-D-glucose[c]	gm	YDR342C
+alpha-D-glucose[e]	gm	YDR343C
+alpha-D-glucose[c]	gm	YDR343C
+alpha-D-glucose[e]	gm	YDR345C
+alpha-D-glucose[c]	gm	YDR345C
+alpha-D-glucose[e]	gm	YDR536W
+alpha-D-glucose[c]	gm	YDR536W
+alpha-D-glucose[e]	gm	YEL069C
+alpha-D-glucose[c]	gm	YEL069C
+alpha-D-glucose[e]	gm	YFL011W
+alpha-D-glucose[c]	gm	YFL011W
+alpha-D-glucose[e]	gm	YHR092C
+alpha-D-glucose[c]	gm	YHR092C
+alpha-D-glucose[e]	gm	YHR094C
+alpha-D-glucose[c]	gm	YHR094C
+alpha-D-glucose[e]	gm	YHR096C
+alpha-D-glucose[c]	gm	YHR096C
+alpha-D-glucose[e]	gm	YJL214W
+alpha-D-glucose[c]	gm	YJL214W
+alpha-D-glucose[e]	gm	YJL219W
+alpha-D-glucose[c]	gm	YJL219W
+alpha-D-glucose[e]	gm	YJR158W
+alpha-D-glucose[c]	gm	YJR158W
+alpha-D-glucose[e]	gm	YLR081W
+alpha-D-glucose[c]	gm	YLR081W
+alpha-D-glucose[e]	gm	YMR011W
+alpha-D-glucose[c]	gm	YMR011W
+alpha-D-glucose[e]	gm	YNR072W
+alpha-D-glucose[c]	gm	YNR072W
+alpha-D-glucose[e]	gm	YOL156W
+alpha-D-glucose[c]	gm	YOL156W
+D-galactose[e]	gm	YDR536W
+D-galactose[c]	gm	YDR536W
+D-galactose[e]	gm	YFL011W
+D-galactose[c]	gm	YFL011W
+D-galactose[e]	gm	YJL219W
+D-galactose[c]	gm	YJL219W
+D-galactose[e]	gm	YLR081W
+D-galactose[c]	gm	YLR081W
+D-galactose[e]	gm	YNL318C
+D-galactose[c]	gm	YNL318C
+D-galactose[e]	gm	YOL156W
+D-galactose[c]	gm	YOL156W
+L-proline[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-proline[c]	gm	YKR039W
+L-proline[e]	gm	YOR348C
+H(+)[e]	gm	YOR348C
+L-proline[c]	gm	YOR348C
+L-lysine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+L-lysine[c]	gm	YKR039W
+L-lysine[e]	gm	YNL268W
+H(+)[e]	gm	YNL268W
+L-lysine[c]	gm	YNL268W
+glycerophosphatidylcholine[e]	gm	YCR098C
+glycerophosphatidylcholine[c]	gm	YCR098C
+glycerophosphatidyl-D-myo-inositol[e]	gm	YCR098C
+glycerophosphatidyl-D-myo-inositol[c]	gm	YCR098C
+glycerol[e]	gm	YGL084C
+H(+)[e]	gm	YGL084C
+glycerol[c]	gm	YGL084C
+glycerol[e]	gm	YPL189W
+H(+)[e]	gm	YPL189W
+glycerol[c]	gm	YPL189W
+choline[e]	gm	YGL077C
+H(+)[e]	gm	YGL077C
+choline[c]	gm	YGL077C
+D-fructose[e]	gm	YDL245C
+D-fructose[c]	gm	YDL245C
+D-fructose[e]	gm	YDR342C
+D-fructose[c]	gm	YDR342C
+D-fructose[e]	gm	YDR343C
+D-fructose[c]	gm	YDR343C
+D-fructose[e]	gm	YDR345C
+D-fructose[c]	gm	YDR345C
+D-fructose[e]	gm	YEL069C
+D-fructose[c]	gm	YEL069C
+D-fructose[e]	gm	YFL011W
+D-fructose[c]	gm	YFL011W
+D-fructose[e]	gm	YHR092C
+D-fructose[c]	gm	YHR092C
+D-fructose[e]	gm	YHR094C
+D-fructose[c]	gm	YHR094C
+D-fructose[e]	gm	YHR096C
+D-fructose[c]	gm	YHR096C
+D-fructose[e]	gm	YJL214W
+D-fructose[c]	gm	YJL214W
+D-fructose[e]	gm	YJL219W
+D-fructose[c]	gm	YJL219W
+D-fructose[e]	gm	YJR158W
+D-fructose[c]	gm	YJR158W
+D-fructose[e]	gm	YMR011W
+D-fructose[c]	gm	YMR011W
+D-fructose[e]	gm	YNR072W
+D-fructose[c]	gm	YNR072W
+D-fructose[e]	gm	YOL156W
+D-fructose[c]	gm	YOL156W
+alpha-D-mannose[e]	gm	YDL245C
+alpha-D-mannose[c]	gm	YDL245C
+alpha-D-mannose[e]	gm	YDR342C
+alpha-D-mannose[c]	gm	YDR342C
+alpha-D-mannose[e]	gm	YDR343C
+alpha-D-mannose[c]	gm	YDR343C
+alpha-D-mannose[e]	gm	YDR345C
+alpha-D-mannose[c]	gm	YDR345C
+alpha-D-mannose[e]	gm	YEL069C
+alpha-D-mannose[c]	gm	YEL069C
+alpha-D-mannose[e]	gm	YFL011W
+alpha-D-mannose[c]	gm	YFL011W
+alpha-D-mannose[e]	gm	YHR092C
+alpha-D-mannose[c]	gm	YHR092C
+alpha-D-mannose[e]	gm	YHR094C
+alpha-D-mannose[c]	gm	YHR094C
+alpha-D-mannose[e]	gm	YHR096C
+alpha-D-mannose[c]	gm	YHR096C
+alpha-D-mannose[e]	gm	YJL214W
+alpha-D-mannose[c]	gm	YJL214W
+alpha-D-mannose[e]	gm	YJL219W
+alpha-D-mannose[c]	gm	YJL219W
+alpha-D-mannose[e]	gm	YJR158W
+alpha-D-mannose[c]	gm	YJR158W
+alpha-D-mannose[e]	gm	YMR011W
+alpha-D-mannose[c]	gm	YMR011W
+alpha-D-mannose[e]	gm	YNR072W
+alpha-D-mannose[c]	gm	YNR072W
+alpha-D-mannose[e]	gm	YOL156W
+alpha-D-mannose[c]	gm	YOL156W
+myo-inositol[e]	gm	YDR497C
+H(+)[e]	gm	YDR497C
+myo-inositol[c]	gm	YDR497C
+myo-inositol[e]	gm	YOL103W
+H(+)[e]	gm	YOL103W
+myo-inositol[c]	gm	YOL103W
+(R)-lactate[e]	gm	YKL217W
+H(+)[e]	gm	YKL217W
+(R)-lactate[c]	gm	YKL217W
+pyruvate[e]	gm	YKL217W
+H(+)[e]	gm	YKL217W
+pyruvate[c]	gm	YKL217W
+maltose[e]	gm	YDL247W
+H(+)[e]	gm	YDL247W
+maltose[c]	gm	YDL247W
+maltose[e]	gm	YGR289C
+H(+)[e]	gm	YGR289C
+maltose[c]	gm	YGR289C
+maltose[e]	gm	YJR160C
+H(+)[e]	gm	YJR160C
+maltose[c]	gm	YJR160C
+malate[e]	gm	YBR298C
+H(+)[e]	gm	YBR298C
+malate[c]	gm	YBR298C
+NH3[e]	gm	YDR384C
+NH3[c]	gm	YDR384C
+NH3[e]	gm	YGR121C
+NH3[c]	gm	YGR121C
+NH3[e]	gm	YNL142W
+NH3[c]	gm	YNL142W
+NH3[e]	gm	YPR138C
+NH3[c]	gm	YPR138C
+S-methyl-L-methionine[e]	gm	YLL061W
+H(+)[e]	gm	YLL061W
+S-methyl-L-methionine[c]	gm	YLL061W
+sodium[e]	gm	YLR138W
+sodium[c]	gm	YLR138W
+H(+)[e]	gm	YLR138W
+phosphate[e]	gm	YJL198W
+H(+)[e]	gm	YJL198W
+phosphate[c]	gm	YJL198W
+phosphate[e]	gm	YML123C
+H(+)[e]	gm	YML123C
+phosphate[c]	gm	YML123C
+phosphate[e]	gm	YNR013C
+H(+)[e]	gm	YNR013C
+phosphate[c]	gm	YNR013C
+ATP[c]	gm	YCR024C-A
+H2O[c]	gm	YCR024C-A
+ADP[c]	gm	YCR024C-A
+phosphate[c]	gm	YCR024C-A
+H(+)[e]	gm	YCR024C-A
+ATP[c]	gm	YEL017C-A
+H2O[c]	gm	YEL017C-A
+ADP[c]	gm	YEL017C-A
+phosphate[c]	gm	YEL017C-A
+H(+)[e]	gm	YEL017C-A
+ATP[c]	gm	YGL008C
+H2O[c]	gm	YGL008C
+ADP[c]	gm	YGL008C
+phosphate[c]	gm	YGL008C
+H(+)[e]	gm	YGL008C
+ATP[c]	gm	YPL036W
+H2O[c]	gm	YPL036W
+ADP[c]	gm	YPL036W
+phosphate[c]	gm	YPL036W
+H(+)[e]	gm	YPL036W
+H(+)[e]	gm	YKR093W
+dipeptide[e]	gm	YKR093W
+dipeptide[c]	gm	YKR093W
+H(+)[e]	gm	YKR093W
+oligopeptide[e]	gm	YKR093W
+oligopeptide[c]	gm	YKR093W
+H(+)[e]	gm	YKR093W
+peptide[e]	gm	YKR093W
+peptide[c]	gm	YKR093W
+gamma-aminobutyrate[e]	gm	YDL210W
+H(+)[e]	gm	YDL210W
+gamma-aminobutyrate[c]	gm	YDL210W
+gamma-aminobutyrate[e]	gm	YOR348C
+H(+)[e]	gm	YOR348C
+gamma-aminobutyrate[c]	gm	YOR348C
+putrescine[e]	gm	YGR138C
+putrescine[c]	gm	YGR138C
+putrescine[e]	gm	YLL028W
+putrescine[c]	gm	YLL028W
+putrescine[c]	gm	YKL174C
+putrescine[e]	gm	YKL174C
+putrescine[c]	gm	YOR273C
+putrescine[e]	gm	YOR273C
+sulfite[c]	gm	YPL092W
+sulfite[e]	gm	YPL092W
+spermidine[c]	gm	YKL174C
+spermidine[e]	gm	YKL174C
+adenosine[e]	gm	YAL022C
+adenosine[c]	gm	YAL022C
+phosphate[e]	gm	YCR037C
+phosphate[c]	gm	YCR037C
+phosphate[e]	gm	YJL198W
+phosphate[c]	gm	YJL198W
+phosphate[e]	gm	YML123C
+phosphate[c]	gm	YML123C
+phosphate[e]	gm	YNR013C
+phosphate[c]	gm	YNR013C
+phosphate[e]	gm	YBR296C
+phosphate[c]	gm	YBR296C
+cytidine[e]	gm	YAL022C
+cytidine[c]	gm	YAL022C
+Fe2+[e]	gm	YMR319C
+Fe2+[c]	gm	YMR319C
+reduced glutathione[e]	gm	YJL212C
+reduced glutathione[c]	gm	YJL212C
+nicotinate[e]	gm	YGR260W
+nicotinate[c]	gm	YGR260W
+S-adenosyl-L-methionine[e]	gm	YPL274W
+H(+)[e]	gm	YPL274W
+S-adenosyl-L-methionine[c]	gm	YPL274W
+sulfate[e]	gm	YBR294W
+sulfate[c]	gm	YBR294W
+sulfate[e]	gm	YGR125W
+sulfate[c]	gm	YGR125W
+sulfate[e]	gm	YLR092W
+sulfate[c]	gm	YLR092W
+thiamin[e]	gm	YLR237W
+H(+)[e]	gm	YLR237W
+thiamin[c]	gm	YLR237W
+thiamin[e]	gm	YOR071C
+H(+)[e]	gm	YOR071C
+thiamin[c]	gm	YOR071C
+thiamin[e]	gm	YOR192C
+H(+)[e]	gm	YOR192C
+thiamin[c]	gm	YOR192C
+pyridoxine[e]	gm	YGL186C
+pyridoxine[c]	gm	YGL186C
+potassium[e]	gm	YJL129C
+H(+)[e]	gm	YJL129C
+potassium[c]	gm	YJL129C
+spermidine[e]	gm	YBR132C
+H(+)[e]	gm	YBR132C
+spermidine[c]	gm	YBR132C
+spermidine[e]	gm	YHL016C
+H(+)[e]	gm	YHL016C
+spermidine[c]	gm	YHL016C
+spermidine[e]	gm	YKR039W
+H(+)[e]	gm	YKR039W
+spermidine[c]	gm	YKR039W
+spermidine[e]	gm	YOR273C
+H(+)[e]	gm	YOR273C
+spermidine[c]	gm	YOR273C
+spermidine[e]	gm	YPL274W
+H(+)[e]	gm	YPL274W
+spermidine[c]	gm	YPL274W
+spermidine[e]	gm	YLL028W
+H(+)[e]	gm	YLL028W
+spermidine[c]	gm	YLL028W
+5-aminolevulinate[e]	gm	YDL210W
+H(+)[e]	gm	YDL210W
+5-aminolevulinate[c]	gm	YDL210W
+biotin[e]	gm	YGR065C
+H(+)[e]	gm	YGR065C
+biotin[c]	gm	YGR065C
+ADP[c]	gm	YBL030C
+ATP[m]	gm	YBL030C
+phosphate[c]	gm	YBL030C
+H(+)[c]	gm	YBL030C
+H2O[m]	gm	YBL030C
+ADP[m]	gm	YBL030C
+ATP[c]	gm	YBL030C
+phosphate[m]	gm	YBL030C
+H(+)[m]	gm	YBL030C
+H2O[c]	gm	YBL030C
+ADP[c]	gm	YBR085W
+ATP[m]	gm	YBR085W
+phosphate[c]	gm	YBR085W
+H(+)[c]	gm	YBR085W
+H2O[m]	gm	YBR085W
+ADP[m]	gm	YBR085W
+ATP[c]	gm	YBR085W
+phosphate[m]	gm	YBR085W
+H(+)[m]	gm	YBR085W
+H2O[c]	gm	YBR085W
+ADP[c]	gm	YMR056C
+ATP[m]	gm	YMR056C
+phosphate[c]	gm	YMR056C
+H(+)[c]	gm	YMR056C
+H2O[m]	gm	YMR056C
+ADP[m]	gm	YMR056C
+ATP[c]	gm	YMR056C
+phosphate[m]	gm	YMR056C
+H(+)[m]	gm	YMR056C
+H2O[c]	gm	YMR056C
+L-glutamate[c]	gm	YPR021C
+H(+)[c]	gm	YPR021C
+L-glutamate[m]	gm	YPR021C
+H(+)[m]	gm	YPR021C
+L-aspartate[c]	gm	YPR021C
+H(+)[c]	gm	YPR021C
+L-aspartate[m]	gm	YPR021C
+H(+)[m]	gm	YPR021C
+carnitinium[m]	gm	YOR100C
+O-acetylcarnitine[c]	gm	YOR100C
+carnitinium[c]	gm	YOR100C
+O-acetylcarnitine[m]	gm	YOR100C
+malate[c]	gm	YBR291C
+citrate[m]	gm	YBR291C
+malate[m]	gm	YBR291C
+citrate[c]	gm	YBR291C
+phosphoenolpyruvate[m]	gm	YBR291C
+citrate[c]	gm	YBR291C
+phosphoenolpyruvate[c]	gm	YBR291C
+citrate[m]	gm	YBR291C
+isocitrate[m]	gm	YBR291C
+citrate[c]	gm	YBR291C
+isocitrate[c]	gm	YBR291C
+citrate[m]	gm	YBR291C
+succinate[m]	gm	YLR348C
+malate[c]	gm	YLR348C
+succinate[c]	gm	YLR348C
+malate[m]	gm	YLR348C
+malate[c]	gm	YLR348C
+phosphate[m]	gm	YLR348C
+malate[m]	gm	YLR348C
+phosphate[c]	gm	YLR348C
+succinate[c]	gm	YLR348C
+phosphate[m]	gm	YLR348C
+succinate[m]	gm	YLR348C
+phosphate[c]	gm	YLR348C
+FMN[m]	gm	YIL134W
+FAD[c]	gm	YIL134W
+FMN[c]	gm	YIL134W
+FAD[m]	gm	YIL134W
+GDP[m]	gm	YDL198C
+GTP[c]	gm	YDL198C
+H(+)[c]	gm	YDL198C
+GDP[c]	gm	YDL198C
+GTP[m]	gm	YDL198C
+H(+)[m]	gm	YDL198C
+phosphate[c]	gm	YER053C
+H(+)[c]	gm	YER053C
+phosphate[m]	gm	YER053C
+H(+)[m]	gm	YER053C
+phosphate[c]	gm	YJR077C
+H(+)[c]	gm	YJR077C
+phosphate[m]	gm	YJR077C
+H(+)[m]	gm	YJR077C
+oxaloacetate[c]	gm	YKL120W
+H(+)[c]	gm	YKL120W
+oxaloacetate[m]	gm	YKL120W
+H(+)[m]	gm	YKL120W
+2-oxoglutarate[m]	gm	YOR222W
+oxaloglutarate[c]	gm	YOR222W
+2-oxoglutarate[c]	gm	YOR222W
+oxaloglutarate[m]	gm	YOR222W
+2-oxoglutarate[m]	gm	YPL134C
+oxaloglutarate[c]	gm	YPL134C
+2-oxoglutarate[c]	gm	YPL134C
+oxaloglutarate[m]	gm	YPL134C
+2-oxoglutarate[m]	gm	YPR058W
+oxaloglutarate[c]	gm	YPR058W
+2-oxoglutarate[c]	gm	YPR058W
+oxaloglutarate[m]	gm	YPR058W
+2-oxoglutarate[m]	gm	YBR104W
+oxaloglutarate[c]	gm	YBR104W
+2-oxoglutarate[c]	gm	YBR104W
+oxaloglutarate[m]	gm	YBR104W
+L-ornithine[c]	gm	YOR130C
+H(+)[m]	gm	YOR130C
+L-ornithine[m]	gm	YOR130C
+H(+)[c]	gm	YOR130C
+2-oxoglutarate[c]	gm	YMR241W
+citrate[m]	gm	YMR241W
+2-oxoglutarate[m]	gm	YMR241W
+citrate[c]	gm	YMR241W
+coenzyme A[c]	gm	YHR002W
+coenzyme A[m]	gm	YHR002W
+UMP[m]	gm	YBR192W
+UTP[c]	gm	YBR192W
+H(+)[c]	gm	YBR192W
+UMP[c]	gm	YBR192W
+UTP[m]	gm	YBR192W
+H(+)[m]	gm	YBR192W
+fumarate[m]	gm	YJR095W
+succinate[c]	gm	YJR095W
+fumarate[c]	gm	YJR095W
+succinate[m]	gm	YJR095W
+thiamin diphosphate[c]	gm	YGR096W
+thiamin diphosphate[m]	gm	YGR096W
+S-adenosyl-L-methionine[c]	gm	YNL003C
+S-adenosyl-L-methionine[m]	gm	YNL003C
+FADH2[m]	gm	YEL047C
+fumarate[c]	gm	YEL047C
+FAD[m]	gm	YEL047C
+succinate[c]	gm	YEL047C
+NAD(+)[c]	gm	YIL006W
+NAD(+)[m]	gm	YIL006W
+NAD(+)[c]	gm	YEL006W
+NAD(+)[m]	gm	YEL006W
+AMP[p]	gm	YPR128C
+ATP[c]	gm	YPR128C
+AMP[c]	gm	YPR128C
+ATP[p]	gm	YPR128C
+ADP[p]	gm	YPR128C
+ATP[c]	gm	YPR128C
+ADP[c]	gm	YPR128C
+ATP[p]	gm	YPR128C
+ATP[p]	gm	YKL188C
+H2O[p]	gm	YKL188C
+trans-2-C14-CoA[c]	gm	YKL188C
+ADP[p]	gm	YKL188C
+phosphate[p]	gm	YKL188C
+H(+)[p]	gm	YKL188C
+trans-2-C14-CoA[p]	gm	YKL188C
+ATP[p]	gm	YPL147W
+H2O[p]	gm	YPL147W
+trans-2-C14-CoA[c]	gm	YPL147W
+ADP[p]	gm	YPL147W
+phosphate[p]	gm	YPL147W
+H(+)[p]	gm	YPL147W
+trans-2-C14-CoA[p]	gm	YPL147W
+ATP[p]	gm	YKL188C
+palmitoyl-CoA[c]	gm	YKL188C
+H2O[p]	gm	YKL188C
+ADP[p]	gm	YKL188C
+palmitoyl-CoA[p]	gm	YKL188C
+phosphate[p]	gm	YKL188C
+H(+)[p]	gm	YKL188C
+ATP[p]	gm	YPL147W
+palmitoyl-CoA[c]	gm	YPL147W
+H2O[p]	gm	YPL147W
+ADP[p]	gm	YPL147W
+palmitoyl-CoA[p]	gm	YPL147W
+phosphate[p]	gm	YPL147W
+H(+)[p]	gm	YPL147W
+ATP[p]	gm	YKL188C
+H2O[p]	gm	YKL188C
+hexadecanoyl-9-ene-CoA[c]	gm	YKL188C
+ADP[p]	gm	YKL188C
+phosphate[p]	gm	YKL188C
+H(+)[p]	gm	YKL188C
+hexadecanoyl-9-ene-CoA[p]	gm	YKL188C
+ATP[p]	gm	YPL147W
+H2O[p]	gm	YPL147W
+hexadecanoyl-9-ene-CoA[c]	gm	YPL147W
+ADP[p]	gm	YPL147W
+phosphate[p]	gm	YPL147W
+H(+)[p]	gm	YPL147W
+hexadecanoyl-9-ene-CoA[p]	gm	YPL147W
+ATP[p]	gm	YKL188C
+stearic acid[c]	gm	YKL188C
+H2O[p]	gm	YKL188C
+ADP[p]	gm	YKL188C
+stearic acid[p]	gm	YKL188C
+phosphate[p]	gm	YKL188C
+H(+)[p]	gm	YKL188C
+ATP[p]	gm	YPL147W
+stearic acid[c]	gm	YPL147W
+H2O[p]	gm	YPL147W
+ADP[p]	gm	YPL147W
+stearic acid[p]	gm	YPL147W
+phosphate[p]	gm	YPL147W
+H(+)[p]	gm	YPL147W
+C24 acid[c]	gm	YBR041W
+C24 acid[p]	gm	YBR041W
+C26 acid[c]	gm	YBR041W
+C26 acid[p]	gm	YBR041W
+alpha,alpha-trehalose[c]	gm	YBR001C
+H2O[c]	gm	YBR001C
+alpha-D-glucose[c]	gm	YBR001C
+alpha,alpha-trehalose[c]	gm	YDR001C
+H2O[c]	gm	YDR001C
+alpha-D-glucose[c]	gm	YDR001C
+alpha,alpha-trehalose[c]	gm	YPR026W
+H2O[c]	gm	YPR026W
+alpha-D-glucose[c]	gm	YPR026W
+UDP-glucose[c]	gm	YBR126C
+alpha-D-glucose 6-phosphate[c]	gm	YBR126C
+alpha,alpha'-trehalose 6-phosphate[c]	gm	YBR126C
+UDP[c]	gm	YBR126C
+alpha,alpha'-trehalose 6-phosphate[c]	gm	YDR074W
+H2O[c]	gm	YDR074W
+alpha,alpha-trehalose[c]	gm	YDR074W
+phosphate[c]	gm	YDR074W
+UDP-glucose[c]	gm	YML100W
+alpha-D-glucose 6-phosphate[c]	gm	YML100W
+alpha,alpha'-trehalose 6-phosphate[c]	gm	YML100W
+UDP[c]	gm	YML100W
+UDP-glucose[c]	gm	YMR261C
+alpha-D-glucose 6-phosphate[c]	gm	YMR261C
+alpha,alpha'-trehalose 6-phosphate[c]	gm	YMR261C
+UDP[c]	gm	YMR261C
+ATP[c]	gm	YOR335C
+L-alanine[c]	gm	YOR335C
+tRNA(Ala)[c]	gm	YOR335C
+AMP[c]	gm	YOR335C
+diphosphate[c]	gm	YOR335C
+L-alanyl-tRNA(Ala)[c]	gm	YOR335C
+ATP[c]	gm	YPL160W
+L-leucine[c]	gm	YPL160W
+tRNA(Leu)[c]	gm	YPL160W
+AMP[c]	gm	YPL160W
+diphosphate[c]	gm	YPL160W
+L-leucyl-tRNA(Leu)[c]	gm	YPL160W
+ATP[c]	gm	YHR019C
+L-asparagine[c]	gm	YHR019C
+transfer RNA[c]	gm	YHR019C
+AMP[c]	gm	YHR019C
+diphosphate[c]	gm	YHR019C
+L-asparaginyl-tRNA(Asn)[c]	gm	YHR019C
+ATP[c]	gm	YLL018C
+L-aspartate[c]	gm	YLL018C
+tRNA(Asp)[c]	gm	YLL018C
+AMP[c]	gm	YLL018C
+diphosphate[c]	gm	YLL018C
+L-aspartyl-tRNA(Asp)[c]	gm	YLL018C
+ATP[c]	gm	YFL022C
+L-phenylalanine[c]	gm	YFL022C
+tRNA(Phe)[c]	gm	YFL022C
+AMP[c]	gm	YFL022C
+diphosphate[c]	gm	YFL022C
+L-phenylalanyl-tRNA(Phe)[c]	gm	YFL022C
+ATP[c]	gm	YLR060W
+L-phenylalanine[c]	gm	YLR060W
+tRNA(Phe)[c]	gm	YLR060W
+AMP[c]	gm	YLR060W
+diphosphate[c]	gm	YLR060W
+L-phenylalanyl-tRNA(Phe)[c]	gm	YLR060W
+ATP[c]	gm	YOR168W
+L-glutamine[c]	gm	YOR168W
+tRNA(Gln)[c]	gm	YOR168W
+AMP[c]	gm	YOR168W
+diphosphate[c]	gm	YOR168W
+L-glutaminyl-tRNA(Gln)[c]	gm	YOR168W
+ATP[c]	gm	YBR121C
+glycine[c]	gm	YBR121C
+tRNA(Gly)[c]	gm	YBR121C
+AMP[c]	gm	YBR121C
+diphosphate[c]	gm	YBR121C
+glycyl-tRNA(Gly)[c]	gm	YBR121C
+ATP[c]	gm	YPR081C
+glycine[c]	gm	YPR081C
+tRNA(Gly)[c]	gm	YPR081C
+AMP[c]	gm	YPR081C
+diphosphate[c]	gm	YPR081C
+glycyl-tRNA(Gly)[c]	gm	YPR081C
+ATP[c]	gm	YPR033C
+L-histidine[c]	gm	YPR033C
+tRNA(His)[c]	gm	YPR033C
+AMP[c]	gm	YPR033C
+diphosphate[c]	gm	YPR033C
+L-histidyl-tRNA(His)[c]	gm	YPR033C
+ATP[c]	gm	YBL076C
+L-isoleucine[c]	gm	YBL076C
+tRNA(Ile)[c]	gm	YBL076C
+AMP[c]	gm	YBL076C
+diphosphate[c]	gm	YBL076C
+L-isoleucyl-tRNA(Ile)[c]	gm	YBL076C
+ATP[c]	gm	YDR037W
+L-lysine[c]	gm	YDR037W
+tRNA(Lys)[c]	gm	YDR037W
+AMP[c]	gm	YDR037W
+diphosphate[c]	gm	YDR037W
+L-lysyl-tRNA(Lys)[c]	gm	YDR037W
+ATP[c]	gm	YGR264C
+L-methionine[c]	gm	YGR264C
+tRNA(Met)[c]	gm	YGR264C
+AMP[c]	gm	YGR264C
+diphosphate[c]	gm	YGR264C
+L-methionyl-tRNA(Met)[c]	gm	YGR264C
+ATP[c]	gm	YDR341C
+L-arginine[c]	gm	YDR341C
+tRNA(Arg)[c]	gm	YDR341C
+AMP[c]	gm	YDR341C
+diphosphate[c]	gm	YDR341C
+L-arginyl-tRNA(Arg)[c]	gm	YDR341C
+ATP[c]	gm	YHR091C
+L-arginine[c]	gm	YHR091C
+tRNA(Arg)[c]	gm	YHR091C
+AMP[c]	gm	YHR091C
+diphosphate[c]	gm	YHR091C
+L-arginyl-tRNA(Arg)[c]	gm	YHR091C
+ATP[c]	gm	YDR023W
+L-serine[c]	gm	YDR023W
+tRNA(Ser)[c]	gm	YDR023W
+AMP[c]	gm	YDR023W
+diphosphate[c]	gm	YDR023W
+L-seryl-tRNA(Ser)[c]	gm	YDR023W
+ATP[c]	gm	YHR011W
+L-serine[c]	gm	YHR011W
+tRNA(Ser)[c]	gm	YHR011W
+AMP[c]	gm	YHR011W
+diphosphate[c]	gm	YHR011W
+L-seryl-tRNA(Ser)[c]	gm	YHR011W
+ATP[c]	gm	YMR316W
+L-serine[c]	gm	YMR316W
+tRNA(Ser)[c]	gm	YMR316W
+AMP[c]	gm	YMR316W
+diphosphate[c]	gm	YMR316W
+L-seryl-tRNA(Ser)[c]	gm	YMR316W
+ATP[c]	gm	YIL078W
+L-threonine[c]	gm	YIL078W
+tRNA(Thr)[c]	gm	YIL078W
+AMP[c]	gm	YIL078W
+diphosphate[c]	gm	YIL078W
+L-threonyl-tRNA(Thr)[c]	gm	YIL078W
+ATP[c]	gm	YGR185C
+L-tyrosine[c]	gm	YGR185C
+tRNA(Tyr)[c]	gm	YGR185C
+AMP[c]	gm	YGR185C
+diphosphate[c]	gm	YGR185C
+L-tyrosyl-tRNA(Tyr)[c]	gm	YGR185C
+ATP[c]	gm	YGR094W
+L-valine[c]	gm	YGR094W
+tRNA(Val)[c]	gm	YGR094W
+AMP[c]	gm	YGR094W
+diphosphate[c]	gm	YGR094W
+L-valyl-tRNA(Val)[c]	gm	YGR094W
+ATP[c]	gm	YGL245W
+L-glutamate[c]	gm	YGL245W
+tRNA(Glu)[c]	gm	YGL245W
+AMP[c]	gm	YGL245W
+diphosphate[c]	gm	YGL245W
+L-glutamyl-tRNA(Glu)[c]	gm	YGL245W
+ATP[c]	gm	YHR020W
+L-proline[c]	gm	YHR020W
+tRNA(Pro)[c]	gm	YHR020W
+AMP[c]	gm	YHR020W
+diphosphate[c]	gm	YHR020W
+L-prolyl-tRNA(Pro)[c]	gm	YHR020W
+ATP[c]	gm	YNL247W
+L-cysteine[c]	gm	YNL247W
+tRNA(Cys)[c]	gm	YNL247W
+AMP[c]	gm	YNL247W
+diphosphate[c]	gm	YNL247W
+L-cysteinyl-tRNA(Cys)[c]	gm	YNL247W
+10-formyltetrahydrofolate[m]	gm	YBL013W
+L-methionyl-tRNA(Met)[m]	gm	YBL013W
+tetrahydrofolate[m]	gm	YBL013W
+N-formylmethionyl-tRNA(fMet)[m]	gm	YBL013W
+ATP[m]	gm	YLR060W
+L-phenylalanine[c]	gm	YLR060W
+tRNA(Phe)[c]	gm	YLR060W
+AMP[c]	gm	YLR060W
+diphosphate[c]	gm	YLR060W
+L-phenylalanyl-tRNA(Phe)[c]	gm	YLR060W
+ATP[m]	gm	YPL040C
+L-isoleucine[c]	gm	YPL040C
+tRNA(Ile)[m]	gm	YPL040C
+AMP[m]	gm	YPL040C
+diphosphate[m]	gm	YPL040C
+L-isoleucyl-tRNA(Ile)[m]	gm	YPL040C
+ATP[m]	gm	YPL104W
+L-aspartate[m]	gm	YPL104W
+tRNA(Asp)[m]	gm	YPL104W
+AMP[m]	gm	YPL104W
+diphosphate[m]	gm	YPL104W
+L-aspartyl-tRNA(Asp)[m]	gm	YPL104W
+ATP[m]	gm	YOL033W
+L-glutamate[m]	gm	YOL033W
+tRNA(Glu)[m]	gm	YOL033W
+AMP[m]	gm	YOL033W
+diphosphate[m]	gm	YOL033W
+L-glutamyl-tRNA(Glu)[m]	gm	YOL033W
+ATP[m]	gm	YPR047W
+L-phenylalanine[c]	gm	YPR047W
+tRNA(Phe)[m]	gm	YPR047W
+AMP[m]	gm	YPR047W
+diphosphate[m]	gm	YPR047W
+L-phenylalanyl-tRNA(Phe)[m]	gm	YPR047W
+ATP[m]	gm	YNL073W
+L-lysine[m]	gm	YNL073W
+tRNA(Lys)[m]	gm	YNL073W
+AMP[m]	gm	YNL073W
+diphosphate[m]	gm	YNL073W
+L-lysyl-tRNA(Lys)[m]	gm	YNL073W
+ATP[m]	gm	YDR368W
+L-lysine[m]	gm	YDR368W
+tRNA(Lys)[m]	gm	YDR368W
+AMP[m]	gm	YDR368W
+diphosphate[m]	gm	YDR368W
+L-lysyl-tRNA(Lys)[m]	gm	YDR368W
+ATP[m]	gm	YGR171C
+L-methionine[c]	gm	YGR171C
+tRNA(Met)[m]	gm	YGR171C
+AMP[m]	gm	YGR171C
+diphosphate[c]	gm	YGR171C
+L-methionyl-tRNA(Met)[m]	gm	YGR171C
+ATP[m]	gm	YKL194C
+L-threonine[m]	gm	YKL194C
+tRNA(Thr)[m]	gm	YKL194C
+AMP[m]	gm	YKL194C
+diphosphate[c]	gm	YKL194C
+L-threonyl-tRNA(Thr)[m]	gm	YKL194C
+ATP[m]	gm	YDR268W
+L-tryptophan[m]	gm	YDR268W
+tRNA(Trp)[m]	gm	YDR268W
+AMP[m]	gm	YDR268W
+diphosphate[m]	gm	YDR268W
+L-tryptophanyl-tRNA(Trp)[m]	gm	YDR268W
+ATP[m]	gm	YPL097W
+L-tyrosine[c]	gm	YPL097W
+tRNA(Tyr)[m]	gm	YPL097W
+AMP[m]	gm	YPL097W
+diphosphate[m]	gm	YPL097W
+L-tyrosyl-tRNA(Tyr)[m]	gm	YPL097W
+ATP[m]	gm	YLR382C
+L-leucine[c]	gm	YLR382C
+tRNA(Leu)[m]	gm	YLR382C
+AMP[m]	gm	YLR382C
+diphosphate[c]	gm	YLR382C
+L-leucyl-tRNA(Leu)[m]	gm	YLR382C
+ATP[c]	gm	YOL097C
+L-tryptophan[m]	gm	YOL097C
+tRNA(Trp)[c]	gm	YOL097C
+AMP[c]	gm	YOL097C
+diphosphate[c]	gm	YOL097C
+L-tryptophanyl-tRNA(Trp)[c]	gm	YOL097C
+ATP[m]	gm	YCR024C
+L-asparagine[c]	gm	YCR024C
+tRNA(Asn)[m]	gm	YCR024C
+AMP[m]	gm	YCR024C
+diphosphate[m]	gm	YCR024C
+L-asparaginyl-tRNA(Asn)[m]	gm	YCR024C
+ATP[c]	gm	YER087W
+L-proline[m]	gm	YER087W
+tRNA(Pro)[m]	gm	YER087W
+AMP[c]	gm	YER087W
+diphosphate[c]	gm	YER087W
+L-prolyl-tRNA(Pro)[m]	gm	YER087W
+N-formyl-L-kynurenine[c]	gm	YDR428C
+L-kynurenine[c]	gm	YDR428C
+formate[c]	gm	YDR428C
+10-formyltetrahydrofolate[c]	gm	YDR403W
+L-tyrosine[c]	gm	YDR403W
+N-formyl-L-tyrosine[c]	gm	YDR403W
+5,6,7,8-tetrahydrofolate[c]	gm	YDR403W
+indolepyruvate[c]	gm	YDR380W
+Indole-3-acetaldehyde[c]	gm	YDR380W
+CO2[c]	gm	YDR380W
+L-formylkynurenine[c]	gm	YJL060W
+H2O[c]	gm	YJL060W
+L-kynurenine[c]	gm	YJL060W
+formate[c]	gm	YJL060W
+N-formyl-L-tyrosine[c]	gm	YDR402C
+NADPH[c]	gm	YDR402C
+N,N-bisformyl-dityrosine[c]	gm	YDR402C
+NADP(+)[c]	gm	YDR402C
+N-formyl-L-tyrosine[c]	gm	YHR042W
+NADPH[c]	gm	YHR042W
+N,N-bisformyl-dityrosine[c]	gm	YHR042W
+NADP(+)[c]	gm	YHR042W
+O2[m]	gm	YGR255C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGR255C
+3-demethylubiquinone-9[m]	gm	YGR255C
+O2[m]	gm	YML110C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YML110C
+3-demethylubiquinone-9[m]	gm	YML110C
+O2[m]	gm	YOL096C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOL096C
+3-demethylubiquinone-9[m]	gm	YOL096C
+O2[m]	gm	YOR125C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YOR125C
+3-demethylubiquinone-9[m]	gm	YOR125C
+O2[m]	gm	YDR204W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YDR204W
+3-demethylubiquinone-9[m]	gm	YDR204W
+O2[m]	gm	YGL119W
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YGL119W
+3-demethylubiquinone-9[m]	gm	YGL119W
+O2[m]	gm	YLR201C
+2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinone[m]	gm	YLR201C
+3-demethylubiquinone-9[m]	gm	YLR201C
+acetyl-CoA[c]	gm	YOR108W
+(R)-3-methyl-2-oxobutanoate[c]	gm	YOR108W
+H2O[c]	gm	YOR108W
+coenzyme A[c]	gm	YOR108W
+3-carboxy-3-hydroxy-4-methylpentanoate[c]	gm	YOR108W
+NAD(+)[c]	gm	YLR070C
+xylitol[c]	gm	YLR070C
+NADH[c]	gm	YLR070C
+D-xylulose[c]	gm	YLR070C

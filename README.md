@@ -15,3 +15,6 @@ The source code is hosted on GitHub, so if you want to install the latest develo
 ```
 python install setup.py
 ```
+
+## Pre-compiled gene-set networks for metabolic networks
+There are some gene-set network (GSN) files and gene-set collection (GSC) files in the data directory.

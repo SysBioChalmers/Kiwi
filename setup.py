@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='KiwiDist',
-    version='0.3.1',
+    version='0.3.3',
     author='F. Gatto and L. Väremo',
     author_email=['kiwi@sysbio.se'],
     packages=['kiwi'],

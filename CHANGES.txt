@@ -25,3 +25,5 @@ v0.2.18, 2015-03-10 -- Fixed stabilization of heatmap values
 v0.2.19, 2015-03-11 -- Fixed correct handling of non-piano GSS files
 v0.3.0, 2015-03-11 -- Updated the colorbar for non-piano files to reflect the p-value
 v0.3.1, 2015-03-13 -- Removed argument prm since it is no longer used
+v0.3.2, 2016-04-29 -- Skipped version number
+v0.3.3, 2016-05-02 -- Added example input GSN and GSN files

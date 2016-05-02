@@ -60,11 +60,20 @@ For a full experience, the following files are also recommended:
 If provided, the GLS file will output a heatmap that shows which genes contributed to the significance
 of a geneset. 
 
+Available input files
+^^^^^^^^^^^^^^^^
+In the subdirectory *kiwi/data*, there are GSN and GSC for metabolite-metabolite and gene-metabolite (respectively)
+extracted from genome-scale metabolic models of the following organisms:
+
+* *Homo sapiens*, from the model `HMR2.0 <http://www.nature.com/ncomms/2014/140114/ncomms4083/full/ncomms4083.html>`_
+* *Mus musculus*, from the model `MMR <http://msb.embopress.org/content/11/10/834.long>`_
+* *Saccharomyces cerevisiae*, from the model `Yeast 7 <http://yeast.sourceforge.net/>`_
+
 Demo input files
 ^^^^^^^^^^^^^^^^
-For our example, all input files can be found in the subfolder */demo*. If you do not have this
-folder you can download the source from `Python Package Index (PyPI) <https://pypi.python.org/pypi/KiwiDist>`_, unpack it
-and find the */demo* folder inside.
+For our example, all input files can be found in the subdirectory *kiwi/data/demo*. If you do not have this
+directory you can download the source from `Python Package Index (PyPI) <https://pypi.python.org/pypi/KiwiDist>`_, unpack it
+and find the */demo* directory inside.
 
 Input file format
 ^^^^^^^^^^^^^^^^^
@@ -116,7 +125,7 @@ Once the files are ready, *Kiwi* can be run with a single command. Go to the Pyt
 	> kiwi.plot(gsn='path/to/geneset-geneset-interaction.txt', gss='path/to/geneset-analysis-results.txt',
 	            gls='path/to/gene-level-statistics.txt', gsc='path/to/gene-geneset.txt')
 	
-For our example, if your current directory is the module root folder, the call is: ::
+For our example, if your current directory is the module root directory, the call is: ::
 
 	> kiwi.plot(gsn='demo/GSN.txt', gss='demo/GSS_LUAD.txt', gls='demo/GLS_LUAD.txt', gsc='demo/GSC_LUAD.txt')
 	

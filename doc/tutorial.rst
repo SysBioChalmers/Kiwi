@@ -61,7 +61,7 @@ If provided, the GLS file will output a heatmap that shows which genes contribut
 of a geneset. 
 
 Available input files
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 In the subdirectory *kiwi/data*, there are GSN and GSC for metabolite-metabolite and gene-metabolite (respectively)
 extracted from genome-scale metabolic models of the following organisms:
 

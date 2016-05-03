@@ -57,6 +57,6 @@ open the command-prompt, navigate to the folder where the package was downloaded
 
 This command fails if the dependencies (chiefly numpy, matplotlib, networkx) are not properly installed for the Python interpreter called by the command prompt. If you are using Canopy, follow the instructions above and precede the last command with: %system.
 	
-.. image:: kiwi_logo.svg
+.. image:: kiwi_logo.png
 	:width: 200
 	:align: right

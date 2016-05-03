@@ -123,6 +123,6 @@ The following graph properties are saved in the process:
 #. *directionalityScore* (node property): a numerical attribute for nodes that scales either with the geneset p-value or directionality (see section above). 
 #. *-log10p* (node property): a numerical attribute corresponding to the geneset p-value (non-directional p-value if `piano <http://www.sysbio.se/piano/>`_ was used to generate GSA results).
 
-.. image:: kiwi_logo.svg
+.. image:: kiwi_logo.png
 	:width: 200
 	:align: right

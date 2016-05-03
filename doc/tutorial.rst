@@ -27,7 +27,7 @@ metabolites that are significant as genesets, i.e. most genes that encode for ne
 reactions are differentially expressed in case vs. control. In our example scenario, a GSA run 
 using `piano <http://www.sysbio.se/piano/>`_ produces the following (trimmed) figure:
 
-.. image:: tutorial_Fig1_LUAD.svg
+.. image:: tutorial_Fig1_LUAD.png
 	:align: center
 	
 However, metabolites are biologically connected entities by reactions. In the example above,
@@ -36,7 +36,7 @@ regulated in our case, are actually closely connected metabolites, unless you ar
 of glycosaminoglycan biology. A *Kiwi* run of these GSA results will provide you this missing
 piece of information:
 
-.. image:: tutorial_Fig2_LUAD.svg
+.. image:: tutorial_Fig2_LUAD.png
 	:align: center
 	
 Preparing the data
@@ -133,11 +133,11 @@ For our example, if your current directory is the module root directory, the cal
 	
 The following figures are then displayed in your default device:
 
-.. image:: tutorial_Fig3_LUAD.svg
+.. image:: tutorial_Fig3_LUAD.png
 	:align: center
 
 
-.. image:: tutorial_Fig4_LUAD.svg
+.. image:: tutorial_Fig4_LUAD.png
 	:align: center
 	
 You are done! Now it is time for the interpretation of results.
@@ -198,6 +198,6 @@ There are three ways you could top your experience with Kiwi:
 #. Read the :doc:`reference manual`. You will find more information on arguments and how plots are created.
 #. Contribute! Kiwi is open source. You can read the :doc:`api`, or send your suggestions or bugs to the developers.
 
-.. image:: kiwi_logo.svg
+.. image:: kiwi_logo.png
 	:width: 200
 	:align: right

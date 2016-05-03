@@ -6,7 +6,7 @@
 Welcome to *Kiwi*!
 ================================
 
-.. image:: kiwi_logo.svg
+.. image:: kiwi_logo.png
 	:width: 200
 	:align: right
 	

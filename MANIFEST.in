@@ -6,5 +6,5 @@ kiwi/classes.py
 kiwi/functions.py
 kiwi/kiwi_module.py
 include kiwi/data/*.txt
-include kiwi/data/demo/*.txt
+include kiwi/demo/*.txt
 include LICENSE.txt

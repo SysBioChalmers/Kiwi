@@ -69,7 +69,7 @@ Open the command prompt and simply issue: ::
 
 Canopy
 ^^^^^^
-If Kiwi was first installed in [https://www.enthought.com/products/canopy/ Canopy], to update the library in this environment, issue the following commands in the prompt window: ::
+If Kiwi was first installed in `Canopy <https://www.enthought.com/products/canopy/>`_, to update the library in this environment, issue the following commands in the prompt window: ::
 	
 	%system pip install KiwiDist --upgrade (-U --no-deps, if no dependencies should be upgrade)
 

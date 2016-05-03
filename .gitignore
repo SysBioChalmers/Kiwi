@@ -1,2 +1,12 @@
 # Ignore Mac DS_Store files
 .DS_Store
+
+# Ignore files related to sdist and PyPI
+MANIFEST
+dist/
+
+# Ignore files related to doc building
+doc/Makefile
+doc/_build
+doc/conf.py
+doc/make.bat

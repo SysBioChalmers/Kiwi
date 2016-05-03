@@ -69,9 +69,11 @@ extracted from genome-scale metabolic models of the following organisms:
 * *Mus musculus*, from the model `MMR <http://msb.embopress.org/content/11/10/834.long>`_
 * *Saccharomyces cerevisiae*, from the model `Yeast 7 <http://yeast.sourceforge.net/>`_
 
+An example on how these files look like is provided below, in *Input file format*.
+
 Demo input files
 ^^^^^^^^^^^^^^^^
-For our example, all input files can be found in the subdirectory *kiwi/data/demo*. If you do not have this
+For our example, all input files can be found in the subdirectory *kiwi/demo*. If you do not have this
 directory you can download the source from `Python Package Index (PyPI) <https://pypi.python.org/pypi/KiwiDist>`_, unpack it
 and find the */demo* directory inside.
 

@@ -12,8 +12,9 @@ Welcome to *Kiwi*!
 	
 The *Kiwi* module combines geneset analyses with biological networks to visualize 
 the interactions between genesets that are significant in a given biological system. 
-*Kiwi* can be found at the `Python Package Index (PyPI) <https://pypi.python.org/pypi/KiwiDist>`_ and
-it can be accessed as an online tool in the `BioMet Toolbox  <http://biomet-toolbox.org/>`_.
+Users can find *Kiwi* at the `Python Package Index (PyPI) <https://pypi.python.org/pypi/KiwiDist>`_ 
+and it can be accessed as an online tool in the `BioMet Toolbox  <http://biomet-toolbox.org/>`_. 
+Developers can find *Kiwi* in `GitHub  <https://github.com/SysBioChalmers/Kiwi/>`_.
 	
 .. toctree::
    :maxdepth: 2

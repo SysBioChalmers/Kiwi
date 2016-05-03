@@ -13,6 +13,6 @@ functions
 .. automodule:: kiwi.functions
 	:members:
 
-.. image:: kiwi_logo.svg
+.. image:: kiwi_logo.png
 	:width: 200
 	:align: right

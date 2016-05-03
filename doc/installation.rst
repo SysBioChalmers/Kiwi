@@ -57,6 +57,30 @@ open the command-prompt, navigate to the folder where the package was downloaded
 
 This command fails if the dependencies (chiefly numpy, matplotlib, networkx) are not properly installed for the Python interpreter called by the command prompt. If you are using Canopy, follow the instructions above and precede the last command with: %system.
 	
+Package update
+--------------
+There are two recommended ways to check for updates, depending on which environment was used to install *Kiwi*.
+
+Pip
+^^^
+Open the command prompt and simply issue: ::
+	
+	> pip install KiwiDist --upgrade
+
+Canopy
+^^^^^^
+If Kiwi was first installed in [https://www.enthought.com/products/canopy/ Canopy], to update the library in this environment, issue the following commands in the prompt window: ::
+	
+	%system pip install KiwiDist --upgrade (-U --no-deps, if no dependencies should be upgrade)
+
+To check the current version: ::
+	
+	%system pip show KiwiDist
+
+To check the current path: ::
+	
+	import kiwi; kiwi.__path__
+
 .. image:: kiwi_logo.png
 	:width: 200
 	:align: right

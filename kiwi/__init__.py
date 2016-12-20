@@ -4,4 +4,4 @@
 :email: kiwi@sysbio.se
 :affiliation: Department of Biological Engineering, Chalmers, Göteborg, Sweden"""
 
-from kiwi_module import plot
+from kiwi.kiwi_module import plot

@@ -6,7 +6,7 @@ Installation
 Requirements
 ------------
 
-*Kiwi* is a package built in Python 2.7 but it should work also with Python 3. Other than Python, it depends on the following packages:
+*Kiwi* was developed in Python 2.7 but should work also with Python 3. Other than Python, it depends on the following packages:
 
 * matplotlib >= 1.3.1, <=1.4.3
 * mygene >= 2.1.0

@@ -29,3 +29,4 @@ v0.3.2, 2016-04-29 -- Skipped version number
 v0.3.3, 2016-05-02 -- Added example input GSN and GSC files
 v0.3.4, 2016-05-03 -- Reverted directory structure
 v0.3.5, 2016-12-20 -- Fixed so "import kiwi" works also in python3
+v0.3.6, 2016-12-21 -- Fixed so Kiwi works also in python3

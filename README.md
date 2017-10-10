@@ -1,4 +1,5 @@
-# Kiwi <img src="doc/kiwi_logo.png" alt="Kiwi logo" width="300px"/ align="right">
+# Kiwi 
+<html><img src="doc/kiwi_logo.png" alt="Kiwi logo" width="200px"/ align="right">
 
 What is Kiwi? Kiwi combines gene-set analysis with biological networks to visualize the interactions between gene-sets that are significant in a given biological system. You can read more about this in the [publication](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0408-9) and on the [Kiwi webpage](http://www.sysbio.se/kiwi).
 
